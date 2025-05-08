@@ -1,0 +1,9 @@
+SEARCH_WORD_ON_GOOGLE_MAP_API = foot massage siam area
+SEARCH_LATITUDE = 13.746326
+SEARCH_LONGITUDE = 100.539063
+SEARCH_RADIUS = 2000
+IMAGE_NAME_PREFIX = foot-massage-central-world
+TEMPLATE_TITLE_BLOG_EN = 10 Best Foot Massage near Central World
+TEMPLATE_INTERNAL_LINK_IN_INTRO_TITLE = 10 Best Foot Massage Shops in Bangkok (2025)
+TEMPLATE_INTERNAL_LINK_IN_INTRO_URL = https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/
+TEMPLATE_INTERNAL_LINK_IN_CONCLUSION_URL = https://my-bangkok-life.com/what-is-a-thai-foot-massage/

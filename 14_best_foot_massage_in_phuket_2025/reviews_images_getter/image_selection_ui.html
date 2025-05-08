@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Best Images</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        .shop-block { margin-bottom: 32px; border: 1px solid #ccc; padding: 12px 4px; border-radius: 8px; }
+        .shop-title { font-size: 1.2em; margin-bottom: 8px; padding-left: 8px; }
+        .images-row {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 12px;
+            justify-content: flex-start;
+            overflow-x: auto;
+        }
+        .img-card {
+            border: 1px solid #aaa;
+            padding: 6px;
+            text-align: center;
+            border-radius: 6px;
+            background: #fafbfc;
+            width: 128vw;
+            max-width: 640px;
+            min-width: 360px;
+            box-sizing: border-box;
+        }
+        .img-card.selected { border: 3px solid #0074D9; background: #d0eaff; }
+        img {
+            max-width: 100%;
+            max-height: 96vw;
+            min-width: 240px;
+            min-height: 240px;
+            display: block;
+            margin: 0 auto 8px auto;
+            border-radius: 4px;
+        }
+        button {
+            margin-top: 5px;
+            font-size: 1em;
+            padding: 8px 18px;
+            border-radius: 5px;
+            border: 1px solid #0074D9;
+            background: #eaf6ff;
+            color: #0074D9;
+            cursor: pointer;
+        }
+        button:active {
+            background: #d0eaff;
+        }
+        .export-btn {
+            font-size: 1.1em;
+            margin: 18px 0;
+            padding: 10px 24px;
+            width: 90vw;
+            max-width: 400px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .selected-list {
+            margin-top: 24px;
+            font-size: 1em;
+            padding: 0 8px;
+        }
+        @media (max-width: 600px) {
+            .images-row {
+                flex-direction: row;
+                gap: 12px;
+                flex-wrap: nowrap;
+                overflow-x: auto;
+            }
+            .img-card { width: 99vw; max-width: 99vw; min-width: 360px; }
+            img { max-height: 160vw; min-height: 360px; }
+            .shop-title { font-size: 1em; }
+        }
+    </style>
+</head>
+<body>
+    <h1>Select the Best Image for Each Shop</h1>
+    <div id="shops-container"></div>
+    <div class="selected-list" id="selected-list"></div>
+    <div id="reorder-ui" style="display:none;"></div>
+    <script>
+        // --- CONFIG ---
+        // List your shop folders and images here manually if not using Python to generate
+        // const shops = [
+        //     { "name": "shop01", "images": ["image_01.png", "image_02.png", "image_03.png", "image_04.png", "image_05.png", "image_06.png", "image_07.png", "image_08.png", "image_09.png", "image_10.png"] },
+        //     { "name": "shop02", "images": [] },
+        //     { "name": "shop03", "images": ["image_01.png", "image_02.png", "image_03.png", "image_04.png", "image_05.png", "image_06.png", "image_07.png", "image_08.png"] },
+        //     { "name": "shop04", "images": ["image_01.png", "image_02.png", "image_03.png", "image_04.png", "image_05.png", "image_06.png", "image_07.png", "image_08.png"] },
+        //     { "name": "shop05", "images": ["image_01.png", "image_02.png", "image_03.png", "image_04.png", "image_05.png", "image_06.png", "image_07.png", "image_08.png", "image_09.png", "image_10.png"] }
+        // ];
+
+        let shops = [];
+
+        // Fetch shops and images from backend
+        function fetchShopsAndRender() {
+            fetch('/list_shops')
+                .then(response => response.json())
+                .then(data => {
+                    shops = data;
+                    // Restore shop order from localStorage if available
+                    if (localStorage.getItem('shopOrder')) {
+                        try {
+                            const order = JSON.parse(localStorage.getItem('shopOrder'));
+                            if (Array.isArray(order) && order.length === shops.length) {
+                                shops.sort((a, b) => order.indexOf(a.name) - order.indexOf(b.name));
+                            }
+                        } catch (e) {}
+                    }
+                    renderShops();
+                    // Restore selected cards visually after rendering
+                    for (let shop in selection) {
+                        const img = selection[shop];
+                        const shopObj = shops.find(s => s.name === shop);
+                        if (shopObj) {
+                            const idx = shopObj.images.indexOf(img);
+                            if (idx !== -1) {
+                                const cardId = `${shop}_${idx}`;
+                                const card = document.getElementById(cardId);
+                                if (card) card.classList.add('selected');
+                            }
+                        }
+                    }
+                    updateSelectedList();
+                    // Always check after all DOM updates
+                    setTimeout(checkAndShowReorderUI, 0);
+                });
+        }
+
+        // --- RENDER ---
+        function renderShops() {
+            const container = document.getElementById('shops-container');
+            container.innerHTML = '';
+            shops.forEach(shop => {
+                const block = document.createElement('div');
+                block.className = 'shop-block';
+                block.innerHTML = `<div class="shop-title">${shop.name}</div>`;
+                const row = document.createElement('div');
+                row.className = 'images-row';
+                shop.images.forEach((img, idx) => {
+                    const cardId = `${shop.name}_${idx}`;
+                    const card = document.createElement('div');
+                    card.className = 'img-card';
+                    card.id = cardId;
+                    card.setAttribute('data-shop', shop.name);
+                    card.innerHTML = `
+                        <img src="output/${shop.name}/modified/${img}" alt="${img}">
+                        <div>${img}</div>
+                    `;
+                    card.onclick = function() { selectImage(shop.name, img, cardId); };
+                    row.appendChild(card);
+                });
+                block.appendChild(row);
+                container.appendChild(block);
+            });
+        }
+
+        let selection = {};
+
+        // Load selection from localStorage if available
+        if (localStorage.getItem('imageSelection')) {
+            try {
+                selection = JSON.parse(localStorage.getItem('imageSelection')) || {};
+            } catch (e) {
+                selection = {};
+            }
+        }
+
+        function selectImage(shop, img, cardId) {
+            document.querySelectorAll('.img-card[data-shop="' + shop + '"]').forEach(card => card.classList.remove('selected'));
+            document.getElementById(cardId).classList.add('selected');
+            selection[shop] = img;
+            updateSelectedList();
+            // Save to localStorage
+            localStorage.setItem('imageSelection', JSON.stringify(selection));
+        }
+        function updateSelectedList() {
+            let html = '<h3>Current Selection:</h3><ul>';
+            for (let shop in selection) {
+                html += `<li><b>${shop}</b>: ${selection[shop]}</li>`;
+            }
+            html += '</ul>';
+            document.getElementById('selected-list').innerHTML = html;
+        }
+        function exportSelection() {
+            const orderedSelection = shops.map(shop => ({
+                shop: shop.name,
+                image: selection[shop.name]
+            }));
+            fetch('/save_json', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(orderedSelection)
+            })
+            .then(response => response.json())
+            .then(data => alert('JSON saved on server!'))
+            .catch(error => alert('Error saving JSON: ' + error));
+        }
+
+        function allBestImagesSelected() {
+            return shops.every(shop => selection[shop.name]);
+        }
+
+        function renderReorderUI() {
+            const reorderDiv = document.getElementById('reorder-ui');
+            reorderDiv.innerHTML = '<h2>Reorder Shops</h2>';
+            shops.forEach((shop, idx) => {
+                const block = document.createElement('div');
+                block.className = 'shop-block';
+                block.innerHTML = `<div class="shop-title">${shop.name}</div>`;
+                // Show best image
+                const bestImg = selection[shop.name];
+                if (bestImg) {
+                    const imgDiv = document.createElement('div');
+                    imgDiv.className = 'images-row';
+                    imgDiv.innerHTML = `
+                        <div class="img-card" style="width: 50vw; max-width: 50vw; min-width: 180px;">
+                            <img src="output/${shop.name}/modified/${bestImg}" alt="${bestImg}" style="max-width: 50%; min-width: 120px; min-height: 120px; max-height: 48vw;">
+                            <div><b>${bestImg}</b> <span style='color:#0074D9'>(Best Image)</span></div>
+                        </div>
+                    `;
+                    block.appendChild(imgDiv);
+                }
+                // Add select box for position
+                const select = document.createElement('select');
+                for (let pos = 1; pos <= shops.length; pos++) {
+                    const opt = document.createElement('option');
+                    opt.value = pos - 1;
+                    opt.textContent = `Move to position ${pos}`;
+                    if (pos - 1 === idx) opt.selected = true;
+                    select.appendChild(opt);
+                }
+                select.onchange = function() {
+                    moveShop(idx, parseInt(this.value));
+                };
+                block.appendChild(select);
+                // Add delete button
+                const deleteBtn = document.createElement('button');
+                deleteBtn.textContent = 'Delete';
+                deleteBtn.style.marginLeft = '12px';
+                deleteBtn.onclick = function() {
+                    deleteShop(idx);
+                };
+                block.appendChild(deleteBtn);
+                reorderDiv.appendChild(block);
+            });
+            // Add export button at the end of reorder UI
+            const exportBtn = document.createElement('button');
+            exportBtn.className = 'export-btn';
+            exportBtn.textContent = 'Export Selection as JSON';
+            exportBtn.onclick = exportSelection;
+            reorderDiv.appendChild(exportBtn);
+            reorderDiv.style.display = 'block';
+            // Save order to localStorage
+            localStorage.setItem('shopOrder', JSON.stringify(shops.map(s => s.name)));
+        }
+
+        function moveShop(fromIdx, toIdx) {
+            if (fromIdx === toIdx) return;
+            const shop = shops.splice(fromIdx, 1)[0];
+            shops.splice(toIdx, 0, shop);
+            renderReorderUI();
+            renderShops();
+            // Restore selected cards visually after rendering
+            for (let shopName in selection) {
+                const img = selection[shopName];
+                const shopObj = shops.find(s => s.name === shopName);
+                if (shopObj) {
+                    const idx = shopObj.images.indexOf(img);
+                    if (idx !== -1) {
+                        const cardId = `${shopName}_${idx}`;
+                        const card = document.getElementById(cardId);
+                        if (card) card.classList.add('selected');
+                    }
+                }
+            }
+        }
+
+        function deleteShop(idx) {
+            const removed = shops.splice(idx, 1)[0];
+            // Remove from selection as well
+            delete selection[removed.name];
+            // Update localStorage
+            localStorage.setItem('imageSelection', JSON.stringify(selection));
+            localStorage.setItem('shopOrder', JSON.stringify(shops.map(s => s.name)));
+            renderReorderUI();
+            renderShops();
+            updateSelectedList();
+            setTimeout(checkAndShowReorderUI, 0);
+        }
+
+        // --- INIT ---
+        fetchShopsAndRender();
+        // Watch for all best images selected
+        function checkAndShowReorderUI() {
+            if (allBestImagesSelected()) {
+                document.getElementById('reorder-ui').style.display = 'block';
+                renderReorderUI();
+            } else {
+                document.getElementById('reorder-ui').style.display = 'none';
+            }
+        }
+        // Patch selectImage to check after each selection
+        const origSelectImage = selectImage;
+        selectImage = function(shop, img, cardId) {
+            origSelectImage(shop, img, cardId);
+            checkAndShowReorderUI();
+        }
+        // On load, check if all best images are already selected
+        checkAndShowReorderUI();
+    </script>
+</body>
+</html>

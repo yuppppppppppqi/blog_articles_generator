@@ -1,0 +1,82 @@
+Summarize the first shop (Kinnaree Massage) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "17_best_foot_massage_in_koh_tao_2025/contents/03_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Manara Massage (Royal thaï massage)
+・Rating: 4.6
+・Highlights: Serene ambiance enhanced by essential oil scents; skilled therapists adept at identifying and relieving problem areas; customizable pressure levels (soft to strong); complimentary tea offered post-massage.
+・Price: Good value for money (based on reviews).
+・Recommended: Couples, individuals seeking targeted massage therapy tailored to pressure preferences, or those looking for excellent value.
+
+Koh Tao Island massage
+・Rating: 4.4
+・Highlights: Prime beachfront setting ideal for sunset views and relaxation with wave sounds; skilled application of soothing ointments (like Tiger Balm); reputed for effective foot massages; nail services also available.
+・Price: Around 300 THB for a 1-hour aromatherapy massage (based on one review).
+・Recommended: Those desiring a massage with scenic ocean views and sounds, particularly foot massages or aromatherapy. May be less suitable for those needing high privacy or complete silence.
+
+Kinnaree Massage
+・Rating: 4.6
+・Highlights: Exceptionally skilled therapists known for therapeutic results, including improving mobility; clean, calm, and inviting atmosphere; offers a diverse range of effective massages (Aloe Vera highlighted); post-massage tea service enhances the experience.
+・Price: Fair price (based on reviews).
+・Recommended: Visitors with specific muscle pain or back issues, those seeking highly skilled therapeutic massage, and repeat customers valuing consistency.
+
+Mai Thai Health Massage
+・Rating: 4.6
+・Highlights: Highly professional and skilled therapists, especially proficient in addressing injuries and sore spots; combines strong and precise techniques; clean, air-conditioned space with relaxing jazz music; complimentary tea provided after massage.
+・Price: Reasonably priced (based on reviews).
+・Recommended: Individuals seeking professional, skillful massage, particularly those with specific aches, pains, or injuries requiring focused attention.
+
+Massage koh tao supakorn
+・Rating: 4.6
+・Highlights: Consistently excellent massages, especially Aloe Vera and Thai Oil, delivered by skillful and attentive staff; relaxing atmosphere aided by calming music; personalized service including post-massage tea; features strong therapists like Mai known for relieving soreness.
+・Price: Around 400 THB for a 1-hour Thai Oil massage (based on one review); Aloe Vera massage noted as gentle.
+・Recommended: Those seeking skillful Aloe Vera massage (especially after sun exposure) or a strong, effective Thai Oil massage; appreciated by repeat visitors for consistency.
+
+Paradise Massage
+・Rating: 4.5
+・Highlights: Prime beach location offering massages accompanied by soothing wave sounds; friendly and accommodating staff provide a no-frills, authentic experience; recognized for providing good value massages.
+・Price: Good value / Affordable (based on reviews).
+・Recommended: Visitors prioritizing a beachside ambiance and affordability over luxury amenities or strict privacy; favored by regulars familiar with specific therapists.
+
+Kayo healing massage
+・Rating: 4.5
+・Highlights: Highly-rated massages, particularly foot massage incorporating reflexology (therapist Spi noted) and effective Thai massage (specific male therapist recommended); prime beachfront location with sea views; friendly service includes post-massage tea; very reasonable prices. Also offers quality nail services with a view.
+・Price: Around 300 THB for 1hr massage (consistently mentioned in reviews).
+・Recommended: Those seeking excellent value massages, especially foot reflexology or strong Thai massage, combined with a beachfront setting. Also suitable for quality nail services with a view.
+
+Familly Thai Massage
+・Rating: 4.6
+・Highlights: Consistently exceptional and professional massages from therapists often described as having "magical hands"; known for providing deep relaxation and effectively targeting sore spots; comfortable, quiet, and well-maintained environment.
+・Price: Good value / Reasonably priced (based on reviews).
+・Recommended: Visitors seeking top-tier, highly professional massages focused on deep relaxation and pain relief.
+
+Majestic Spa
+・Rating: 4.3
+・Highlights: Offers a spa-like experience with professional service and attention to detail (intake forms, changing rooms, lockers, post-massage tea/towel); highly skilled therapists provide effective massages (Thai, foot, back); clean, beautiful facilities with comfy beds; Tiger Balm included in Thai massages.
+・Price: Higher-end price, reflecting spa amenities (based on reviews suggesting it's "worth the price").
+・Recommended: Those seeking a more luxurious spa experience with extra amenities, focusing on professionalism and comfort; effective for relieving desk job-related muscle knots. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Kinnaree Massage	4.6	121	https://places.googleapis.com/v1/places/ChIJo679rW2hVTARmDnaUjlUwcs/photos/AeeoHcKTakNpPt39hXuRzdYqrxFAL_8gsPW62-DidwL3gDrFG83x-en8wrq3505c47xyThStJ_pee-CyVF6r0IV3ivHFFt_SQUNu5yeHMJyZRQcCftB65YOyBwDMzgIgIpmNWWbMFrtD0lT8AimOv2Xa2ny2A6GIxRFyF3j-RnsvOGDq2mwIQYOYQOVCBYTEjwVx16te3XgDJNh1FgbUq4l-iHRwxQ7FUmcE6ugH7Q_A4g4yw_TcGNQrM5d6kZlIpVRZ6zh3HHmY-04oh0qeqarHS_PZXlP3KTkhJzSFWr1gmW3i1K_fyCQFq542yjxqYMswMAbUv8FkSC6IHIB_NvYcMluhbU3k2qidd-XSDqx4YzMllrJyL7q0QNN9hscKByofDe-y2l2f01QwGlMJXX0PAFPkoRGWwfkgua4Mxhu4-37Z0g/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJo679rW2hVTARmDnaUjlUwcs/photos/AeeoHcLE8_Lch47hxJgi2B-LRg9q3tgMt99Jz_pfZo9othn2kDxMEdE3miUaOgoGA7R1-DR_FpXie_xsQ7oRQWyILVutIJMAQUV16uIP3Wy4s21VUTqVLqBJh0DPabnP1mKxdc-tzN4edZHERGQZqfeiruJ3iiAFIpk7-ARcrX0dsytsxzCd4wrZXcR3eJEVU5TQxzpb3nskEqzzlb65WWDJKV7OMhFzoPbjJFgwWKKtTSNisLIh2I-u8_05rpDCr-jcMZH0r4yEjizI5fy-sFhpnk0TBgj-DRO3ghLogqiqDvxLQAjsrRmXO2UGq-q33zJViOVR34E4gGJbLOJOjt1gJ3mBsrdzd3v5fTy4aSBYftDCKPdzhlufdsMLl3Oa5aD6IZRVMX1LVmVABFn9YhKf5Icbi6aQ5tGm7aRzKahPgY8/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJo679rW2hVTARmDnaUjlUwcs/photos/AeeoHcLg4oXHIPp-_jtTxlTz6VPEnIRm2eOQYjneRAbNYGBnNaUdBHioQVdt7zLVEqDfMTStmInD2qSBv1nLModm2lcdIQAtNS3oRX7ol10n23UDpr23XKnFotsOZdt5rT9NDnmSLewBmmPqpeLxLaw12JV2MwePGktCL03FvPUZBwEslGXyI9EgTZMiVSVYTaWZWoSYGtRNPzDFPDU__9OyzsF2nlXYsjEY98OIERTkGxGy_2KR1XxTiHc52eCpFCufhGa84HGxIgbjIPp83zwO39MS9cu1YKoVOKz_6LxFZp45KICt_nvfYk3y1WhM-jqFH9oQCVSU1OYbiHpfVg53v80FigguB0gUOCOeG87_evZHtF4MYk0Sz87-iqz2l-JfKydMEAalYGrSSetH-lZ8Th2PoLYF1rSbHbVWwXnsnsC7Ito/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJo679rW2hVTARmDnaUjlUwcs	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo679rW2hVTARmDnaUjlUwcs&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo679rW2hVTARmDnaUjlUwcs&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Daniel Shay31 reviews · 88 photosa year ago Wonderful massage  very sweet staff and great service. We stayed 3 nights and were here 3 times ❤️ We had foot massage  shoulder and back  mani pedi and head massage and can … MoreLike1 Share	Jayde Desprez-LinLocal Guide · 37 reviews · 18 photos2 weeks ago New Very unprofessional  we walked in for a massage and were told to come back in one hour  I asked if one hour and 10 minutes is ok and she said yes no problem. … MoreLike1 Share	André SchuhmannLocal Guide · 6 reviews · 14 photosa month ago Today i had an Aloe Vera massage there and it was definitely the best massage I ever had. And I had a lot of massages regarding my back problems within the last 15 years. … MoreLike Share	Daniel Brightwell4 reviews3 months ago After a month of travelling and trying different places. I found myself having the best massages at Kinnaree. Staff very polite and always have tea ready after you finish your massageLike1 Share	Kelly Gill42 reviews · 39 photos6 months ago I got an excellent foot (and leg) massage on a rainy day. The masseuse was very kind and friendly. She applied the perfect amount of pressure. The premises are calm  inviting and clean. This was my second time there.Like1 Share	Marcial SommerLocal Guide · 17 reviews · 10 photos5 months ago I had a pinched muscle in my upper spine with very limited head mobility and she did an amazing job!! She basically fixed me. Very professional  cozy  clean and calm environment. Would 100% recommend.Like1 Share	K. KentalaLocal Guide · 78 reviews · 42 photos4 months ago I definitely just had the most insane Thai massage ever in life. By insane I mean heavenly. Moany (apologies if spelled wrong ) was beyond skilled and felt like my physical therapist and massage therapist had the best baby in the world. … MoreLike1 Share	Marine B.Local Guide · 13 reviews3 months ago I had head massage with Naam  she has pure gold in the hands  it was amazing (and I consider myself difficult to satisfy) Best massage in Thaïlande for sure (it was my 4th) Thank you 🥰 …Like1 Share	Leonid Karabeshkin2 reviews · 4 photosa year ago This is the best massage in Koh Tao! Very professional staff! We come to Koh Tao every year specially for a course of this massage. We love You! Thank You so much and see You next year!Like1 Share	טום רוסוLocal Guide · 80 reviews · 63 photos3 months ago The best massage that I had in Ko Tao  professional  fair price  parking place  sometimes there is a waiting time to get in.Like1 Share	Wonderful massage  very sweet staff and great service. We stayed 3 nights and were here 3 times ❤️ We had foot massage  shoulder and back  mani pedi and head massage and can …	Very unprofessional  we walked in for a massage and were told to come back in one hour  I asked if one hour and 10 minutes is ok and she said yes no problem. …	Today i had an Aloe Vera massage there and it was definitely the best massage I ever had. And I had a lot of massages regarding my back problems within the last 15 years. …	After a month of travelling and trying different places. I found myself having the best massages at Kinnaree. Staff very polite and always have tea ready after you finish your massage	I got an excellent foot (and leg) massage on a rainy day. The masseuse was very kind and friendly. She applied the perfect amount of pressure. The premises are calm  inviting and clean. This was my second time there.	I had a pinched muscle in my upper spine with very limited head mobility and she did an amazing job!! She basically fixed me. Very professional  cozy  clean and calm environment. Would 100% recommend.	I definitely just had the most insane Thai massage ever in life. By insane I mean heavenly. Moany (apologies if spelled wrong ) was beyond skilled and felt like my physical therapist and massage therapist had the best baby in the world. …	I had head massage with Naam  she has pure gold in the hands  it was amazing (and I consider myself difficult to satisfy) Best massage in Thaïlande for sure (it was my 4th) Thank you 🥰 …	This is the best massage in Koh Tao! Very professional staff! We come to Koh Tao every year specially for a course of this massage. We love You! Thank You so much and see You next year!	The best massage that I had in Ko Tao  professional  fair price  parking place  sometimes there is a waiting time to get in.	ChIJo679rW2hVTARmDnaUjlUwcs

@@ -1,0 +1,88 @@
+Summarize the first shop (Pu body scrub & massage) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "15_best_foot_massage_in_krabi_2025/contents/04_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Massage Corner
+・Rating: 4.8
+・Highlights: Renowned for its relaxing atmosphere, highly skilled and welcoming staff providing exceptional service. Offers a wide range of treatments including traditional Thai, foot, oil massages, and specialized packages like 'Office Syndrome'. Features unique outdoor foot massages amidst greenery and complimentary refreshments. Consistently rated as one of the best massage experiences in Thailand by repeat visitors.
+・Price: Affordable
+・Recommended: Visitors seeking a highly professional, relaxing, and comprehensive massage experience with thoughtful extras. Ideal for those wanting specific treatments like the 'Office Syndrome' package or outdoor foot massages.
+
+The Blue Spa & Massage @Aonang Krabi Thailand
+・Rating: 4.8
+・Highlights: Offers luxurious multi-hour spa packages like the couples special. Known for immaculate cleanliness, outstanding staff, and high-quality, therapeutic massages (Thai and oil). Provides thoughtful touches like tea and cookies. Knowledgeable reception helps choose the right treatment.
+・Price: Mid-range to Premium (Value-focused for quality)
+・Recommended: Couples or individuals seeking a high-quality, clean, and professional spa experience with longer package options. Good for those who appreciate knowledgeable staff guidance.
+
+Lazy Dayz Massage
+・Rating: 4.8
+・Highlights: Praised for its clean, peaceful, and relaxing environment with professional staff. Offers good value massages. Unique combination of massage parlor with a selection of weed and clothing available. Staff noted for being helpful and English-speaking. (Note: Some mixed reviews on massage consistency).
+・Price: Budget-friendly
+・Recommended: Travellers looking for a relaxed, budget-friendly massage in a clean environment, potentially interested in the adjacent shop offerings. Good for those who value helpful, English-speaking staff.
+
+Pu body scrub & massage
+・Rating: 4.6
+・Highlights: Offers a range of massages including effective back/shoulder/head and foot massages, incorporating stretching. Known for being professional, clean, and affordable with good customer service. Therapists noted for attentiveness (e.g., caring for minor wounds) and providing strong pressure when requested.
+・Price: Affordable
+・Recommended: Guests seeking affordable, clean, and effective massages, particularly those who appreciate strong pressure or attentive therapists. Ideal for repeat visits due to value. (Note: Some inconsistency in experience reported).
+
+Jane & June Massage
+・Rating: 4.8
+・Highlights: Highly-rated family-run business offering comprehensive packages and individual services (massage, waxing, nails). Known for exceptional service, including free hotel transport and welcome drinks. Features a spotlessly clean, beautiful environment and highly skilled, professional, and friendly staff who tailor pressure.
+・Price: Mid-range (Good value for service level)
+・Recommended: Visitors looking for a full-service spa experience (massage, nails, waxing) with excellent customer care, cleanliness, and convenience (free transport). Ideal for those wanting tailored, professional massages in a beautiful setting.
+
+Kaohom Massage
+・Rating: 4.4
+・Highlights: Highly regarded by some for professional, skilled, and effective Thai massages, particularly good at working out knots and chronic pain. Therapists noted for strength and hitting the right spots. Considered a hidden gem by repeat visitors offering fair prices. Kom praised for foot massages. (Note: Experiences vary, potential for inconsistency in service/atmosphere).
+・Price: Budget-friendly / Fair
+・Recommended: Individuals seeking strong, effective, therapeutic massages at fair prices, especially for back/shoulder knots or foot relief (ask for Kom). Best suited for those prioritizing massage skill over luxurious ambiance.
+
+SANKARA - Traditional Thai Massage & Nail Spa
+・Rating: 4.6
+・Highlights: Popular spot excelling in nail services (manicures, pedicures, nail art) with highly skilled, precise, and professional technicians. Also offers quality traditional Thai massages and other treatments in a clean, modern setting with good AC. Staff are friendly and English-speaking.
+・Price: Mid-range (Variable based on service/pressure)
+・Recommended: Primarily for those seeking high-quality nail services (manicures, pedicures, gel, art). Also a solid choice for massages and other treatments in a busy, clean, and professional environment.
+
+Dee Dee Massage
+・Rating: 4.2
+・Highlights: Centrally located shop offering professionally skilled massages at reasonable prices, often considered better value than pricier spas. Known for friendly, English-speaking owners and specific skilled therapists (e.g., P'Pan). Features a clean, aromatic atmosphere and stays open late, with happy hour deals available. (Note: Some mixed reviews on service consistency).
+・Price: Budget-friendly
+・Recommended: Visitors in central Ao Nang looking for good value, skilled massages without the frills of high-end spas. Good for late-night sessions or those seeking specific recommended therapists.
+
+Nature Garden Massage by PURE Krabi
+・Rating: 4.9
+・Highlights: Offers a unique and highly-rated massage experience in a serene outdoor garden setting amidst nature sounds. Known for exceptional hospitality from the owner (Pu) and highly skilled therapists (e.g., Ya). Provides a tranquil, authentic atmosphere with options like coconut scrubs and oil massages, complemented by delicious tea. Booking recommended.
+・Price: Mid-range to Premium (Experience-focused)
+・Recommended: Nature lovers and those seeking a unique, tranquil, and high-quality massage experience away from typical indoor salons. Ideal for deep relaxation and escaping into a peaceful environment.
+
+Baanthai Massage
+・Rating: 4.5
+・Highlights: Known for being hygienic, professional, and offering a range of services including massages and competent nail care (pedicure, gel polish) at good prices. Provides private rooms and comfortable garments for Thai massages. Therapists like Sue and Taen are highlighted for their skill and attentiveness. Family and group-friendly. (Note: One very negative review contrasts with mostly positive feedback).
+・Price: Budget-friendly / Good Value
+・Recommended: Individuals, families, or groups looking for clean, professional, and good-value massages and nail services. Good choice for those who appreciate skilled therapists and private rooms. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Pu body scrub & massage	4.6	568	https://places.googleapis.com/v1/places/ChIJLU4kTnnBUTAR0xqOS8mH6mw/photos/AeeoHcLIpHoj1q7e_95QrKoygIlhIOW0h5QaqDZuqq_23uqqijfAAn--GvkJ_a3sP6UQB-Ds_Evel4CPtGCyyl6rtuOdS28AgNLsUtsjHemoovppxnbEpp3skPeEjQBzMHF4v0AGH8m7NvvcItggikoiX3BKuIBXU58fRj781xmZ_5_sf_UHngpV_8KrCXFBAPBtbUAQOYp6rePnHL3y9ktjbWLC32Jdt1xwIk2nYXue7apNgMg6lxi8GK_cmL7qjXZjouhYrVJJppGJg6MC8Glh0qJ_EfRSTuW5wmbE5zmesruzyA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJLU4kTnnBUTAR0xqOS8mH6mw/photos/AeeoHcKmJF9Nv6zFkmOrgBzg9fLgmhg39t7cyprsLcSxaxnImI8EaUH-hWxyqJ5LNYW5I_TpeE-gFAujUGRENMu-uVSBWp2R5mXAqdqFoRP_AQ65fZJQ2oVbBgUea0_gL9j_ADWgjTV_YW4oEegGPQQ_I-PnCQo-Mw73PFKODAhlvBVmHnanZ1EwQtUg6Xn8t8v81eitqWjJgRWkzw8ZfYpjdHfGGPUKV82a2IO7bRvmNBYIa7nD2pSsZquGnf3dCJlnOdLt2haPSnUzK_ORF5qh9xw0TBYa2Ugxpxp2ZNmfN_2bDQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJLU4kTnnBUTAR0xqOS8mH6mw/photos/AeeoHcJnVuURAxh5f9jc-T4Zj5RwZywKonI0h_fGdLvl7JQkpSaoCblorDV4-8lOhjhFPuvlfkk5r1kMmMlSI8h4WtBRegGGJSqJcc5iIl1eXpJQyvNMb4cPyPa71n7hvcdZwrr8reYZWlV7W3FZDQzU6eJTXRe3AezRIhTgj-EvavwJ8SULrntammU_DPKWZPgZyPa75erVGThMgfTovit409dLgyPuKRkn8UaSzH0HxGngsmD9vMkGwC9mECsEkbpd7xt4pZMRVXaQUhL_rME4bj-Xv8TAahEy7jDv2ObyXEgQDecNgmxZjaQMYkNeW0PZhUUA6NK9bOFahLPk7Kw_OAriYRCuGeVOjGlurnipUYaDxVG50tvp-8Y06AvrSTodnd3j8DX89si6Fw0Gnki9e1_d_0u3tCsVP_BgNfDgfXlGAERH/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJLU4kTnnBUTAR0xqOS8mH6mw	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJLU4kTnnBUTAR0xqOS8mH6mw&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJLU4kTnnBUTAR0xqOS8mH6mw&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Natalia TikhonravovaLocal Guide · 20 reviews · 19 photos3 months ago I had back  shoulders and head massage. I like it  she even stretched me a bit which was quite good after Pilates. Atmosphere was calming and chill. Prices are affordable. I’ll definitely go one more time for massage.Like Share	sheree keight8 reviews · 3 photos3 months ago Highly recommend - very professional and clean. Had a foot massage and my husband had back  neck and shoulders and it was that good that we came 2 nights in a row! … MoreLike Share	yash rajLocal Guide · 36 reviews · 14 photosa month ago no complains for the messages  me and my wife tried traditional thai massage and traditional thai massage with hot oil. Costed 650 thb and we both came out completely satisfied and relaxed. … MoreLike Share	Jing Xuan Yap8 reviews · 3 photos2 months ago Did foot massage two days in a row here  shout out to Box for the amazing work and great attentiveness. Super friendly as well! Had a minor wound and some bruises  he noticed and took care to be extra careful around those areas.Like Share	Martyna Buckowska4 reviewsa month ago We were excited to visit this place due to its high Google reviews. However  my experience left me quite disappointed. With over 20 years in the beauty industry  I have a good understanding of massage techniques  and unfortunately  the … MoreLike Share	Irina RLocal Guide · 17 reviews · 3 photosa month ago I had a reflexology massage. Decent massage  although I expected that it would be solely focused on the feet and not the leg below the knee  which is commonly called foot massage in Thailand. This was a standard foot massage  not much … MoreLike Share	Cheryl KeenLocal Guide · 42 reviews · 47 photosa month ago Finally a nice strong massage in thailand! After a few less firm ones in Bangkok it was super to have a great 30/30 foot/back massage. Ben was fantastic and my partners was also. Would recommendLike Share	Maxence Poulin5 reviewsa month ago Don’t go to this parlor  I’ve received the worst massage of my life. I stopped halfway through. The atmosphere is bad. They massage you in the basement with a very loud noise. The massage technique is horrible. My therapist’s hands were so … MoreLike1 Share	Mo Asghar10 reviewsa month ago I’ve had many massages in my visit to Krabi  including the spa at my resort  but Pu is definitely the best in town. I had back-to-back Thai massage and foot massage. Added bonus is the impeccable customer service.Like Share	Sharon TLocal Guide · 431 reviews · 2 339 photosa year ago If you are looking for a good place for a massage  this is it. We came were twice. Affordable and clean. There are many beds (floor as well as on massage tables) that are separated by curtains. Tried their aromatherapy massage which was 400 … MoreLike5 Share Response from the owner a year agoThank you so much and please accept my sincere apologies for my mistake🙏🏻Please come back again. We will make it better.❤️ …	I had back  shoulders and head massage. I like it  she even stretched me a bit which was quite good after Pilates. Atmosphere was calming and chill. Prices are affordable. I’ll definitely go one more time for massage.	Highly recommend - very professional and clean. Had a foot massage and my husband had back  neck and shoulders and it was that good that we came 2 nights in a row! …	no complains for the messages  me and my wife tried traditional thai massage and traditional thai massage with hot oil. Costed 650 thb and we both came out completely satisfied and relaxed. …	Did foot massage two days in a row here  shout out to Box for the amazing work and great attentiveness. Super friendly as well! Had a minor wound and some bruises  he noticed and took care to be extra careful around those areas.	We were excited to visit this place due to its high Google reviews. However  my experience left me quite disappointed. With over 20 years in the beauty industry  I have a good understanding of massage techniques  and unfortunately  the …	I had a reflexology massage. Decent massage  although I expected that it would be solely focused on the feet and not the leg below the knee  which is commonly called foot massage in Thailand. This was a standard foot massage  not much …	Finally a nice strong massage in thailand! After a few less firm ones in Bangkok it was super to have a great 30/30 foot/back massage. Ben was fantastic and my partners was also. Would recommend	Don’t go to this parlor  I’ve received the worst massage of my life. I stopped halfway through. The atmosphere is bad. They massage you in the basement with a very loud noise. The massage technique is horrible. My therapist’s hands were so …	I’ve had many massages in my visit to Krabi  including the spa at my resort  but Pu is definitely the best in town. I had back-to-back Thai massage and foot massage. Added bonus is the impeccable customer service.	If you are looking for a good place for a massage  this is it. We came were twice. Affordable and clean. There are many beds (floor as well as on massage tables) that are separated by curtains. Tried their aromatherapy massage which was 400 …	ChIJLU4kTnnBUTAR0xqOS8mH6mw

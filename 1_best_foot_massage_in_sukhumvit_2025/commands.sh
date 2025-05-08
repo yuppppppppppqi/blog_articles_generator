@@ -1,0 +1,5 @@
+python create_prompts_shop_reviews.py
+
+python create_prompts_shop_summaries.py
+
+python create_prompts_shop_summaries.py

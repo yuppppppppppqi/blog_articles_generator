@@ -1,0 +1,39 @@
+Write an engaging introduction for a blog post titled [BKK] 10 Best Foot Massage near Central World.
+
+Guidelines:
+	•	Write in natural, personal blog style, like it's written by someone who actually lives in Bangkok.
+	•	Use simple and easy English, suitable for non-native English speakers.
+	•	The target audience is:
+		1.	Travelers visiting Thailand
+		2.	Expats living in Thailand
+		The intro should be appealing and relatable to them.
+	•	The author has lived in Bangkok for 3 years, and this local experience should feel like a trustworthy point.
+	•	The SEO keywords are: "Foot Massage" and "Central World" — include both naturally.
+	•	The intent is informational (not salesy or promotional).
+	•	Word count should be 80-100 words.
+	•	If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags naturally. do this 4-6 times. do this at least 1 time in the first paragraph.
+    •	Do not add any introductions or any closing statements.
+    •	add new lines in once 2-3 sentences for better readability.
+    •   insert a link of my another article. the title is 10 Best Foot Massage Shops in Bangkok (2025)
+    •   Wrap the paragraph with this format: <!-- wp:paragraph --><p>...your sentence here...</p><!-- /wp:paragraph -->
+    •   Mention that all shops have more than 200+ reviews.
+
+Inserting a link:
+    Naturally insert a link to the related article using the following format:
+    <p>[Write a short, engaging sentence that encourages the reader to learn more, and include a link like this: <a href="https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/">[custom anchor text]</a>.]</p>
+    On the next line, also include this WordPress embed block:
+    
+    <!-- wp:paragraph -->
+        <p>
+        <!-- wp:embed {"url":"https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+            <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+                <div class="wp-block-embed__wrapper">
+                    https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/
+                </div>
+            </figure>
+        <!-- /wp:embed -->
+        </p>
+    <!-- /wp:paragraph -->
+
+Output:
+intro.html

@@ -1,0 +1,82 @@
+Summarize the first shop (Pure Relax Thong Sala) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "16_best_foot_massage_in_koh_phangan_2025/contents/08_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Sri Pai Massage
+・Rating: 4.9
+・Highlights: Exceptionally skilled therapists who excel at identifying and resolving problem areas and trigger points. Known for thoroughness, use of effective balms (available for purchase), and genuinely sweet, kind staff. Offers complimentary yummy tea in a humble yet functional setting. Consistently rated as one of the best massages in Thailand by experienced travelers.
+・Price: Standard/Affordable (mentioned as "unbeatable")
+・Recommended: Visitors seeking high-quality, personalized therapeutic massages at great value, appreciating a warm, authentic atmosphere over luxury.
+
+Pure Relax Sri Thanu
+・Rating: 4.8
+・Highlights: Features therapists with strong hand power, effective at relieving deep fatigue. Praised for clean facilities, professional/friendly staff, and relaxing music. Offers a variety of massages including quality oil and balm options, skillfully finding tension spots. Provides both strong and gentle approaches.
+・Price: Standard
+・Recommended: Guests looking for reliable, professional massages (especially oil/balm) in a clean, well-designed environment. Booking in advance is often necessary, particularly later in the day.
+
+REVIVE Massage
+・Rating: 4.6
+・Highlights: Staffed by highly professional, attentive, and precise therapists (Tum, Bella, Som Si, With specifically mentioned). Bella noted by a massage therapist for finding all tension areas and working deep on fascia. Offers specialized treatments like Facelift Massage. Cozy atmosphere with post-massage tea and fruit. Known for targeted therapeutic work on back/shoulders.
+・Price: Standard (stable pricing noted)
+・Recommended: Individuals needing focused therapeutic massage for specific pain points, massage connoisseurs appreciating precision, or those interested in unique treatments like Facelift Massage.
+
+San Rak Health massage
+・Rating: 5.0
+・Highlights: Universally praised for its incredibly warm, friendly, and professional team creating a welcoming, safe atmosphere. Features "healer" level therapists (Mama Mouse, Pipon, Ratporn) who provide blissful, effective massages without causing pain. Exceptional Thai body and foot massages noted. Caters well to those with sensitive nervous systems. Beautiful energy in the shop.
+・Price: Standard/Affordable (mentioned as "great")
+・Recommended: Anyone desiring a deeply caring, relaxing, yet highly effective massage, especially recommended for outstanding foot massages or those sensitive to aggressive techniques.
+
+Boonma Health Massage
+・Rating: 4.8
+・Highlights: Offers a welcoming, positive, and peaceful atmosphere. Masseuses (Sao mentioned) are noted for being strong, attentive, and professional, applying perfect pressure for relaxation. Excellent foot & shoulder massages. Praised for cleanliness, well-trained staff, and providing relaxing tea. Also offers spa services like body scrubs and waxing.
+・Price: Standard/Affordable (mentioned as "not expensive")
+・Recommended: Guests seeking a strong yet deeply relaxing massage in a calm, clean setting. Particularly good for foot/shoulder work and as a preferred alternative to Pure Relax for some due to stronger pressure.
+
+Pure Relax
+・Rating: 4.6
+・Highlights: Long-established salon with a reputation built over many years. Features skilled, professional, and experienced practitioners (JJ mentioned) offering good oil and Thai massages. Known for spa packages and ability to address specific issues. Convenient location with parking. Popular spot, booking recommended especially in high season.
+・Price: Standard/Loyal Prices
+・Recommended: Visitors seeking a reputable, well-established salon with diverse services including spa packages. Good for repeat visitors or those booking planned treatments. (Note: Some recent reviews mention inconsistency/service issues).
+
+Amatrra Massage
+・Rating: 4.8
+・Highlights: Home to highly skilled masseuses, including Pon, noted as a "true healer" expert at finding hidden spots and relieving pain/muscle knots. Offers excellent foot massages with perfect pressure in comfy seats. Provides strong, effective, yet relaxing Thai massages balancing strength and softness. Calm atmosphere with a lovely team, serving tea/water after.
+・Price: Standard
+・Recommended: Individuals with specific muscle knots or tension needing expert attention, or those seeking a top-tier foot massage in a relaxing environment. Popular with expats.
+
+Pure Relax Thong Sala
+・Rating: 4.7
+・Highlights: Therapist "Day" is highly recommended, especially for 2-hour Thai massages. Staff are knowledgeable, professional, and attentive, knowing where extra work is needed. Features a clean environment with a pleasant smell and relaxing hot tea post-massage. Offers sports massages for those wanting firmer pressure. Located centrally in Thong Sala.
+・Price: Standard (300 baht mentioned for Thai)
+・Recommended: Centrally located visitors in Thong Sala seeking skilled Thai or sports massages, particularly longer sessions. Honest staff noted for returning a lost phone. (Note: Some recent reviews mention shared rooms impacting privacy).
+
+Double B Health Massage
+・Rating: 4.9
+・Highlights: Delivers a perfect blend of relaxation and therapeutic precision. Masseuses (Owner View/Wiu, Mo mentioned) are highly skilled, kind, and friendly, providing strong but not painful pressure tailored to individual needs. Very effective at relieving significant pain (e.g., shoulder/thigh). Warm, welcoming, quiet atmosphere. Excellent Thai, oil, and foot massages reported.
+・Price: Standard/Affordable
+・Recommended: Guests looking for massages that are both deeply relaxing and therapeutically effective, especially those who prefer strong but comfortable pressure to address pain or tension. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Pure Relax Thong Sala	4.7	574	https://places.googleapis.com/v1/places/ChIJtxpiawL_VDARjPnVyveAVCI/photos/AeeoHcIIcn9bltYrnQD7g6htSWVrHsi3lAIrObzAGlLHFz0a5NJ3tM_Z0eP5F5QSaLb3Pa69IbKojDHWB_FofshmbPFj3NT_68pXzViwCv4ohKT4O3JC6cvZ-UXTyK_-BsznRSjH-NH_JVY3qMEnS4GfcWtjWMX0qxhg2sCQ0-cJXHJ2UYurfXPNYipHPdsmrHZDS2LglKJzmFi48PWkSATrjf4LDj0ckg9Re_m6SvnpNM7hcQYqqHSVKIPjcuoTtRPT2CS_m6mwxzBCjeq8mxdBMvwAYhfly6EnbXIASXdRsANh7k8PvUi8sKPR64TuJWSivOqgXnU9gQfI2lyaStw8IoB20L0jD1LegyA8mFZDnfBNsKfIPgYxq7liiFJyBkNPyV-x7Rx_FGYlMYTuHPh3n0qWwvDpKUm_uoPQt2A64t_1nA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJtxpiawL_VDARjPnVyveAVCI/photos/AeeoHcL_gFYRgY5NxEt0fjNNecuUkRPTjIg4xKMdNDrXbw0AXU22wsyEYyQjREpmhT__vB70Tm9DEd9ljV5hKgwQSF6Oa_FxwZVl7ZT-RX1X8CDjQAMjL73JR6EM1-VsuKcyQ9BtXe4a42EKoBMpFCq1uGYG5mNWnO2OCYGZfHsPBbY33LeyB94homo00xjbcyND3zMsfbfdt1Ow4EqimqjFs6WGPHEAKtAIuA6RimXlP__ED_ySchn8ONudaN3YkKeHsC-zOMLTwaAlvKa2Rgr8-_YJy71Seg4KPtxVLHgvR2wlRVD1h-4sRml6yv5tYHGNEgXscUlWszb701VnvxAouJLOto-4Ym_X63JZwxwDAGv1--Vq-6nM_sxEzZD8kmcj2Znc2b1KDDFkZ8mjKoPUf6inP1rbtlHVojciZhmmG7m8_Q/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJtxpiawL_VDARjPnVyveAVCI/photos/AeeoHcL0tRGpuPHWlGA1DZyuv5qaUWUpd6tYcJ7JuaR_Wg3r0_6JQuxiTPnuQ33OhBhGAM-7h7Naf-NknS9vyUWU9M5aCWqclG-T2PUINeYm0uHARYI5CNqnJcgUlmVMcMsnvYirJed2D6xxcszW3KvquyUTdRDkMn1ErY0qgvLHRJUmsJWrGA4C7T7sp-gZqHGq_kGg5DG_1L9IqUuSLgBOrodS-bpqnOCcg1c-lmXTeg-gm16AtMOrcaLqDFPnyppKJy9SauUXha7aALB-jdLtOO9XqXqMLE6-n4wN1jjDCJagNA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJtxpiawL_VDARjPnVyveAVCI	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJtxpiawL_VDARjPnVyveAVCI&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJtxpiawL_VDARjPnVyveAVCI&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Joy Jacobsen4 reviews · 4 photos2 months ago I recommend “Day” as a Thai massage therapist  for two hours!! She was amazing. I had two 1 hour massages with her  and then decided to get a 2 hour massage on my last day. It was a new experience because she had time to do my whole side … MoreLike Share	cody p1 review2 weeks ago New Excellent massage with knowledgeable and professional staff. Knew where I needed extra work and was one of the best I’ve had in Thailand. Left my phone and they kept safe until I returned the following day to pick it up  all with a smile.Like Share	Natalia Medvedeva2 reviews · 3 photos3 months ago Very Clean place and professional massage. I went to massage already few times and every time its amazing and pleasant . Place clean   very nice smell in the massage rooms   masters are professional and polite   after massage relaxing hot tea ☕🤍 …Like Share	Isca PaladinoLocal Guide · 14 reviews · 22 photos2 weeks ago New Very good massage in the center of Koh phangan. Relaxed vibe and they take good care of you. Would reccomend!Like Share	Jade Jacqueline4 reviews2 weeks ago New One of the best massages since being on the island - I would recommend this place for anyone looking for a relaxing massage. I had the Thai Massage. They do offer Sports Massage for people looking for something a bit more firm!Like Share	Yoga Paradise “Yoga Paradise”7 reviews4 months ago I had an amazing experience at this massage studio! The quality of the massage was exceptional  and the therapist was incredibly skilled and attentive. The staff provided excellent customer service  making me feel welcomed and comfortable … MoreLike Share	Shay Sharabi4 reviews · 2 photos3 months ago Amazing Massage – Highly Recommended!  Had an incredible massage experience here! The place is top-notch  with a … MoreLike Share	Katharina InthalLocal Guide · 14 reviews · 18 photosa week ago New EDIT: After our first massage  I went back today and the whole experience was a joke! First of all  I was put into a room where there was already a girl in the middle … MoreLike Share	Mulan Luuna10 reviews · 8 photos6 months ago I usually go for massages at Papaya on Sri Thanu  but three days ago I decided to try Pure. The first time  I chose a classic Thai massage for 300 baht. I appreciated that the receptionist immediately informed me it would be a … MoreLike1 Share	Heidi12 reviews · 1 photoa month ago - The word private massage on the door is quite misleading as you still share the space with other people. - I was asked to follow from the waiting area to the room  however in the middle … MoreLike Share	I recommend “Day” as a Thai massage therapist  for two hours!! She was amazing. I had two 1 hour massages with her  and then decided to get a 2 hour massage on my last day. It was a new experience because she had time to do my whole side …	Excellent massage with knowledgeable and professional staff. Knew where I needed extra work and was one of the best I’ve had in Thailand. Left my phone and they kept safe until I returned the following day to pick it up  all with a smile.	Very Clean place and professional massage. I went to massage already few times and every time its amazing and pleasant . Place clean   very nice smell in the massage rooms   masters are professional and polite   after massage relaxing hot tea ☕🤍 …	Very good massage in the center of Koh phangan. Relaxed vibe and they take good care of you. Would reccomend!	One of the best massages since being on the island - I would recommend this place for anyone looking for a relaxing massage. I had the Thai Massage. They do offer Sports Massage for people looking for something a bit more firm!	I had an amazing experience at this massage studio! The quality of the massage was exceptional  and the therapist was incredibly skilled and attentive. The staff provided excellent customer service  making me feel welcomed and comfortable …	Amazing Massage – Highly Recommended!  Had an incredible massage experience here! The place is top-notch  with a …	EDIT: After our first massage  I went back today and the whole experience was a joke! First of all  I was put into a room where there was already a girl in the middle …	I usually go for massages at Papaya on Sri Thanu  but three days ago I decided to try Pure. The first time  I chose a classic Thai massage for 300 baht. I appreciated that the receptionist immediately informed me it would be a …	- The word private massage on the door is quite misleading as you still share the space with other people. - I was asked to follow from the waiting area to the room  however in the middle …	ChIJtxpiawL_VDARjPnVyveAVCI

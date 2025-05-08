@@ -1,0 +1,128 @@
+Summarize the first shop (Na Siam Massage) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "best_foot_massage_in_siam_2025/contents/10_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Pela Thai Massage : Siam Square soi6
+・Rating: 4.8/5 (2,021 reviews)
+・Highlights: 
+- Exceptional tension relief with skilled focus on problem areas
+- Modern, zen-like facilities with Japanese-inspired design
+- Professional staff with consistent quality across therapists
+- Complimentary tea service and attentive customer care
+・Price: 650 THB for 90-min foot massage
+・Recommended: Perfect for tired travelers and those seeking a premium yet authentic Thai massage experience in a serene setting
+
+ThaiThai Massage Flagship store - Siam soi6
+・Rating: 4.7/5 (3,026 reviews)
+・Highlights:
+- Signature 5-in-1 comprehensive massage treatments
+- Beautiful modern facilities with private rooms
+- Strong technical expertise in deep tissue work
+- Convenient location with walk-in availability
+・Price: 1,590 THB for 90-min aromatherapy massage
+・Recommended: Ideal for those seeking a premium spa experience with multiple treatment options in the heart of Siam
+
+Siam Massage & At Grand Diamond
+・Rating: 4.2/5 (97 reviews)
+・Highlights:
+- Specializes in sports recovery and muscle relief
+- Convenient hotel location with happy hour discounts
+- Strong focus on leg and calf massage techniques
+- Clean, air-conditioned environment
+・Price: 300-500 THB (with happy hour discounts)
+・Recommended: Perfect for shoppers and travelers staying near Platinum Mall who want quality massage at value prices
+
+Relax Siam massage
+・Rating: 4.2/5 (510 reviews)
+・Highlights:
+- Excellent foot massage techniques
+- Convenient location near IconSiam
+- Clean, comfortable facilities
+- Friendly staff and relaxing atmosphere
+・Price: 300 THB for 60-min foot massage
+・Recommended: Best for IconSiam shoppers seeking affordable, reliable foot massage in a casual but professional setting
+
+Let's Relax Spa - Siam Square One
+・Rating: 4.0/5 (1,010 reviews)
+・Highlights:
+- Premium spa experience with high-end amenities
+- Skilled therapists with professional training
+- Complimentary mango sticky rice after treatment
+- Modern facilities with city views
+・Price: 1,300 THB for 60-min aromatherapy massage
+・Recommended: Perfect for those seeking a luxury spa experience with exceptional service and amenities
+
+Lek Massage Bangkok - Lek Foot Massage
+・Rating: 3.8/5 (339 reviews)
+・Highlights:
+- Multiple locations throughout Siam area
+- Modern, clean facilities
+- Efficient booking system
+- Consistent service standards
+・Price: 350-400 THB for foot massage
+・Recommended: Suitable for tourists seeking reliable chain massage services with convenient locations and standardized quality
+
+Lek Massage Bangkok - BTS Siam Square
+・Rating: 3.7/5 (132 reviews)
+・Highlights:
+- Prime location next to BTS
+- Clean, modern facilities
+- Efficient service flow
+- Multiple treatment options
+・Price: 400 THB for 60-min foot massage
+・Recommended: Good for travelers seeking quick, convenient massage sessions near public transport
+
+Siam Elephant Massage
+・Rating: 3.7/5 (168 reviews)
+・Highlights:
+- Traditional Thai massage techniques
+- Affordable pricing
+- Convenient mall location
+- Basic but functional facilities
+・Price: 180 THB for 60-min foot massage
+・Recommended: Budget-conscious travelers looking for no-frills traditional Thai massage experience
+
+Lek Massage Bangkok - Lek Massage House
+・Rating: 3.5/5 (554 reviews)
+・Highlights:
+- Established chain with reliable service
+- Multiple treatment options
+- Mobile app booking available
+- Welcome discounts for first-time customers
+・Price: 450 THB for 60-min foot massage
+・Recommended: Suitable for those who prefer organized chain establishments with standardized services
+
+Na Siam Massage
+・Rating: 3.2/5 (174 reviews)
+・Highlights:
+- Experienced male and female therapists
+- Central location near Siam BTS
+- Traditional Thai massage techniques
+- Affordable pricing
+・Price: Competitive rates (specific prices vary by service)
+・Recommended: Budget-conscious travelers seeking basic traditional Thai massage in central location 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Na Siam Massage	3.2	174	https://places.googleapis.com/v1/places/ChIJWVVKFtKe4jARwbdIPbuIAHM/photos/AeeoHcIyhdH3qkQswqmv9C8Y1jxF3MNO92MTtJURj6NUOMdeomszhI2VsIzRpx_fgGI7VeTC-142gqLLwPldN4R2FSktXbps8nZbZcXTcTqSixUO71QwFFPSQoeJje6QmihgQLyzJec522iQllVjEWVxKLhaLZvKtqvcXuGmcHd6iHJsRBfzGx9b5hxlCmyCfSJyEK6pkza0BayPHLQv69k7MpT1Sa7beqveKSw-BNuiYojC7w1fmkxJs0pN3-H4T5rGYclcQ4g_neeCCzKzP6tcQdE7Uuxfby1adtcEmuTvodzSoQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=400	https://places.googleapis.com/v1/places/ChIJWVVKFtKe4jARwbdIPbuIAHM/photos/AeeoHcK5ANcpcboEHCQj4MwWYr6-Z-wWv-FfEfo-WknFEijIg0P-cH-GO_ojbTzDN4RGWCkVSgyApHbJRg16SYv4_GtPpf5BR8cvihIPIdjIrFAhxVI4P5lE37kSa6R0yjxXfDBEREZxeHNMPRdyoIdnL1JIl9D0Qio4khGy7OkVIsjbOt4QOQ5sbRedaiZbHuQYzyXp_SA8_kwD84C-W_1AcDBl2pqMg3_zJ6tV-2myb1_RYsPGMfrMWNr9BPsIisFpWRhJZ5feGkpQ5up5Ug-f4FGsFe9g4gWFRetIJnTd8yg0cQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=400	https://places.googleapis.com/v1/places/ChIJWVVKFtKe4jARwbdIPbuIAHM/photos/AeeoHcKiNpy_Zf50_5OKbgqIXcOuknCGKph62IYV1VJ_IydMUkeNbAx7qF6dQHMpgdYK7XKUVwImTxYClwaptHfAky1M0Et1oUKP-BQIzUdwunEKweWWeTTaugZrhSp0JcIBZU1jMZfPhIUxMg0AaalycDHYw19oS6fFGWhMq3YG2cXU4BjRMS24HZlsPdP8mPSaDyota4pDxjJEk1CZ_xF3-v0lEm-YS-BgtfXNV5SuCTOcQzvCHoM4PwTltISajQbO-lh8sOc0hs6n5SP4pYrgNSVDHpUqM0uzbg8YU8zX3STEuQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=400	https://www.google.com/maps/place/?q=place_id:ChIJWVVKFtKe4jARwbdIPbuIAHM	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWVVKFtKe4jARwbdIPbuIAHM&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWVVKFtKe4jARwbdIPbuIAHM&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	No foot washing, just wiping a few times with hot cloth. Place is a little run down. Very bright, people walking pass while you massage. 2nd floor also not very clean environment. Massage so 	My girlfriend and I get a lot of massages and we can say that if you are staying I. Bangkok and want a professional massage with amazing friendly therapists then Na Siam Massage in Bangkok is number 1.  Located right next to Siam Paragon in Siam Square the shop is extremely clean and has a very relaxing feel from start to finish.  We want to personally thank Mr Chu (photo) and P Cee who were absolutely marvellous and over 20 years massage experience.  Wish we could take them back to Australia with us.  Thanks again and we look forward to visiting next time we are back in Bangkok. 	I had an amazing experience at Na.Siam Massage! The authentic Thai oil massage and foot massage was incredibly relaxing and exactly what I needed. The staff were not only friendly but also highly skilled and well-trained, ensuring a professional and soothing experience. The atmosphere was calm and inviting. I highly recommend!! 	Got massage at this place more than 2 yrs back and I came looking for it this time too as it was of very high quality. Had a hard time finding it but finally here I was!  It's just beside the Siam BTS and also has small interesting market in front of the place.  The quality is still the same and had a very good massage. They have a big room upstairs for full body massage. Also has reduced the cost probably due to pandemic. Unbeatable for the price.  Also went to mbk level 3 massage center the other day. Quite crampy and only a small room. Not ideal at all for all the usual Thai massage maneuvers! Will come back again. 	Pleasant and clean place to have massage after a long day in BKK. Prices are more reasonable than some of the nearby ones. Staffs are friendly too. Recommend 🙏🏻☺️ … 	You have to take a chance and it'll depend on who you'll get as your masseuse. Some are really good, some are just ok. However they did the whole 60 minutes and it was worth the money paid. 	Male therapists r horrible. I visited twice within one week with my fds, just because of the package is cheap.  However, I don’t understand why the therapists will ride on my body during massage (included front n back side). This is horrible and heavy.  Beside that, their skills are nice, this is the only reason I visited twice.	Oil massage for 60mins. The therapist skills is good, but don’t know why she was sitting on my legs when massaging the back, she is so fxxking heavy! Beside that, the environment is not really good and super noisy. 3 stars is go for her skills. 	Chance upon this place, did couple Aroma Oil Massage in a private room.  Easy to secure booking, although it was full at that point in time.  Masseurs were nice, with decent techniques.  Shop maybe a little old, but definitely return for massage.	This was one of the best massage Ii ever had after a long day of shopping near Siam area. They had some of the friendliest and the most professional masseurs, especially my preference is on prefer male masseurs who just knew those right pressure points. It is my go-to place whenever I come back to this second home of mine. By the way, do look for khun Chong if your prefer soothing male hands. 	Very good massage excellent skills really good experience excellent.😍😌 … 	Thank you DAO and M & Patty for arranging the massage for us since our 1st of the trip! Very thankful 🙏🏻 and they rlly can arrange properly for everyone :) … 	I did Thai massage. The lady sat on my back. They provided a pillow, so you had to either had to rest left or right side on the pillow. She put her entire body weight on my back when she moved side to side and after 1 hour my right neck was hurting. It was better not to massage at all then to be hurt after that. Terrible!!  Beware tourist! This place buys reviews! All the tourist gave bad reviews. Only “local Thai” gave 5 stars.	The worst massage, depend on the person who provide message, the one I had is basically touching my leg. 	Bad experience. -Basically just apply the oil without proper massage pressure. -The guy non stop talking to a female massagist sitting next to. -The worst is he keeps make fun of another elderly male massagist. At the end he ask for TIP… I don’t think the bad service deserve tip lazy staff and not professional	Reasonable prices though still a tad more expensive than places further out. Had a foot massage which was done well and painfully relaxing. The problem is the layout where the cashier and waiting area is lined up face to face with those in the massage chairs. So it became like a noisy fish market as this waiting talked loudly, disturbing any semblance of tranquility. If only people were more considerate like the Japanese who would whisper or avoid talking while others are trying to relax. 	Really bad when I compare the Thai massage i had on a Sunday night. Really really bad!!!! Edit to downgrade further from two to one star after finding out from my wife. ... Pls avoid!! 	Worst massage experience. Will not come back or recommend to others.	Perfect 👍🏽 will come back definitely. Don’t look at the reviews, the therapist for me and my girlfriend were great. Fixed my muscles and relaxed the body. Highly recommend 🙏🏼 … 	Although the masseuse was friendly, I felt not enough pressure in my foot massage. I had to tell her to massage my foot after she spent about 20 mins on my calf, which is really not needed. I should have read the reviews before i tried this place, but i was desperate for a massage for my very sore feet. Went in sore. Came out still sore, just with more oil on the feet. Such a pity

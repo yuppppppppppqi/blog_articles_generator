@@ -1,0 +1,38 @@
+[
+  {
+    "shop": "shop02",
+    "image": "image_09.png"
+  },
+  {
+    "shop": "shop06",
+    "image": "image_04.png"
+  },
+  {
+    "shop": "shop13",
+    "image": "image_01.png"
+  },
+  {
+    "shop": "shop01",
+    "image": "image_08.png"
+  },
+  {
+    "shop": "shop08",
+    "image": "image_02.png"
+  },
+  {
+    "shop": "shop12",
+    "image": "image_05.png"
+  },
+  {
+    "shop": "shop09",
+    "image": "image_10.png"
+  },
+  {
+    "shop": "shop10",
+    "image": "image_09.png"
+  },
+  {
+    "shop": "shop04",
+    "image": "image_08.png"
+  }
+]

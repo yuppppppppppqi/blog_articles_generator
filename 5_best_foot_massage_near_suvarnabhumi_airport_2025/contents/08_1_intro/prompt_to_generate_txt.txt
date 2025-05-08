@@ -1,0 +1,88 @@
+Summarize the first shop (Foot Massage Balsabai) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "5_best_foot_massage_near_suvarnabhumi_airport_2025/contents/08_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Relax Home Massage สาขาบางนา
+・Rating: 5.0/5.0 (274 reviews)
+・Highlights: Tranquil cafe-style ambiance with fresh aromatics, highly skilled therapists specializing in targeted pressure point work, exceptional post-massage care with complimentary Thai herb drinks
+・Price: Mid-range with excellent value
+・Recommended: Perfect for those seeking a premium yet authentic Thai massage experience in a modern, clean setting - ideal for first-time visitors to Thailand
+
+KOKO MASSAGE & SPA
+・Rating: 4.9/5.0 (1,620 reviews)
+・Highlights: Luxurious spa facilities, comprehensive treatment packages, skilled therapists trained in therapeutic techniques, complimentary mango and lotus tea service, airport transfer service available
+・Price: Premium, with package deals offering good value
+・Recommended: Excellent for travelers seeking a full-service spa experience near the airport, particularly good for office syndrome relief and couples treatments
+
+VEORA Spa
+・Rating: 4.9/5.0 (165 reviews)
+・Highlights: High-end spa ambiance, comprehensive beauty and wellness services including salon treatments, professional staff with excellent technique, quiet and serene atmosphere
+・Price: Premium
+・Recommended: Perfect for those seeking a luxurious, full-service spa experience with both massage and beauty treatments
+
+SUPAWADEE MASSAGE
+・Rating: 4.8/5.0 (168 reviews)
+・Highlights: Expert therapists skilled in traditional Thai techniques, spacious treatment rooms, immaculate facilities, specializes in Thai balm and therapeutic massages
+・Price: Moderate
+・Recommended: Ideal for those seeking authentic Thai massage with a focus on therapeutic benefits
+
+Maruey Thai Massage
+・Rating: 4.7/5.0 (193 reviews)
+・Highlights: Professional therapists with strong technical skills, peaceful environment, thorough consent process, excellent English communication
+・Price: Budget-friendly
+・Recommended: Great for solo travelers seeking quality massage at reasonable prices, especially good for those who prefer stronger pressure
+
+Roma Massage & Spa
+・Rating: 4.7/5.0 (200 reviews)
+・Highlights: Clean modern facilities, skilled therapists, comprehensive treatment packages, loyalty program available, convenient location
+・Price: Mid-range
+・Recommended: Perfect for regular visitors seeking consistent quality and value with membership benefits
+
+Relax Place (Little Walk Bangna)
+・Rating: 4.7/5.0 (165 reviews)
+・Highlights: Serene atmosphere, skilled therapists, specializes in hot stone massage, advance booking recommended for weekends
+・Price: Premium but justified by quality
+・Recommended: Ideal for those seeking a reliable, high-quality massage experience in a shopping center setting
+
+Foot Massage Balsabai
+・Rating: 4.6/5.0 (156 reviews)
+・Highlights: Specialized foot massage expertise, modern clean facilities, quiet environment focused on relaxation, late-night operation
+・Price: Mid-range
+・Recommended: Perfect for tired travelers seeking expert foot relief, especially after long flights or shopping
+
+Na Siam Massage
+・Rating: 4.4/5.0 (193 reviews)
+・Highlights: Experienced therapists, convenient BTS location, variety of massage styles, good value for money
+・Price: Budget-friendly
+・Recommended: Great for those seeking authentic Thai massage at local prices near public transport
+
+Feel Good Thai Massage
+・Rating: 4.2/5.0 (127 reviews)
+・Highlights: Clean facilities, package deals available, shower facilities provided, traditional Thai massage techniques
+・Price: Moderate
+・Recommended: Suitable for those seeking basic but professional massage services in a clean environment 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Foot Massage Balsabai	4.6	156	https://places.googleapis.com/v1/places/ChIJZ6YFHgOf4jARAsXf1WuJGcU/photos/AeeoHcLrhSLzzbIkLxZGUNymFJASNULw5TJfrZFlcAusaZPar8Tzj1pfUPoWYeM4_33VHUmgYW9wImEIJxqrq8NWNLDcD_VQzntioQ2gXYCnMQlgOLMsLX1cUemOprj-_OBeiKMaQn1_aKTGzoWN0YSygEbtn3J4mbU6t4BCv7pwXlUZNjbXlib2OhnheMpdLZxNKTjAMX15KnGnMhzuPD2d8cMLAedjBcQLXBMm2rOILjpOspup3_esHSks7RPfI3LQqExcPtiyTXhVdE_C9rngQxjyMkAGOdv9lM9C4m5nkZGTAQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJZ6YFHgOf4jARAsXf1WuJGcU/photos/AeeoHcLDfFqYLlzS1EwruL5Kjhq7lEjRMI5UVNjA4ovq6jmujFGDx9rcfsRKoqjWpIRicKoFArp3DZccfEXlQ4_jKfaJR8BQwYQ-rXwAXvaBG_gvYJMoUe3g1OUkh5hnORFH9ENVvsn96wiOlZpTSxiNE-vUbBSef92s846dpG3e-Ek2-XvXFM_X95WVxWEmbwDQsPjrudhXslvGCw5dpT2OOPErTt6XOXx0UsczfQQVJXgDdXbJZ9M7XyXyoDLPK0BL4s69MKD44QBlcjgqIlG_9QvgMw5ABlkFXz8LzXokhNJdHpWxJpWst-b9k7EW0SlWHTpLufX7zGB6eVChBKX5j9xo9EdKzbQ_n8E9Qcm717eBUIl_kSS8TLyA1E-0hVv5XFlgI8Rsn_BhrJ-UW8ojituvWeHTRI_7a9rceYqh7jF2qQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJZ6YFHgOf4jARAsXf1WuJGcU/photos/AeeoHcJ13CH0G1xVNaECMuLEUaAODsfFpzgHXqxcKHWfoHsXaExG44zf5H2YYI7e3MSvU-Yu_vPn8Naf9bOJzKnDAo0zWGILYLCGJRCaZtDidexCNgN4ES1cDXL1BuUTQeGZl5xLBGLe48qt5tB_TZ3Q3meiXMdd48G0UjXkl5t7L34UWYTCcuN2eO60p3K1imSQy7Zp2iBRyR19IQr9OxzVvK34RyEyUZv1bZyivVYpFzYJdTM6GnEcrm67xKrA0YhwnEJYpTOsVd4PdzWJj7e4CsyyCjRKi5EjfF_zeQPuIESORtRmaDLaZeeRBMdKs15Z6NB54nxw3PYao1RzlAS3jXVbR6U_Wnay2lSY3_cNbrELrL0uSrdq95QhWE72it95yWaGVNFpApKet5SXGFtI68_jtGautySBFCUPO_1kgbE2Sw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJZ6YFHgOf4jARAsXf1WuJGcU	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJZ6YFHgOf4jARAsXf1WuJGcU&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJZ6YFHgOf4jARAsXf1WuJGcU&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Foot Massage Balsabai, located on Sukhumvit 22 right opposite the Marriott Marquis Queen’s Park, is a nice and clean place for a relaxing massage. The ambiance is comfortable, though the air conditioning can get a bit chilly if you’re sitting directly under it—don’t hesitate to ask for a blanket if you feel cold.  The masseuses are skilled and provide a good foot massage, and the prices are reasonable for the quality of service. I haven’t tried their Thai massage yet, but based on my experience with the foot massage, I  had a good session.  One thing to note is that the place accepts cash only, so make sure to have some on hand. It’s also customary to tip the masseuse after the session, which is a nice way to show appreciation for their work.  Overall, Foot Massage Balsabai is a solid choice for a relaxing massage in the Sukhumvit area. I’d recommend it for anyone looking for a clean and professional massage experience. 	I haven't noticed this place before and I thought it was rather new, but it has been opened for quite some time. I was staying at the hotel opposite and I came across this place one night on my way back and decided to give it a try. There were quite a lot of people waiting but I didn't take long to get someone to serve me. Furnishing is quite modern and the massage chairs looks new and clean. I requested for a male masseur and got one and I was impressed with his skills and his pressure. As usual, there was washing of the feet before massage and tea was served after the massage. It is one of the most quiet place I have done a massage so far, seems like they refrain the customers and the staff from talking so the environment is very conducive. I would return and would also recommend this place to try foot massage. Price is slightly more expensive then the usual massage places but I guess it is worth it for the environment and the quality of the massage. It deserves more than a 4 stars, maybe a 4.5. 	Fresh off a flight and needed to relax. Great that they were open until midnight. On a fairly busy street. The price was reasonable and it was a very clean and modern environment. Looked like a very new establishment. I asked for a strong masseuse because I like it strong. Thought it was a great and relaxing. 	Simple, clean and no frills foot massage. I appreciate how focused the massage was and enjoyed the 1hr session with my male masseuse. Paid 399baht. 	It’s good, clean place and lots of sofas available but it’s like double the price of most foot massages in BKK. I recon it’s beside Marriott so it’s all tourists 	I have forced myself to provide a 5 star review for this business because it was really 5 star service. The foot massage was so relaxing that I fell asleep during my 30 min massage. It was very therapeutic and satisfying after a long day of exploring Bangkok and my legs were numb and hurting. The staff were so polite and caring, they wash your feet well before starting the treatment. They are located at a prime location right outside Marriott. I highly recommend this business to anyone traveling into Bangkok. 	This is one of the few green spas on this street, and the massage therapists are genuinely hardworking. But is there a downside? Absolutely and it’s a major one. The overweight woman at the front desk is unbelievably rude and lacks basic manners, enough to ruin your entire experience here. 	highly recommended massage after a tiring day. I opted for foot massage for an hour and it was truly relaxing. I was embarrassed to sleep twice during the massage as it was so relaxing. They offer green tea after the massage. 	This place has a good price for a 1 hour massage, is focused on foot massages so the masseuses are all trained for that, and has comfy chairs. Easy for a quick in and out! Good location if you’re staying at the hotels nearby. 	Went here multiple times and always got a great foot massage! They make sure you’re comfortable and offer a great service, also late in the evening! 	Best place. So calm, relaxing place with good music. We loved the massage from the start to finish. Best place we have been to so far. Reasonable prices; 10.5€ We really recommend it! 	Not sure why they don't accept the online booking? I was call trying to get a booking beforehand but they rejected. Have been told Only for walk-in...I have been so many massage places, such a Health land, let's relax and many places. They all accept online booking. What a regret. 	Excellent foot massage experience! Skilled therapist, calming ambiance, and great value. Highly recommended 	If you're staying across from the Marriott, this is the massage parlour with the best business! The parlour's facade is entirely made of glass and you can see it's virtually full all the time. Foot massages get topped up with a top body massage. Look for Joe... He's the best! I discovered bones in my body I never knew I had 😂 … 	Clean, quiet, professional and reasonably priced. Better than most other ones on the street which appear more dodgy. Lovely staff. They only do foot massage. May feel a bit industrial but it’s not. And they all have the same technique so you can tell they’ve had training. I recommend 	Popular foot massage by tourists, good location next to metro station & several hotels, clean massage chair, friendly staff, professional massage, slightly pricey than other nearby massage shops. 	I was looking for a place that would offer a good strong memorable foot massage is a nice clean atmosphere. I found it here. Easy to get to. The staff were attentive, the chairs were comfortable and the atmosphere lovely. The women who worked on my feet for 90 min did an outstanding job. If you are here on vacation and need a foot massage, I highly recommend this shop.	We were fooled by the nice decor. Weak foot massages with lots of flowing movements but barely any pressure. Both my wife and I experienced the same. Never again. 	I took 30-minutes foot massage and it was great. Very nice staff, comfortable chairs and calm music. I will be back for sure. 	This is a great Foot Massage establishment. Not intimidating to enter as there are no aggressive sales ladies out front. This place was packed when I was there and yet quiet enough to get everyone being treated nice and relaxed.  Great price and friendly staff.  Will be going back before I leave this land of smiles.

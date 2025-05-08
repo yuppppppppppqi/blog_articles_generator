@@ -1,0 +1,138 @@
+Summarize the first shop (Erawan Thai Massage and Head Spa Bangkok) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "best_foot_massage_near_wat_pho_2025/contents/03_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Loft Thai Spa & Massage - Sukhumvit 38
+・Rating: 4.9/5 (941 reviews)
+・Highlights:
+  - Exceptional boutique ambiance with thoughtful Thai design elements
+  - Highly personalized service with detailed pre-treatment consultation
+  - Professional therapists with superior technical skills
+  - Complimentary extras like welcome drinks and post-treatment snacks
+  - Pristine facilities with private treatment rooms
+・Price: Premium (4800+ THB for specialty treatments)
+・Recommended: Perfect for luxury spa enthusiasts seeking a high-end, comprehensive wellness experience. Ideal for those who appreciate attention to detail and are willing to pay more for superior service.
+
+Po Thai Premium Massage Thonglor Branch
+・Rating: 4.7/5 (135 reviews)
+・Highlights:
+  - Clean, modern facility with professional atmosphere
+  - Skilled therapists specializing in authentic Thai techniques
+  - Convenient location near BTS Thonglor (Exit 3)
+  - Uses traditional Thai snake powder post-massage
+  - Excellent foot scrub and massage combinations
+・Price: Mid-range (300-700 THB)
+・Recommended: Great for those seeking authentic Thai massage in a clean, professional setting. Perfect for travelers staying near Thonglor who want quality treatment at reasonable prices.
+
+Forest Massage & Spa Onsen
+・Rating: 4.7/5 (359 reviews)
+・Highlights:
+  - Japanese onsen experience combined with Thai massage
+  - Customizable massage pressure and focus areas
+  - Serene, nature-inspired ambiance
+  - Professional booking system with off-peak discounts
+  - Excellent aromatherapy treatments
+・Price: Premium (2050+ THB for packages)
+・Recommended: Ideal for those seeking a unique fusion of Japanese onsen and Thai massage. Perfect for couples and anyone wanting a full spa experience rather than just a massage.
+
+Let's Relax Spa - Ginza Thonglor
+・Rating: 4.6/5 (478 reviews)
+・Highlights:
+  - Spacious, well-designed facility with calming atmosphere
+  - Heated massage beds for extra comfort
+  - Professional therapists with consistent quality
+  - Convenient location in Grande Centre Point Hotel
+  - Complimentary mango sticky rice post-treatment
+・Price: Upper mid-range (400-1000+ THB)
+・Recommended: Perfect for those who prefer established spa chains with reliable service standards. Ideal for hotel guests and those who appreciate a more upscale massage experience.
+
+Tiger Massage Thonglor 6
+・Rating: 4.4/5 (628 reviews)
+・Highlights:
+  - Excellent value for money
+  - Strong, therapeutic massage techniques
+  - Peaceful atmosphere despite busy location
+  - Professional and respectful staff
+  - Good for both Thai and oil massages
+・Price: Budget-friendly (320 THB/hour)
+・Recommended: Perfect for those seeking authentic Thai massage at affordable prices. Ideal for regular massage-goers who prefer strong pressure and therapeutic techniques.
+
+WARA Massage Thonglor
+・Rating: 4.4/5 (52 reviews)
+・Highlights:
+  - New, clean facility with modern amenities
+  - Strong focus on deep tissue massage
+  - Convenient location near hotels
+  - Professional staff and good English communication
+  - Fresh and well-maintained environment
+・Price: Mid-range (350-700 THB)
+・Recommended: Best for those who prefer newer facilities and appreciate a clean, modern environment. Good choice for hotel guests and English-speaking visitors.
+
+Kenko Beauty & Massage
+・Rating: 4.3/5 (74 reviews)
+・Highlights:
+  - Clean, comfortable environment
+  - Skilled therapists for neck and shoulder treatments
+  - Online booking with promotional offers
+  - Late operating hours
+  - Combined massage packages available
+・Price: Mid-range (300-600 THB)
+・Recommended: Great for night owls and those seeking last-minute bookings. Ideal for those who want both beauty treatments and massage services in one place.
+
+ThongLor Dala Massage
+・Rating: 4.3/5 (368 reviews)
+・Highlights:
+  - Strong therapeutic massage techniques
+  - Clean and calming environment
+  - Experienced in treating muscle problems
+  - Good booking system to avoid overcrowding
+  - Reasonable prices for the area
+・Price: Mid-range (350-500 THB)
+・Recommended: Perfect for those who prefer stronger, therapeutic massages. Ideal for customers with specific muscle issues or those seeking traditional Thai massage techniques.
+
+Lek Massage Bangkok - Lek Thonglor
+・Rating: 4.2/5 (184 reviews)
+・Highlights:
+  - Well-designed, clean facility
+  - Membership program for regular visitors
+  - Multiple services including spa and salon
+  - Professional atmosphere
+  - Convenient location
+・Price: Upper mid-range (400-600+ THB)
+・Recommended: Suitable for those seeking a one-stop shop for massage, spa, and beauty services. Good for long-term residents who can benefit from the membership program.
+
+Top Thai Massage Sukhumvit 55
+・Rating: 3.9/5 (194 reviews)
+・Highlights:
+  - Convenient location in Thonglor
+  - Basic but clean facilities
+  - Affordable prices
+  - Walk-in friendly
+  - Various massage options available
+・Price: Budget-friendly (300-500 THB)
+・Recommended: Best for those seeking basic massage services at lower prices. Suitable for walk-in customers who prioritize convenience and affordability over premium experience. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Erawan Thai Massage and Head Spa Bangkok	4.9	116	https://places.googleapis.com/v1/places/ChIJOZgwy8GZ4jARLnDomrXkMgQ/photos/AeeoHcKGHoHVTyT6ClfkOVr3oUObdTAW-caC4DxLY7jgDfXKLox8_q33Qz_TnxQiK51SI3FzQd0QMgVwbdJZR1IEuoIsXWQpDEedpyxLDxy1cJOTrp69uPubfN7VkDBoaespLQ-NgFZXBj7fXKmCPNap9D-E7z766vsl9zOp1QGz0yLZLMSDRtatKQEaR3pmdshcCJsNcfoPgO2UFzO8ep68_nIf1GuqeLBPj-oIuesbqfRYhjdjBZxvPoz6ECB4lGdM1LgBBsMwoF0Zv6R9fUIz3Aube0iom8ozfQ6AKxanQwZxEg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJOZgwy8GZ4jARLnDomrXkMgQ/photos/AeeoHcKeHKmsxyPaq7QDd8cgeZxr2U1XQpj-MornkJ2gAEPEHH-0epH6IDEMk8BVfLkvJ03VzwEdPmlfe6eWPWvnx9olbf0eEGflNAuj2_8P0R_EmKxYI8OvV7nX4n_3p62gB9eWSV-8iAmrBZ1mdKwgsMaSh7gtAP3G6_2AOXtag5EoBuI4O3c9mjb3eQqQbr2OmA1ZcqmDwShVXmP_arsm6o9ct_gX8X6yJKn91pP_ucGF50pjxOJT9GWPoBmXGG843T-1-vd6x5TwznGLHJ2o36qmWQZylOAwbn2Kq4gDLw0UZQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJOZgwy8GZ4jARLnDomrXkMgQ/photos/AeeoHcJX71ojp2Uriaghd74sRhoE9VZxqe76Qpl2lm-d9ZAxpLubZcXMPZTKrcZ9iAT1I61iyjcWHo-mT8ubviJ88YZIdzN5Dl3LDiZVhaB8on7jmegAir5el1ZYwrHCjdpdsXPKXUXsOxxFYJBx7PMqlcICsVNDektKHyCTQSqwy2ut7CPcEN56EMtvRl38K_ksylQuS9U2Uq3cAZIsrK8OALwos90oQI711wv4n8H-oL-h_nPEv0q5oUYItpWjv60FCOZO7mzcH59M_6On6DPEkh98VF4dMtByynDiepj-cze-GQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJOZgwy8GZ4jARLnDomrXkMgQ	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJOZgwy8GZ4jARLnDomrXkMgQ&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJOZgwy8GZ4jARLnDomrXkMgQ&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	I recently visited  and had an amazing experience! The atmosphere was peaceful and relaxing, with a soothing scent and soft music that set the perfect mood. The staff was warm and welcoming, making me feel comfortable from the moment I arrived.  I chose the aroma oil massage (lemongrass & eucalyptus), and it was absolutely wonderful. The therapist was highly skilled, applying just the right amount of pressure while using aromatic oils that helped me fully unwind. The combination of gentle strokes and deep relaxation techniques melted away all my stress and tension. After the session, I felt completely refreshed and rejuvenated.  Overall, I highly recommend for anyone looking for a top-quality Thai massage experience. I will definitely be coming back!	If I can give more than 5 stars I would! The customer service is exceptional! I was looking for a head spa massage to gift for my boyfriend. I reached out to them through Instagram and happy to get a fast and very accomodating response.  They catered to my request of ordering a cake as a birthday gift after the massage and they happily helped me out! They go way beyond and so so happy! As for the ambiance it is very calming and quiet, my bf immediately felt relaxed coming inside. The staff are very nice too! Thank you Erawan Thai massage! 😍 	The atmosphere was good and the spa is clean. Very friendly service and my therapist had very strong hands, however I felt there was a lack of technique and the distribution of time was not even. 85% of it was spent winding 2 knots in my shoulder with her elbows, which really is a shame as the 5 minutes spent on my legs was incredible.  I don’t think it’s good value for money, as we have had much better massages for a third of the price. 	Perfect relaxation and excellent service!  I had an amazing experience at this massage shop! From the moment I walked in, I felt welcomed and well taken care of. The atmosphere is incredibly relaxing, the staff is extremely friendly and professional. The massage itself was simply perfect – the ideal balance between relaxation and deep muscle relief. After the treatment, I felt completely rejuvenated! I highly recommend this place and will definitely be coming back. Absolutely five stars! 	I had an amazing experience! From the moment I walked in, the atmosphere was calming and inviting. The staff was incredibly welcoming and made sure I felt comfortable right away.  The massage itself was perfect—just the right amount of pressure, and I could feel the tension melting away. The therapist was professional, skilled, and really paid attention to my needs. I left feeling completely relaxed and refreshed.  Highly recommend! Don't be insecure because it's not central located. the stay is worth it. All the best.	Fantastic experience at this place. I opted for Head Back Shoulder Neck massage and it was handled expertly. They even helped me withdraw cash from nearest ATM because card wasn't working. 	A truly wonderful experience! The therapists are highly skilled, and the atmosphere is clean and relaxing. A perfect retreat for both body and mind. I highly recommend it to everyone! 	Amazing aroma oil massage! The atmosphere was calming, the therapist was skilled, and the oils smelled wonderful. I left feeling relaxed and refreshed. Highly recommend!🤩👏 … 	I have tried many Thai massages in Europe, but my favorites have always been the Erawan salons in Budapest! I am very happy that the international network is now available in Bankok! The place is very cozy, extremely clean, tidy, the receptionist is very helpful. The therapist lady massages extremely well, it was an excellent experience. Whenever I return to Bankok, I will definitely visit her. 	Highly skilled. Had a lovely relaxing aromatherapy and foot massage for 90mins. Lovely atmosphere soft music and lovely smell from the oils. And reasonably priced. A must go to place. Thank you so much 	One of the best full body oil massages I have ever gotten, the massage therapist at Erawan knew exactly what she was doing and was very considerate of my special needs!  I highly recommend it! 	I am delighted with the service. The masseurs are very kind and expert, and the massage was extremely relaxing and healing. I recommend this place to everyone! 	Best massage I’ve ever received in my life. If you enjoy a deep tissue massage ask for Apple, she will take great care of you 	A great foot and shoulder massage here. My 15 year old son joined for his first massage and loved it ! 	Another best massage shop in Bangkok. The masseuses are experienced, the shop is beautiful and clean. You won't be disappointed!! 	Excellent service and professional therapist team. The place and beautiful and clean. Highly recommended. 	First class from start to finish. So friendly. 🙏🏼🙏🏼🙏🏼 The best place I have ever visited 💕 Excellent value for money. 🥰 	Wonderful service and highly skilled staff. beautiful atmosphere.  Very relaxing.  Highly recommended 	Lovely massage here, great staff. Highly recommended. 	It is very precessional therapeutic thai massage. Friendly environment and staffs.

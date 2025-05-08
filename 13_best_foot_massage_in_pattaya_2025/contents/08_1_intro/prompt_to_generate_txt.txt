@@ -1,0 +1,88 @@
+Summarize the first shop (Pra Ni Ta Massage & Spa Pattaya ปราณิตานวดไทย.&สปา พัทยา) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "13_best_foot_massage_in_pattaya_2025/contents/08_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+The One Massage - Pattaya
+・Rating: 4.9
+・Highlights: Exceptionally professional service in a surprisingly serene "oasis" on Walking Street. Master Mona is highly praised for her expertise. Staff are warm and welcoming, noted for kindness towards elderly and solo female travelers. Facilities are very clean with thoughtful touches like post-massage snacks (mango sticky rice) and phone charging. Specializes in legitimate, traditional Thai massage and effective body scrubs.
+・Price: Premium (often considered worth the higher cost for the quality and experience)
+・Recommended: Visitors seeking a high-quality, professional, and tranquil massage experience despite the busy location. Ideal for those wanting authentic Thai massage or extra pampering.
+
+RINN Spa/Massage
+・Rating: 4.2
+・Highlights: Features a beautiful, modern, and clean interior with air conditioning, located opposite Alcazar. Staff are generally friendly, offering tea upon arrival. Some therapists, like "New," are skilled at identifying pain points. Their "Modern Thai Massage" (aroma/traditional mix) is a unique offering. However, experiences are inconsistent; some report excellent massages while others found techniques poor, service rushed, or the atmosphere disrupted by noise. Payment is required upfront.
+・Price: Mid-range (value perception varies significantly based on individual experience)
+・Recommended: Those prioritizing a visually appealing spa environment near Alcazar, but be aware that massage quality can be hit-or-miss.
+
+Asian Art Massage
+・Rating: 4.1
+・Highlights: Known for authentic, professional traditional Thai massages in a clean, quiet setting. Features experienced, long-term staff like "Noi" and "Nui." Masseuse "Bokko" is highly recommended for effectively addressing specific pain points and having special energy. Offers private rooms, showers, and a sauna. Adheres to high standards with "no funny business." Most reviews are positive, though isolated incidents of poor communication or discomfort were reported.
+・Price: Budget-friendly (Excellent value, e.g., 200 THB/hour Thai massage)
+・Recommended: Visitors seeking genuine, skilled Thai massage at very competitive prices, especially those needing therapeutic relief for specific issues. Ideal for those preferring a quiet, no-nonsense atmosphere.
+
+Let's Relax Spa North Pattaya
+・Rating: 4.2
+・Highlights: A well-regarded professional spa chain outlet with a clean, cozy, and somewhat luxurious feel, conveniently located opposite Terminal 21. Therapists like "Ancharika" and "Suratsawadee" are noted as skilled and accommodating. Foreigner-friendly with English spoken and preference menus. Offers a signature post-massage treat of mango sticky rice and tea. Features private rooms with showers. Good for deep tissue and pain relief.
+・Price: Mid-range to Premium (Higher than street shops but offers more amenities and a reliable standard)
+・Recommended: Travelers seeking a dependable, comfortable spa experience from a known brand, with good facilities and convenient location near Terminal 21.
+
+KODCHAKON MASSAGE
+・Rating: 4.6
+・Highlights: Staff are notably friendly and welcoming. Particularly strong reputation for relaxing foot massages that often lull guests to sleep. Therapists like "Dao" and "Kathi" are praised for excellent technique and pressure, especially for back/shoulder relief and deep tissue work. Maintains clean premises and offers gentle massages suitable for children. Can sometimes be noisy due to conversations.
+・Price: Budget-friendly (Offers great value with attractive prices like 200 THB/hour Thai massage)
+・Recommended: Those looking for great value, friendly service, and skilled massages (especially foot or deep tissue), provided they don't mind a potentially less quiet environment.
+
+Wipada Massage
+・Rating: 4.9
+・Highlights: Delivers an outstanding massage experience, frequently cited as among the best in Pattaya or even Thailand. Owner Wii and therapist Pami are exceptionally skilled, particularly in deep tissue/sports massage for muscular issues and inflammation relief. Staff are very friendly, professional, and welcoming. The shop is small but clean and cozy. Offers consistently high-quality, strong, and effective massages. The owner is also helpful with local tips like booking transport.
+・Price: Budget-friendly to Mid-range (Excellent value, often perceived as worth more than the asking price)
+・Recommended: Anyone seeking a top-tier, professional massage, especially deep tissue or therapeutic work for muscle pain, from highly skilled and genuinely friendly practitioners. Unbeatable value.
+
+The Sea.Spa Pattaya
+・Rating: 4.7
+・Highlights: Features a beautiful, traditional Thai decorative setting creating a warm, quiet, and relaxing ambiance. Reception and therapists (like "Ta" and "Jeap") are generally friendly and professional. Offers high-quality massages (Thai, aroma, foot), facials, and body scrubs in private, clean rooms (including family rooms). Located in a quiet area with adjacent dining options. Provides a good balance between basic shops and luxury hotel spas. Credit cards might not be accepted.
+・Price: Mid-range (Pricier than basic shops but justified by the atmosphere and service quality)
+・Recommended: Visitors wanting a serene, aesthetically pleasing spa experience with professional service, willing to pay a bit more for the ambiance and quality. Good for couples and families.
+
+Pra Ni Ta Massage & Spa Pattaya ปราณิตานวดไทย.&สปา พัทยา
+・Rating: 4.7
+・Highlights: Boasts a very clean, beautiful, and relaxing spa environment that looks more expensive than it is. Staff are professional, polite, and helpful, with multilingual receptionists. Therapists like "Su" and "Sky" are skilled, particularly noted for addressing back problems. Offers a range of services including effective body scrubs and packages. Thai massage can be strong, adjust if needed. Some reports of booking issues or inconsistent quality exist.
+・Price: Mid-range (Reasonably priced for the high-quality setting and professional service)
+・Recommended: Those looking for a premium spa atmosphere and professional service without luxury prices. Good variety of treatments and packages available. Booking advised.
+
+Poo Na Health Massage
+・Rating: 4.4
+・Highlights: Many reviewers report outstanding and effective massages, particularly deep tissue work by therapists like "Sao." Staff ("Nong," "Sri," "Natalie") are skilled at customizing massages for specific needs and pain points. Known for very friendly, personable service in a cozy, authentic setting. Offers Thai, foot, oil massages, and body scrubs. Equipment is somewhat dated, and staff can be chatty. Isolated reports of scams or overly rough massages exist.
+・Price: Extremely Budget-friendly (Incredible value, possibly the cheapest quality massage around)
+・Recommended: Budget travelers seeking strong, potentially therapeutic massages from experienced and friendly staff in a casual, no-frills environment. Best to communicate preferences clearly.
+
+Chivarome soi9
+・Rating: 3.9
+・Highlights: Very convenient location right next to Central Festival Mall. The space is large, clean, and generally professional, with comfortable recliners for foot massages. Offers a relaxing atmosphere according to some patrons. Foot massages receive generally positive feedback for firm pressure. Thai massage can be quite strong but effective. No pressure selling outside.
+・Price: Budget-friendly (Standard low prices like 200 THB/hour)
+・Recommended: Shoppers needing a quick, affordable, and convenient foot massage near Central Festival. Quality can be inconsistent, especially for other massage types or regarding therapist professionalism (phone use/talking reported). 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Pra Ni Ta Massage & Spa Pattaya ปราณิตานวดไทย.&สปา พัทยา	4.7	190	https://places.googleapis.com/v1/places/ChIJLTRvgl-XAjERbfvX_N8WbvM/photos/AeeoHcIlLzs0Kl73X24seRsborWLpbNlc6ATqf-i6eOnDjidjRYobFYPC3ao9raK6CQKfK_69mbtjpbuJfJgZyTmHHEx5bSATaXshDM-Iphn2MX8Wor24H5MmdTmU81hKWIEksJyKnc4tzcMg7CiBA3jR2edf0ZslsESw48KC63K4W8Fq8x2SgM40HY_9GXHJtxKd0OIgd8TRWJv3FzT4aY_0WkKuU6_E8Jbtoc9lSH9EpqPFWMAXXXij0TN6dD4QXaAiweqR7KMieffivPDmYUnnxZFqCK1NSAON8iNnYDUfXtdmg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJLTRvgl-XAjERbfvX_N8WbvM/photos/AeeoHcK2TvUnt1QSg696eeWfoqUNRWkP7SmaYHAJOdHIpTwjsRiEiAi9wubfpHpyyrEvEcm_h63czaFLbReJkD9l4aiyVJzAKRVFZnIZBSq3z-zngyHinzfId5fFuYq-WYxv8O_z5RUxrM_XbUS7-GKlCXrqyk75bXW84513arN9jTYTcUC1V3UeBH3_P2wiq66V_raJ-X0Vx7DvnBOdxFcSVc2GVKYw1nkUfiek6kIwID6PbvAKbBY5DGwAkv9MLCXMe4IqkOYTzrmTJwHIr-R-riBdjgWVk3ZGrbkeGrpT3yPb5Q/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJLTRvgl-XAjERbfvX_N8WbvM/photos/AeeoHcJN8r0bUDx0oLiGpA9sT6c6gK-bURNzEyJWmPq8foFh0XC0uKdc4HqpM1GGEgbU_fgjV7XrMpaHHPYaE1oe_6d4re3ss_kZXjdyR_oIZFsjWUgQLUDOufy4GEYRIWzt7rVDhDm-fpXpv6AzsZvs99jhA9eP-rC-udj15Efi_RFBv3uqcYBvrOwE89hhfZWC23fIi_r9L4bqrgfyMZX8Zn9Cp38hnhA1uCH2MmK2X1cGBAcbWVXO6-O_ac8ME5e-48Vl4o9jxkVr1i5VS1MrUGBN7mQVT_Ki6OU-Sq1SKe5JsbV9OI4oKgnm9Rxje-O69QdUMz6qTIVE3dZzWatct8CYuck2Us2FZKsHksulhwphJdJC8dpeUmOvhdQtvkV8Rf4abSaPZ-t4_p075EkpI3CUqrx93jkBstRxwzvFORQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJLTRvgl-XAjERbfvX_N8WbvM	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJLTRvgl-XAjERbfvX_N8WbvM&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJLTRvgl-XAjERbfvX_N8WbvM&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	I love this spa in Pattaya ever. So relaxing and fresh.they are so kindly giving good services💕 … 	Best massage I ever had. Therapist Su was extremely professional and gentle during my 3 hours massage. Dis body scrub, aroma & face including steaming room. Came out like a new born baby. The receptionist Wee was very helpful and knew exactly what I was looking for. Speak very good English 👌🏼 Next time in Pattaya definitely I’ll be back. Thank you very much for your excellent service. See you soon! 	Nice and clean spa, great stuff. Just if you not used to thai massage like me, then need to be very clear to be extremely gentle. During massage I felt few times like the lady will break me and was painful, but I have to admit, it felt super easy after massage., all body felt nice. 	This place is the best I have been so far (3 months in Thailand). Real professionals, so clean en beautiful and relaxing. It looks super expensive, but it is not, it is just reasonably priced and worth it all. 	this my second trip in pattaya. every time i stoped in this place. I love it. this trip I stop twice within a week because my back problem  I took combo set first time and aroma massage for the second. thanks to Sky. she knows what she doing. 	Very sweet and polite staff and the spa experience is one of the best ! Would highly recommend to anyone in Pattaya . 	Definitely need visit. It was overbooked and need pre-book in 	We had great experience,  awesome thai style environment with good staff 	The staff was very polite and one of them speak fluent mandarin. I did foot massage and given neck and hand massage at the end for about 10 mins. It was a pleasant experience and the massage was great for a reasonable price. The place is also very clean. 	Very clean facility at a reasonable price , I took 3 hrs in 1 day , So fantastic 😍  Clean , good service and good price  Super High quality Recommend, I wil come back again for sure 100000000% 	Very bad. Missed reservation and more than 30 minutes waiting. I don’t want to visit this massage anymore 	You can easily book the massage with kind staff is speaking english with call. Massage was good and therapist has good skill of muscle relaxation. You can choose time of massage 60, 90, 120 and price is also resonable. 	Massage was not at all up to the mark. It is like they just rub oil on your body plus the there was no aroma in the oil used. The tea served after the massage was cold. There was no attention to customer satisfaction. By looking at the ambiance you will feel as if the place is good but the quality of massage is really not at par. 	The best massage in Thailand. Very professional, clean place, relaxing atmosphere. Highly recommended!!! 	Good spa & good health I recommend 🥰👍🏻 …	For me No.1 in Pattaya for spa and Massage. I went to many places @Sea Spa so Wonderful place here , Prices and Therapist very good here ,I will come back again for sure.👍👍👍👍💕 … 	I really in love here the Therapist so nice and polite, The Receptionist speaks 3-4 languages.  My Combo Set 1,450 THB very good for me and for my husband Body 💕 Body Scrub and Aroma gold Set .  Super perfect 👌 Highly Recommend.

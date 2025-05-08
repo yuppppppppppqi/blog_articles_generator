@@ -1,0 +1,138 @@
+Summarize the first shop (Grand Massage and Spa - Nana) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "best_foot_massage_near_wat_pho_2025/contents/08_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Loft Thai Spa & Massage - Sukhumvit 38
+・Rating: 4.9/5 (941 reviews)
+・Highlights:
+  - Exceptional boutique ambiance with thoughtful Thai design elements
+  - Highly personalized service with detailed pre-treatment consultation
+  - Professional therapists with superior technical skills
+  - Complimentary extras like welcome drinks and post-treatment snacks
+  - Pristine facilities with private treatment rooms
+・Price: Premium (4800+ THB for specialty treatments)
+・Recommended: Perfect for luxury spa enthusiasts seeking a high-end, comprehensive wellness experience. Ideal for those who appreciate attention to detail and are willing to pay more for superior service.
+
+Po Thai Premium Massage Thonglor Branch
+・Rating: 4.7/5 (135 reviews)
+・Highlights:
+  - Clean, modern facility with professional atmosphere
+  - Skilled therapists specializing in authentic Thai techniques
+  - Convenient location near BTS Thonglor (Exit 3)
+  - Uses traditional Thai snake powder post-massage
+  - Excellent foot scrub and massage combinations
+・Price: Mid-range (300-700 THB)
+・Recommended: Great for those seeking authentic Thai massage in a clean, professional setting. Perfect for travelers staying near Thonglor who want quality treatment at reasonable prices.
+
+Forest Massage & Spa Onsen
+・Rating: 4.7/5 (359 reviews)
+・Highlights:
+  - Japanese onsen experience combined with Thai massage
+  - Customizable massage pressure and focus areas
+  - Serene, nature-inspired ambiance
+  - Professional booking system with off-peak discounts
+  - Excellent aromatherapy treatments
+・Price: Premium (2050+ THB for packages)
+・Recommended: Ideal for those seeking a unique fusion of Japanese onsen and Thai massage. Perfect for couples and anyone wanting a full spa experience rather than just a massage.
+
+Let's Relax Spa - Ginza Thonglor
+・Rating: 4.6/5 (478 reviews)
+・Highlights:
+  - Spacious, well-designed facility with calming atmosphere
+  - Heated massage beds for extra comfort
+  - Professional therapists with consistent quality
+  - Convenient location in Grande Centre Point Hotel
+  - Complimentary mango sticky rice post-treatment
+・Price: Upper mid-range (400-1000+ THB)
+・Recommended: Perfect for those who prefer established spa chains with reliable service standards. Ideal for hotel guests and those who appreciate a more upscale massage experience.
+
+Tiger Massage Thonglor 6
+・Rating: 4.4/5 (628 reviews)
+・Highlights:
+  - Excellent value for money
+  - Strong, therapeutic massage techniques
+  - Peaceful atmosphere despite busy location
+  - Professional and respectful staff
+  - Good for both Thai and oil massages
+・Price: Budget-friendly (320 THB/hour)
+・Recommended: Perfect for those seeking authentic Thai massage at affordable prices. Ideal for regular massage-goers who prefer strong pressure and therapeutic techniques.
+
+WARA Massage Thonglor
+・Rating: 4.4/5 (52 reviews)
+・Highlights:
+  - New, clean facility with modern amenities
+  - Strong focus on deep tissue massage
+  - Convenient location near hotels
+  - Professional staff and good English communication
+  - Fresh and well-maintained environment
+・Price: Mid-range (350-700 THB)
+・Recommended: Best for those who prefer newer facilities and appreciate a clean, modern environment. Good choice for hotel guests and English-speaking visitors.
+
+Kenko Beauty & Massage
+・Rating: 4.3/5 (74 reviews)
+・Highlights:
+  - Clean, comfortable environment
+  - Skilled therapists for neck and shoulder treatments
+  - Online booking with promotional offers
+  - Late operating hours
+  - Combined massage packages available
+・Price: Mid-range (300-600 THB)
+・Recommended: Great for night owls and those seeking last-minute bookings. Ideal for those who want both beauty treatments and massage services in one place.
+
+ThongLor Dala Massage
+・Rating: 4.3/5 (368 reviews)
+・Highlights:
+  - Strong therapeutic massage techniques
+  - Clean and calming environment
+  - Experienced in treating muscle problems
+  - Good booking system to avoid overcrowding
+  - Reasonable prices for the area
+・Price: Mid-range (350-500 THB)
+・Recommended: Perfect for those who prefer stronger, therapeutic massages. Ideal for customers with specific muscle issues or those seeking traditional Thai massage techniques.
+
+Lek Massage Bangkok - Lek Thonglor
+・Rating: 4.2/5 (184 reviews)
+・Highlights:
+  - Well-designed, clean facility
+  - Membership program for regular visitors
+  - Multiple services including spa and salon
+  - Professional atmosphere
+  - Convenient location
+・Price: Upper mid-range (400-600+ THB)
+・Recommended: Suitable for those seeking a one-stop shop for massage, spa, and beauty services. Good for long-term residents who can benefit from the membership program.
+
+Top Thai Massage Sukhumvit 55
+・Rating: 3.9/5 (194 reviews)
+・Highlights:
+  - Convenient location in Thonglor
+  - Basic but clean facilities
+  - Affordable prices
+  - Walk-in friendly
+  - Various massage options available
+・Price: Budget-friendly (300-500 THB)
+・Recommended: Best for those seeking basic massage services at lower prices. Suitable for walk-in customers who prioritize convenience and affordability over premium experience. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Grand Massage and Spa - Nana	4.6	205	https://places.googleapis.com/v1/places/ChIJUa21KJyf4jARWo_xw0liUYk/photos/AeeoHcL9BEF4R7GWP4Q1wi0FGJnvcZcE6wHZwiaXjLAnVdIBmZvqIVk0VAPkCSJpu7S6Wvll296d7rFggRhHpEADh6Cyws6g0hXON26I3Jkvlyt-EsmKpew4FV1u-0fOMpA_jrTC00F2rgxLT7nlDJDd9Yeqi-nE7uUw7VixnPVFLkCRB7AblAqZyA33kHoom8lo0uQLUY2XyT4IiiurGgKT2UbqmW8-rk2XrA8gQmPdpRRpbAcbsca_v87ik3rX-nkXFDlZQ544vieuJ9TXQSxjzXfdE5ZAsyUiI6LpQzixZfGbDw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJUa21KJyf4jARWo_xw0liUYk/photos/AeeoHcIdXY6ij-Yz7zRiQOWSgmdfD00YMPVXMCJTQs8cmx2oRXOXLYcLkLxjw8NSsirkbuI-oxj0RTtL3q6XtjY4oehKn8sygLKnXJhVdgxb_1iUnDBSgE5GelL4GijP1yG0CxbcpIKVG3zBNriY1-VUZTbyZmA4ZtrgHan_xYVAs66gVB4Xa3QlvodmPDvr4LXd44RZrupY2gCgkauKDN0QnbKAMxQGGCsRA8jkbbsr0asRzdEqXzO9smoNZhpHT87BdrHVHhRV2CTsOaI3d-qWYkBpW7U7NMF7fW2O2fYUSvx0WA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJUa21KJyf4jARWo_xw0liUYk/photos/AeeoHcLRXzFlyromnOn-m9xgPWxowlXhmQ7_npwQievE6lpqCdU-Wuh1VOODVO6-EtnmN4dfJSbEp8pWGSvXhWY7tnqdtdxn3SC75wbFHueyz7omQb0T8MPqbHHcKbf8EEN9phNXHQmwgo1K_Xo0yE5itrVLyhjeumESZTR6-3AHke57QOiUuQAFhWe8y1fiiZtRlkcf4MCVUw6tLPrpG86Swv6FccIvIFafwIDMQ_Dw9jsko4SMh3EUTkx13m7-IWquFjzlC7RtJP82yMsSPhUCA3tsSfrn9-uGSHFZPI0Z3EPd4w/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJUa21KJyf4jARWo_xw0liUYk	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJUa21KJyf4jARWo_xw0liUYk&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJUa21KJyf4jARWo_xw0liUYk&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	The place is fancy, a bit on the expensive side. But surely the massage is comparable around. What is nice here is ambience and gives you a relaxing environment and private space. Best isnthe staff- friendly, courteous and honest that i left my watch in the massage room and they kept it for me even i came back a week after to claim it they still kept it safely. Thank you 	massage is great, espsecially the shop is close at 3am. very good for relax at midnigt. 	Thank you Grand massage and Spa I got your The grandset package  I like your quality service I highly recommend to everyone there is 1 guy in staff Suleman they're very kind and humble We enjoyed the service alot.😊 … 	Very helpful staff and welcoming, most importantly the whole massage session was really relaxing and calming after a long day of shopping 👍🏻 … 	I had a bad experience during my recent visit. Though the atmosphere was pleasant, I found the massage itself to be less professional than I had hoped. Additionally, I was surprised that the worker did not leave the room while I was changing clothes, which felt uncomfortable.  Moreover, the tidying up was done so quickly that I was still in the room, and I wasn't assisted in cleaning off the oil after the session. I believe there is room for improvement in these areas to enhance the overall client experience. I will never revisit. 	I was really looking forward to my visit after reading all the great reviews, but unfortunately, it didn’t meet my expectations. I was paired with a therapist who seemed inexperienced, and it really affected the quality of the session. I had informed the reception about an injury beforehand, but I still had to remind the therapist three times to avoid that area before finally asking her to stop massaging this spot altogether (it was one of the time you wished you had taken a shorter massage!). At this price point, you would expect a much better attention to detail and overall experience. Hopefully, this feedback will help improve the experience for future clients. 	Great service and very attentive. The place is clean and tidy. Did a 2 hour foot massage after shopping and it was so relaxing.  A welcome drink and hot tea were provided before and after the massage. Will defn come again! 	Amazinggggggggg! Beautiful building. Everything is very clean and calming. Best massage I’ve had, highly recommend the hot oil scalp massage (it’ll mess up your hair but feels great and hydrates your hair). Will absolutely come back 	Grand massage & spa is a good place to get a Luxury service and the staff also humble best place to get some luxury quality massage 😉 … 	I've been to Thailand a few times now. This spa has good massage therapists. If you're in the area, you have options to choose from. I had the 60 minutes hot stone massage, and it was worth every baht. 	Oil massage, the masseur was inexperienced, unable converse in english.. not worth the money and time here..Suggest the owner to provide proper training and hiring experience staff. Disappointing. 	Beautiful experience, professional staff. Very competent. Perfect privacy in the private rooms. Quiet place. I will recommend to everyone.	It was quiet, the facilities were good, and the staff was friendly. I went to many massage parlors, but it was the most refreshing massage of all. I plan to go again tomorrow.	Thank you for your great service we really enjoyed alot great massage and kind staff 😊🙏🏻 … 	Best massage in BKK and Suleman  was very good with his knowledge and recommendations done by him, I was satisfied and feel very relaxed and calm. If anyone looking for massage go for grand massage 	One of the best massage ever I had in Bangkok and I’m really thankful to Mr salmon to giving a humble full service and hospitality… 	I got a great time here, took a good rest and have a foot massage. The environment here is so relaxing and soothing. 	Was a wonderful experience! The masseuse was amazing and was able to hit the right spots! 	they have excellent technique and their service is top-notch. totally worth it 	Thank you so much for your great service we like it a lot 🤗 …

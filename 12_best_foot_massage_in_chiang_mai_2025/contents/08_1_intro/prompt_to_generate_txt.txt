@@ -1,0 +1,78 @@
+Summarize the first shop (C and R Thai Massage) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "12_best_foot_massage_in_chiang_mai_2025/contents/08_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Relax Express@Chiangmai Gate
+・Rating: 4.9
+・Highlights: Exceptionally professional and hospitable staff fostering a warm, welcoming atmosphere. Therapists noted for being intuitive, thorough, and skilled at addressing specific sore spots. Offers highly-regarded authentic Thai, foot, and oil massages, plus body scrubs, in a clean, calming environment with thoughtful extras like welcome/post-massage drinks. Praised for excellent communication and seamless booking options.
+・Recommended: Visitors seeking a top-tier, professional, and deeply relaxing massage experience in a reliably clean and welcoming spa.
+
+Zen Sense Health Spa
+・Rating: 4.8
+・Highlights: Features a clean, peaceful, and modern ambiance ideal for relaxation. Staff are generally welcoming and attentive, with specific therapists like Anna and Nan receiving high praise for their skills. Offers a diverse menu including Thai, foot, oil massages, body scrubs, and facials. Good value with promotional offers sometimes available. Some reports of inconsistent therapist skill or minor noise disruptions.
+・Recommended: Travelers looking for a modern, tranquil spa with a wide variety of treatments and friendly service, though therapist experience may vary.
+
+ChabaPrai Spa
+・Rating: 4.9
+・Highlights: Provides a luxurious, serene spa experience with beautiful decor. Staff are highly professional, attentive, and ensure treatments are customized via intake forms. Known for strong, effective massages (Thai with balm/hot compress, facials) delivered by skilled therapists like Rain and Nikki. Offers private couple's rooms and convenient shower facilities. Includes premium touches like foot wash/scrubs and tea/cookies.
+・Recommended: Individuals and couples desiring a premium, quiet spa experience with customized, professional treatments and excellent facilities, justifying a slightly higher price point.
+
+SiamDara Massage CNX
+・Rating: 5.0
+・Highlights: Boasts a perfect rating, reflecting exceptionally friendly, professional staff and a clean, soothing environment. Efficiently accommodates walk-ins. Praised for personalized massage strength and effective tension release, especially from therapists like Male. Includes delightful extras like welcome drinks, foot scrubs, and post-massage ginger tea with fresh fruit. Conveniently located near the night market.
+・Recommended: Anyone seeking a top-rated, highly professional massage with outstanding friendly service, personalized options, and lovely extra touches. Ideal for walk-ins near the night market.
+
+Kunlarat Massage
+・Rating: 4.9
+・Highlights: Renowned for consistently high-quality, skillful massages, particularly effective for deep tissue work, knot removal, and targeting specific pain points (therapists Beauty, Tintin, Lala, Dao mentioned). Offers excellent value with prices lower than Old Town shops. Maintains a clean, professional environment with friendly, enthusiastic staff, despite simpler decor. Ashiatsu massage potentially available upon request. Booking advised due to popularity.
+・Recommended: Guests prioritizing highly effective, therapeutic massage (especially deep tissue or pain relief) at a great value over luxurious ambiance. Popular with repeat customers.
+
+Daracha Spa
+・Rating: 4.8
+・Highlights: Offers a clean, calming atmosphere with generally friendly and professional staff. Delivers skilled and effective massages (Thai, foot, jet lag relief). Enhances the experience with thoughtful extras like welcome/post-massage tea, snacks, and attentive service touches. Good value for the quality provided. Some minor inconsistencies reported regarding staff interaction or noise levels. Booking is recommended.
+・Recommended: Visitors looking for a reliable and pleasant spa experience with skilled massages and nice extra touches in a calming setting.
+
+ChabaPrai Massage
+・Rating: 4.8
+・Highlights: Features highly skilled therapists delivering outstanding massages (Thai, foot, oil, Indian head), noted for resolving pain effectively. Provides a clean, serene atmosphere with proper massage tables and private rooms. Professional staff use intake forms for customization. Offers welcome drinks, foot scrubs, post-massage tea/rice cakes, and ensuite shower facilities (great for pre-airport visits). Excellent value, especially packages.
+・Recommended: Travelers seeking exceptionally skillful massages, including specialized options, in a clean, professional setting. Ideal for those needing shower facilities post-massage.
+
+C and R Thai Massage
+・Rating: 4.8
+・Highlights: A long-established venue known for authentic, high-quality Thai massages and effective herbal compress treatments. Employs experienced, expert masseurs capable of significant tension release. Offers relaxing foot massages and specialized options. Friendly staff and owner in a clean environment with shower options. Some inconsistencies in experience and booking reliability have been noted.
+・Recommended: Patrons seeking traditional, expert Thai massage, especially with herbal compress, from a reputable establishment known for deep tissue work.
+
+Relax Express
+・Rating: 4.8
+・Highlights: Creates a clean, serene, and calm atmosphere perfect for unwinding. Staff are professional, welcoming, and attentive, adept at addressing specific problem areas based on client needs. Therapists deliver thorough, comfortable, and effective massages (foot, Thai oil, body scrub). Features thoughtful details like foot wash/scrubs, pre/post-massage refreshments, and fully reclining foot massage sofas. Consistently excellent value.
+・Recommended: Guests looking for a deeply relaxing, professional massage in a tranquil environment, especially favored for foot massages and body scrubs. A reliable choice offering great value and service.
+
+Karina Thai massage
+・Rating: 4.7
+・Highlights: Specializes in authentic Thai massages with customizable strength, delivered by skilled, knowledgeable therapists (Pin, Dada, Lat, Nai, Karina mentioned). Excels at deep tissue, sports massage, and addressing specific injuries or chronic pain with sensitivity. Owner Karina is praised for her expertise, English skills, and hospitality. Offers a clean, quaint, traditional setting (fan-cooled) at very affordable prices. Great communication regarding health issues.
+・Recommended: Individuals seeking highly skilled, therapeutic massage (deep tissue, sports, injury recovery) from experienced practitioners who understand body mechanics, at excellent value. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+C and R Thai Massage	4.8	604	https://places.googleapis.com/v1/places/ChIJr2w9bv072jAR1ibdTz_k_Kc/photos/AeeoHcJvudikMN-8-7IFahC1_KmahGBgqE4dwRJu3o3LG9-RaNq-3qqVa37yPnzvyN87iOVTxA05ywW-YjJyit9LMmPVe9oY5bk9KXmaVCp9EhOAPdUP4APlNTRsbVt-vJryzfnHYOjWatO5NkbwRAsUfW9hlBDCYpCo-_i4QKnsAZckTTCF0ccLYjhlcKWY0kBYf7YgbM__cB1EVThaO_sFWurV67ulrI6zilkdr6mo0zsxufzpZ-DP2VTy4lfM5E6YlSTAneSuSNGeTgyB8HkiL2IlJg5sQGw5cX0oKBv0vZlz41DUe4K0zvO6tdbSU6a9cOdgPrsXZsl3lPCXyjWNLKVKIjsuu6BmCoJMHVhDFMr1MFJ0v0g2P5FV15VRNlEIf22nQPu1Zf418b9Va6OWurWqCLqIiS9Vmdswq_FTSJM/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJr2w9bv072jAR1ibdTz_k_Kc/photos/AeeoHcIbC4YmjeCpkpLaSXnd_JfNImJQXWUe8cEsfCArLlSzQJoBJncGUOGH-cHi-fMuQa7sfKkTVC6dwWYL7X0yMwAxFNKSdNTCB0i7avJlWjsio7mc0lfxpNbtpp3jaE3dSxQb0AWKFd5TzjMkqx2UnxH1HAxGBZtc9EvyveWrPUf_lrYg--tjuk4efDZFEQAKApgGK2joxGWJ2kOUPNeETHlBk0PZIyHOcozjqwVQHwvhEocwbLoWJEbdxSNbC7kdNzLROqXAnMGB09SSgLhN8GH3H43dJszafUaSxPfucRWsTkqHJyaitgar9SKC06RxFYYOH8t2r1vUjUxfhFVC0f-IxvLTT2huoFAtoqV1LV-yIt9wkRBIEOtFj47-f1uKkTluAvD8eKA25GNcnFmHKzMQ77DZD60JpHsHmYCq8gHLf1tb/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJr2w9bv072jAR1ibdTz_k_Kc/photos/AeeoHcKaXa7WYoEcu9CpkWYgvWcSDKYOjEO7YgqtMKEnn3jRYfgieQsGIAxr2QBu2t7_w8YHLKEO8MqSigmoVGyE-yX27bDGfWBBsn2qduU_8qGxIdL6lEY_j56gTSy5oQg9W7whPzLbWX_fPf7PxXyP4DAIqEe0JRmknaBXMx7SAaGCPgPXHdcSV5yvdKtOccBMHOInj1k0Raekt-mgHHUnTzvsHGv6lZzznxJ4Yoe0G55fJi8Vc0hVJUGhtEg1HB_Va3dSacDi-omQ5WGhoCj4OzIL7_CAPtRvDd63VM5uwxqAnZjljLxkCM6ZQSA140MXewqDDAJhsF2I9A_P8U5wMF2Ty4O7o5ddd0kqWprM0gAbfH4Dx7cakd22tat_YpWetaSBxD-IJjARTn7xumuz246RPlBhiz69EhBlxJehbZXU2SLz/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJr2w9bv072jAR1ibdTz_k_Kc	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJr2w9bv072jAR1ibdTz_k_Kc&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJr2w9bv072jAR1ibdTz_k_Kc&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Chiang Mai has at every corner a massage place…nevertheless, this place is a staple of Chiang Mai and the real deal!!  I’ve had my first Thai massage in here, 10 years ago and today again! It re-confirmed the quality and expertise the employees have and the owner wants to keep it up!  What a joy to be able to have again an excellent experience!  I can only recommend to go for a Thai massage or herbal compress massage or combine both, you won’t be disappointed!!  The owner surprised me with a gift, b/c I mentioned I visited her place 10 years ago and was so happy that I found it back 🙏🏻 	This Thai massage was an exceptional experience that I would highly recommend to anyone looking for a thorough and revitalizing treatment. It’s an ideal escape from the hustle and bustle of daily life, leaving you refreshed and renewed. I can’t wait to return for another session! 	I spent my last day (and birthday) here for 3 hours and got the Deep Thai Tension Tame and facial. The massage changed my life and removed all the possible tension lingering in my body. Made me understand the idea "the body keeps score". 	It's ok if you just want a rub, and to rest the legs for an hour...  I personally wouldn't go the 2 hr 'special ' as it would be better spent outside the old town...  I've had Better technique from some of the street side places!  Also the 'free gift' for a Google review adds to the imbalance in actual reality...  For 300 baht an hour it could be worse, it could definitely be better though!  2.5 to 3 stars 	I had an amazing experience during my two-session head, neck, and foot massage! The service was outstanding—very professional, relaxing, and exactly what I needed. Plus, the price was fantastic. Highly recommend! 	Very nice massage place with reasonable price. Masseurs are professional and other staff are so friendly and helpful. Had a wonderful and relaxing time here. Greatly recommend 	I have lived in Thailand for a year. This is the best massage that I have had. I did the 2 hour massage with hot compress. It is so nice because they start with your feet, which relaxes your muscles all over your body, do the hot compress to relax your back muscles even more, then do the massage. You’re basically butter at the end :) 	The massage itself is pretty good, so we decided to come back again today and make a booking. We paid in advance and arranged our evening around the booking.  After coming back at our booked time, we were asked if we could wait an extra 20-30 mins because the people before us decided to extend their massage by 30 minutes.  We had other plans for the evening so we had to cancel and leave, but the fact our booking time and repeat business didn’t mean anything left a sour taste in our mouth.  They offered a 10% discount as an apology but we are leaving tomorrow so it’s not useful for us. Shame really, because it spoiled our previous experience. 	We had foot massage here. Excellent  massage. Very friendly, professional staff. 1 star less because the chairs for foot massage were not comfortable and the lighting in the foot massage area was not so pleasant. 	The best massage I have ever gotten. I was completely tight from all my flying in Asia and I was completely stretched out and rubber all that away. I will be coming back during my stay in Thailand. Cannot recommend enough 	I visited this place on the last day of my trip. After a massage, I was so recharged that I almost started the trip all over again.  C&R = Christiano & Ronaldo, Siuuuuuuu!!!!!! 	The environment is decent. I had green bean body scrub and aloe vera whole body massage. My therapist Aoi can communicate in simple English and her skill was awesome. Aoi was dedicated and concentrated on the key areas. A great massage experience. 	Very good Thai massage! I recommend this. When arriving you get water. If you want, you can take a shower before the massage. The massage itself is from very good quality. After the massage you get a thee. 	My husband and I have been trying different places and going for massage every day. This was the best one. We will make sure to come back again. We purchased the 2 hour - foot and full body massage for 690 baht special. Incredible!! 	We went to this lovely place during our stay in Chiang Mai, the two lovely masseuses were fantastic, so friendly and gave a great foot massage! Unfortunately didn’t catch their names. Very accommodating and relaxing place. 	We visited the C and R massage shop after search lots of blogs and we knew we made the best choice! Staff are nice and kind and the massage agents have a great skill! The shop provided us the upgraded package and it was really nice! 	I had a warm compress massage for neck, back shoulders. My therapist only rubbed my back , no shoulders or neck before putting the warm compress. And I say rub because there was no massage unfortunately.. I’ve been to many massage places but this one was disappointing.

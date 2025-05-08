@@ -1,0 +1,101 @@
+”【在住者が選ぶ】スワンナプーム空港のフットマッサージおすすめ10選【2025年版】”というタイトルに相応しい魅力的なイントロを書いてください。
+
+制約:
+	•	自然な日本語で、個人ブログのような、実際にタイに住んでいる人の目線で書いてください。
+    •	出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+    •	イントロの次に記載する[マッサージ店の特徴まとめ]の内容を、参考にしてください。
+    •	カジュアルなトーンで、親しみやすい雰囲気で書いて。ただし、馴れ馴れし過ぎないようにしてください。
+    •	ブログのターゲットは、この2パターン
+    	1.	タイへの旅行客
+		2.	タイに既に在住している人
+        これらの人の興味を引くような内容にしてください。
+	•	このブログの執筆者は、タイに3年住んでいて、この個人的な経験を活かすようにしてください。
+    •	SEOのキーワードは、"フットマッサージ"と"スワンナプーム空港"を必ず含めてください。
+	•	このブログの目的は、informational（情報提供）です。セールスやPRではありません。
+    •	300から400字になるようにしてください。
+    •	印象、感情、感想、体験などには、<strong><u></u></strong>と言うタグをつけて、読者にわかりやすくしてください。ただし、4-6回程度の頻度にして、文章として自然になるようにしてください。出だしの1文目には、必ず入れるようにしてください。
+    •	前後に余計な情報を加えないでください。ブログのイントロ部分だけを出力してください。
+    •	読みやすいように、2, 3文に一回は改行を入れてください。
+    •	パラグラフは、このフォーマットにしてください： <!-- wp:paragraph --><p>（ここに文章が入る）</p><!-- /wp:paragraph -->
+    •	”【在住者が選ぶ】バンコクのおすすめフットマッサージ10選【2025年】”と言うタイトルの、同じブログの別記事のリンクを挿入してください。これ以外のリンクは挿入しないでください。
+    
+リンク挿入について:
+    下記のようなスタイルで、自然にリンクを挿入してください：
+    <p>[ここに、短く、興味を引くような文章を書いてください。<a href="https://my-bangkok-life.com/ja/%e3%83%90%e3%83%b3%e3%82%b3%e3%82%af%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%95%e3%83%83%e3%83%88%e3%83%9e%e3%83%83%e3%82%b5%e3%83%bc%e3%82%b810%e9%81%b8/">[ここにアンカーテキストを入れてください。]</a>]</p>
+    次の行に、下記のようなワードプレスのembed blockを書いてください。:
+    
+    <!-- wp:paragraph -->
+        <p>
+        <!-- wp:embed {"url":"https://my-bangkok-life.com/ja/%e3%83%90%e3%83%b3%e3%82%b3%e3%82%af%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%95%e3%83%83%e3%83%88%e3%83%9e%e3%83%83%e3%82%b5%e3%83%bc%e3%82%b810%e9%81%b8/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+            <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+                <div class="wp-block-embed__wrapper">
+                    https://my-bangkok-life.com/ja/%e3%83%90%e3%83%b3%e3%82%b3%e3%82%af%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%95%e3%83%83%e3%83%88%e3%83%9e%e3%83%83%e3%82%b5%e3%83%bc%e3%82%b810%e9%81%b8/
+                </div>
+            </figure>
+        <!-- /wp:embed -->
+        </p>
+    <!-- /wp:paragraph -->
+
+出力は、ここに保存してください:
+translation/temp/5_best_foot_massage_near_suvarnabhumi_airport_2025/sections/intro/intro.html
+
+[マッサージ店の特徴まとめ]
+Relax Home Massage สาขาบางนา
+・Rating: 5.0/5.0 (274 reviews)
+・Highlights: Tranquil cafe-style ambiance with fresh aromatics, highly skilled therapists specializing in targeted pressure point work, exceptional post-massage care with complimentary Thai herb drinks
+・Price: Mid-range with excellent value
+・Recommended: Perfect for those seeking a premium yet authentic Thai massage experience in a modern, clean setting - ideal for first-time visitors to Thailand
+
+KOKO MASSAGE & SPA
+・Rating: 4.9/5.0 (1,620 reviews)
+・Highlights: Luxurious spa facilities, comprehensive treatment packages, skilled therapists trained in therapeutic techniques, complimentary mango and lotus tea service, airport transfer service available
+・Price: Premium, with package deals offering good value
+・Recommended: Excellent for travelers seeking a full-service spa experience near the airport, particularly good for office syndrome relief and couples treatments
+
+VEORA Spa
+・Rating: 4.9/5.0 (165 reviews)
+・Highlights: High-end spa ambiance, comprehensive beauty and wellness services including salon treatments, professional staff with excellent technique, quiet and serene atmosphere
+・Price: Premium
+・Recommended: Perfect for those seeking a luxurious, full-service spa experience with both massage and beauty treatments
+
+SUPAWADEE MASSAGE
+・Rating: 4.8/5.0 (168 reviews)
+・Highlights: Expert therapists skilled in traditional Thai techniques, spacious treatment rooms, immaculate facilities, specializes in Thai balm and therapeutic massages
+・Price: Moderate
+・Recommended: Ideal for those seeking authentic Thai massage with a focus on therapeutic benefits
+
+Maruey Thai Massage
+・Rating: 4.7/5.0 (193 reviews)
+・Highlights: Professional therapists with strong technical skills, peaceful environment, thorough consent process, excellent English communication
+・Price: Budget-friendly
+・Recommended: Great for solo travelers seeking quality massage at reasonable prices, especially good for those who prefer stronger pressure
+
+Roma Massage & Spa
+・Rating: 4.7/5.0 (200 reviews)
+・Highlights: Clean modern facilities, skilled therapists, comprehensive treatment packages, loyalty program available, convenient location
+・Price: Mid-range
+・Recommended: Perfect for regular visitors seeking consistent quality and value with membership benefits
+
+Relax Place (Little Walk Bangna)
+・Rating: 4.7/5.0 (165 reviews)
+・Highlights: Serene atmosphere, skilled therapists, specializes in hot stone massage, advance booking recommended for weekends
+・Price: Premium but justified by quality
+・Recommended: Ideal for those seeking a reliable, high-quality massage experience in a shopping center setting
+
+Foot Massage Balsabai
+・Rating: 4.6/5.0 (156 reviews)
+・Highlights: Specialized foot massage expertise, modern clean facilities, quiet environment focused on relaxation, late-night operation
+・Price: Mid-range
+・Recommended: Perfect for tired travelers seeking expert foot relief, especially after long flights or shopping
+
+Na Siam Massage
+・Rating: 4.4/5.0 (193 reviews)
+・Highlights: Experienced therapists, convenient BTS location, variety of massage styles, good value for money
+・Price: Budget-friendly
+・Recommended: Great for those seeking authentic Thai massage at local prices near public transport
+
+Feel Good Thai Massage
+・Rating: 4.2/5.0 (127 reviews)
+・Highlights: Clean facilities, package deals available, shower facilities provided, traditional Thai massage techniques
+・Price: Moderate
+・Recommended: Suitable for those seeking basic but professional massage services in a clean environment  

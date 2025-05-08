@@ -1,0 +1,26 @@
+Create a meta description by reading the intro of blog post.
+
+Instruction
+ - Generate with 150-160 words.
+ - Output file name (save to this file): data_output/metadata.txt
+ - Use key word: Foot Massage
+ - The title of this blog post is: 10 Best Foot Massage in Phuket
+
+[intro of blog post]
+<!-- wp:paragraph --><p>After living in Thailand for 3 years, I can confidently say that a <strong><u>quality foot massage</u></strong> is one of the best ways to unwind in Phuket. Whether you're a tourist with tired feet from exploring or an expat seeking regular relaxation, these top massage shops deliver <strong><u>exceptional value</u></strong>.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>I've carefully selected these 10 best foot massage places in Phuket based on <strong><u>personal experience</u></strong> and <strong><u>consistent quality</u></strong>. Each shop boasts more than 200+ reviews from satisfied customers, ensuring reliable service no matter which you choose.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>If you're planning to visit Bangkok as well, check out my guide to the <a href="https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/">best foot massage shops in Bangkok</a>.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>
+<!-- wp:embed {"url":"https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+    <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+        <div class="wp-block-embed__wrapper">
+            https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/
+        </div>
+    </figure>
+<!-- /wp:embed -->
+</p>
+<!-- /wp:paragraph -->

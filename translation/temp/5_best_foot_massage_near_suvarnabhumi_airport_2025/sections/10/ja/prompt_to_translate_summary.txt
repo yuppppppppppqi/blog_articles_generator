@@ -1,0 +1,82 @@
+お店（Feel Good Thai Massgae）を以下の形式で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- 日本語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/temp/5_best_foot_massage_near_suvarnabhumi_airport_2025/sections/10/ja/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+
+Relax Home Massage สาขาบางนา
+・Rating: 5.0/5.0 (274 reviews)
+・Highlights: Tranquil cafe-style ambiance with fresh aromatics, highly skilled therapists specializing in targeted pressure point work, exceptional post-massage care with complimentary Thai herb drinks
+・Price: Mid-range with excellent value
+・Recommended: Perfect for those seeking a premium yet authentic Thai massage experience in a modern, clean setting - ideal for first-time visitors to Thailand
+
+KOKO MASSAGE & SPA
+・Rating: 4.9/5.0 (1,620 reviews)
+・Highlights: Luxurious spa facilities, comprehensive treatment packages, skilled therapists trained in therapeutic techniques, complimentary mango and lotus tea service, airport transfer service available
+・Price: Premium, with package deals offering good value
+・Recommended: Excellent for travelers seeking a full-service spa experience near the airport, particularly good for office syndrome relief and couples treatments
+
+VEORA Spa
+・Rating: 4.9/5.0 (165 reviews)
+・Highlights: High-end spa ambiance, comprehensive beauty and wellness services including salon treatments, professional staff with excellent technique, quiet and serene atmosphere
+・Price: Premium
+・Recommended: Perfect for those seeking a luxurious, full-service spa experience with both massage and beauty treatments
+
+SUPAWADEE MASSAGE
+・Rating: 4.8/5.0 (168 reviews)
+・Highlights: Expert therapists skilled in traditional Thai techniques, spacious treatment rooms, immaculate facilities, specializes in Thai balm and therapeutic massages
+・Price: Moderate
+・Recommended: Ideal for those seeking authentic Thai massage with a focus on therapeutic benefits
+
+Maruey Thai Massage
+・Rating: 4.7/5.0 (193 reviews)
+・Highlights: Professional therapists with strong technical skills, peaceful environment, thorough consent process, excellent English communication
+・Price: Budget-friendly
+・Recommended: Great for solo travelers seeking quality massage at reasonable prices, especially good for those who prefer stronger pressure
+
+Roma Massage & Spa
+・Rating: 4.7/5.0 (200 reviews)
+・Highlights: Clean modern facilities, skilled therapists, comprehensive treatment packages, loyalty program available, convenient location
+・Price: Mid-range
+・Recommended: Perfect for regular visitors seeking consistent quality and value with membership benefits
+
+Relax Place (Little Walk Bangna)
+・Rating: 4.7/5.0 (165 reviews)
+・Highlights: Serene atmosphere, skilled therapists, specializes in hot stone massage, advance booking recommended for weekends
+・Price: Premium but justified by quality
+・Recommended: Ideal for those seeking a reliable, high-quality massage experience in a shopping center setting
+
+Foot Massage Balsabai
+・Rating: 4.6/5.0 (156 reviews)
+・Highlights: Specialized foot massage expertise, modern clean facilities, quiet environment focused on relaxation, late-night operation
+・Price: Mid-range
+・Recommended: Perfect for tired travelers seeking expert foot relief, especially after long flights or shopping
+
+Na Siam Massage
+・Rating: 4.4/5.0 (193 reviews)
+・Highlights: Experienced therapists, convenient BTS location, variety of massage styles, good value for money
+・Price: Budget-friendly
+・Recommended: Great for those seeking authentic Thai massage at local prices near public transport
+
+Feel Good Thai Massage
+・Rating: 4.2/5.0 (127 reviews)
+・Highlights: Clean facilities, package deals available, shower facilities provided, traditional Thai massage techniques
+・Price: Moderate
+・Recommended: Suitable for those seeking basic but professional massage services in a clean environment 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Feel Good Thai Massgae	4.2	127	https://places.googleapis.com/v1/places/ChIJpU92ukdeHTERwVOC1dNsHts/photos/AeeoHcIZQlOeitEefRKfKi0Jni5_7Fa3rY-_EDYLFeYrk-4KoxItJv7LKiDLQJqGk8WYczxE7-y0Jb6BI4onfHaqtmEZUr-ogB-zsZpwht01W-BzdunMHc1S3TE-yZ0nCJ3KJqancR2Kj-pw3pqJaX-KI89F4MoRpj55xzRvGp58Kbf6wBlObp9buokIYTJB867NIIooEPR4Lj9By2WPZS39Y4jNCKjnLCYLQ4s281ongTDPWmz_37O5p-UAAzH4kSw9sSJExYjZzCSP8ohmxG1r50UbELjOH25HE6L81IdKTFuka7ylMw6PTKs6C4zB0JAn6GaIStf69_Aq8mqmJq69IVuUsZbMON8Lu3Ona0e_qzXg08D36DEYJ37ISPu-2T4lGtciAqIRerbDvql-V_gt2D1znz9UuUt_L0-0AWDIACSimQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJpU92ukdeHTERwVOC1dNsHts/photos/AeeoHcJ-pO1cba4bJ65QQl4sh7i9w3FFBGTq8uYqUIi4ptP7bxa2Vh8oaMCQEPo8EQet1N5KVGKLUthfZjFvhDn96wXVo1lzJg9GowrjXYuW8vqDqv9Hg9N6v6xSEioIaqV9iFjk723DRDZOhNKRaF68wlnRNgk5ZxsCQVcYJ32FHxIp0x9cE31PmE3125Ia29bE13J845btaMepVcOYUujVdWGIqPH8OvovrqQoAwo_Ps3Jm91-Nuac2EApgbpsqxCcuP8ZQwxM_9csrm5AcryK8pCedZJYLI89dlzsNKJyE9nhZYcNQ-CszNL2qI8KZc_KawCh_lwfjhZGcZorNwhTWSFJ4PIDMKyNHUU5WAGsQXvvD-uU6lyT9cgMsQ9H-F5m4WXfg69cO94yuD69VTnYo38XGDKOYHQY96VJuLORGYzXdQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJpU92ukdeHTERwVOC1dNsHts/photos/AeeoHcLaeUAJ3tBAqkasvp87CgmS5OcuhhxJEUpBnpm_r1qde3n-8MVSwArbHbmZ4YO8R1JIvuFn4COZwskwtkymAEV657B9N_A0-jFrwjJ_16PgwJwwvu0zqtj-hJc2G9o9sYEpp0glHJ2x-sKVDUuxvSLxM3H1izdUPiRaZrjtwrvNPmIC3cxQllZNEp9gQtaCpAXPZNfZJqLNrtrQEZZyP_dsuHU9fju-rhjZIbFJOwSla-orBg6uO7IzdM5rnp5ek4WTew02Kk1oKkEanw_EUWZw96EEiP8uxbY8VrEwQAVBTpokxwNOCfOLCGLaZ8f3ZnK-Ysxv_QTJTMrgK640pyr6rJg3ltiDs6kYF_uAG-0VbrGeSNb5Ul15vxHYbbG9yiWMiHDdJmV_vmChel6n6_VOW0csQaAN10UCoVBcka5uWw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJpU92ukdeHTERwVOC1dNsHts	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJpU92ukdeHTERwVOC1dNsHts&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJpU92ukdeHTERwVOC1dNsHts&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Clean and pleasant massage place. Masseuses are quite skillful. PS. If you buy a package deal, you save about 10% (I did.) 	Overall, a good experience.  Told my masseuse (with the help of my wife) to go easy on me with a neck and shoulder massage and she did quite well.  Probably one of the few massages I’ve ever gotten where the service lasted the entire hour. My only gripe is the outside noise from the traffic (I know, there’s not much they can do), and my masseuse had a couple words with the other masseuse next door during my massage.  She was very kind beyond that. 	Good massage. Masseuse actually responded when I asked for more pressure.  A bit pricey for the area, 400 baht 1 hour heand and neck massage.  Facilities are clean.  There was an off duty masseuse in the next space who was texting texting texting with super loud notifications on. Super annoying.	Good professional massage. They have shower available, they provide pants for patrons, they provide tea, all that small things. Apparently locals go there too (overheard one talking on the phone next to me) Positive Professionalism	Recommend to get a foot massage by Khun Mam. She is a part-time masseuse but very good. You can book for her on the weekends. 	Very good service and relaxing massage. The ladies know well about the massage techniques. Thanks a lot for a wonderful Thai massage. 	Authentic Thai massage with soothing and relaxing environment! A good place for you to relax your soul for couple of hours ! 	The place to be! Always a highlight for me to relax. 	The lady was doing her job just horrible, painful and uncomfortable I hated it and just left. But my friend was ok. 	Very nice real thai massage, nice place expert staff affordable price, athrapist name miss wa is very expert and professional. 	Always have a good experience here. Quality massages and very professional. 	Best massage on the area by far! 	“Massage is good to the strands. The massage was very satisfying.” Before going, it is recommended to make a reservation and inform us what type of massage you want: light/heavy. Each person's experience is different. The doctor I booked and massaged today requested a 2 hour intensive massage. Royal style, thumb press, strong and precise lines. When stepping on the legs, it was hard at the point, didn't hit the bones, and the force was stable for 2 hours. Bael fruit juice is delicious. I've studied massage and only when the doctor holds the first line will I know if I'm good at massaging or not. I'll stop by and go back for another massage. The price is suitable for the quality.	Bad massage, focusing on force, not hitting the tendons, massaging the neck, shoulders, the doctor told me to lie face down for 1 hour, did not change positions until my arm hurt. When I moved my arm because it hurt, he pushed it back to the original position with his hand and complained not to be afraid. When I told him that my arm hurt, he said that he was afraid himself, it must hurt anyway. Does the doctor really not know if the muscles are afraid or tense? I like massages a lot, but I have never met any shop that massages with force. In the end, when I got home, my neck was still tense, and my arm hurt too.  Some people are lucky to get a good doctor, but my girlfriend was unlucky. They should maintain the standard because the price is not cheap.  I want to give 0 stars but I didn't.  What a waste of money. A massage for 2 people costs 1,500 baht. It's not worth it. The name should be changed to Feel Bad Thai massage.  If you want to come to this shop, I recommend getting a massage at a coin-operated massage chair instead. 	The price is reasonable, they are friendly, and the massage is good. I recommend it as the parking facility is also good!!	The first massage was very good. The second time I got a massage, I didn't really hit the right spot, and the staff gossiped about customers who just left the shop... 	It's been a while since I've gone to get a massage, but here all the masseuses are very skilled. 	Good massage, but the area may be a little small. Minus 1 star because the masseuse likes to talk to each other often. 	I personally like it. Good massage, strong but not painful. The shop is clean, fragrant, quiet, good service, polite. There is a zone divided into massage rooms. clear foot massage	Clean, good masseuse, 2 hours worth the price. 

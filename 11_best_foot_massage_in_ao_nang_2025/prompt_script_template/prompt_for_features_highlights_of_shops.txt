@@ -1,0 +1,14 @@
+read the tsv below and summarize each shop in this style:
+Shop Name
+・Rating
+・Highlights: use insights from the reviews to craft unique, personalized highlights—not copied phrases
+・Price
+・Recommended (brief description of the ideal customer)
+
+Do not add any introductions or any closing statements
+
+Output
+summary_of_features_and_highlights_of_all_shops.txt
+
+
+[TARGET_SHOP_TSV_ROW]

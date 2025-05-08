@@ -1,0 +1,82 @@
+お店（KOKO MASSAGE & SPA）を以下の形式で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- 日本語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/temp/5_best_foot_massage_near_suvarnabhumi_airport_2025/sections/2/ja/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+
+Relax Home Massage สาขาบางนา
+・Rating: 5.0/5.0 (274 reviews)
+・Highlights: Tranquil cafe-style ambiance with fresh aromatics, highly skilled therapists specializing in targeted pressure point work, exceptional post-massage care with complimentary Thai herb drinks
+・Price: Mid-range with excellent value
+・Recommended: Perfect for those seeking a premium yet authentic Thai massage experience in a modern, clean setting - ideal for first-time visitors to Thailand
+
+KOKO MASSAGE & SPA
+・Rating: 4.9/5.0 (1,620 reviews)
+・Highlights: Luxurious spa facilities, comprehensive treatment packages, skilled therapists trained in therapeutic techniques, complimentary mango and lotus tea service, airport transfer service available
+・Price: Premium, with package deals offering good value
+・Recommended: Excellent for travelers seeking a full-service spa experience near the airport, particularly good for office syndrome relief and couples treatments
+
+VEORA Spa
+・Rating: 4.9/5.0 (165 reviews)
+・Highlights: High-end spa ambiance, comprehensive beauty and wellness services including salon treatments, professional staff with excellent technique, quiet and serene atmosphere
+・Price: Premium
+・Recommended: Perfect for those seeking a luxurious, full-service spa experience with both massage and beauty treatments
+
+SUPAWADEE MASSAGE
+・Rating: 4.8/5.0 (168 reviews)
+・Highlights: Expert therapists skilled in traditional Thai techniques, spacious treatment rooms, immaculate facilities, specializes in Thai balm and therapeutic massages
+・Price: Moderate
+・Recommended: Ideal for those seeking authentic Thai massage with a focus on therapeutic benefits
+
+Maruey Thai Massage
+・Rating: 4.7/5.0 (193 reviews)
+・Highlights: Professional therapists with strong technical skills, peaceful environment, thorough consent process, excellent English communication
+・Price: Budget-friendly
+・Recommended: Great for solo travelers seeking quality massage at reasonable prices, especially good for those who prefer stronger pressure
+
+Roma Massage & Spa
+・Rating: 4.7/5.0 (200 reviews)
+・Highlights: Clean modern facilities, skilled therapists, comprehensive treatment packages, loyalty program available, convenient location
+・Price: Mid-range
+・Recommended: Perfect for regular visitors seeking consistent quality and value with membership benefits
+
+Relax Place (Little Walk Bangna)
+・Rating: 4.7/5.0 (165 reviews)
+・Highlights: Serene atmosphere, skilled therapists, specializes in hot stone massage, advance booking recommended for weekends
+・Price: Premium but justified by quality
+・Recommended: Ideal for those seeking a reliable, high-quality massage experience in a shopping center setting
+
+Foot Massage Balsabai
+・Rating: 4.6/5.0 (156 reviews)
+・Highlights: Specialized foot massage expertise, modern clean facilities, quiet environment focused on relaxation, late-night operation
+・Price: Mid-range
+・Recommended: Perfect for tired travelers seeking expert foot relief, especially after long flights or shopping
+
+Na Siam Massage
+・Rating: 4.4/5.0 (193 reviews)
+・Highlights: Experienced therapists, convenient BTS location, variety of massage styles, good value for money
+・Price: Budget-friendly
+・Recommended: Great for those seeking authentic Thai massage at local prices near public transport
+
+Feel Good Thai Massage
+・Rating: 4.2/5.0 (127 reviews)
+・Highlights: Clean facilities, package deals available, shower facilities provided, traditional Thai massage techniques
+・Price: Moderate
+・Recommended: Suitable for those seeking basic but professional massage services in a clean environment 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+KOKO MASSAGE & SPA	4.9	1620	https://places.googleapis.com/v1/places/ChIJ3dZtMu9fHTERhKPAeVAuL_E/photos/AeeoHcIyu02XWnjHOlLIvFjzh00GM3Qr3-rhzcpF89a_Xi_hXr20P3sytpdgwD_U5U2ZLP5Truuyw9PvPRSepcoNPDNhUu0fQWkezaxZRyVvedRxjYJTztYvJVxyDHu4EYd9kJ-zNHZxfXyXTGxOHK15frh88X3Afix-WVkLoknxoRhdvNgVY-CiGq8rRTyasuK7rchkE35GJdqro3B1fQxs04p9s2ur_ixlqke-glKH_BkpfsCQ8LdRs-o3laRR5gq8R6-sXZPJ5nGf-TzRfa73IKzMCOpcUJzs-5H-e-c8kLY5aFgViTuya_eLMmL_V9vhxE64JPO1QxjUWKJpKBuHAn4gVbdEsbPESTvhibqDOphH55AuEIX5xx8WupKfn942NNa5ySVi4Jv1EYvzL1SXIWfEVbvgBeX_hlBRK4pPLCCpJg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJ3dZtMu9fHTERhKPAeVAuL_E/photos/AeeoHcIIzES5NXQ8E3Vl3jw8-aO60hZUFk8jtqLHtDhhp77I4YPseS7ryZN0qLp8bsQrQsGdBG8sW5Iq-6GXH4qNG65lgvxO1HTWjrI9PT9B109SQD8Olj7gPTTcIWrRnoDD9kgtppX4GWGOq5mTrBSsMoHy-QEHp4WqgM_xl7Hbrkfe7byg-p7w4cCD_4SEw4lO2Ponqao0OVIViAynF-UdEkoCjlfYm5I-C5Up9iOoTV1ODmX3EdPOfDppTVe9YrfnuSkkdtR3LAWTYP5j_g8zvbn3AnitY3tetM_pIls1AmuHt7yKDoav_ntx0E81LTiYH27ZBGccmlfdY9qaK9l8YTcYK76mJiydzmOmeziMzCcGJ-jHm6rfMfogl1-CvpsLtc95Imi_UHhzyaBmXXkY4mVSU-5M8A98OaZh67R91eK7aw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJ3dZtMu9fHTERhKPAeVAuL_E/photos/AeeoHcIRbSRtgxReLIdohdNvThzAG3Lb__RHvhGNs-Yl1wjZ9UXUfk0hp4rQ9eNAkz30GWsziauXj2P-aOGL4SruYlp9ZIpJqbevyz7FtNjy8YC9mslH5amN3rr9DvYW6E_kSOrq7v8JikDQ0K-zdwHtKvVXW0vU0sXXmwulu5J0AW73VS_zR9r8LStHkH4U6Lvwq0uJw5swuILWqFDAtLR8KHVH2m9wIyyNA8Hhyqlb8Z5ZmFwzf1N70yf6TeKq1_qf6yUzdEQMq2nYCOU9XirUIsqpyY6q1l6NI-IhlT-4eBFZ0-Sd2zQyVWWq2bVQuDw9mt1c-S93A1228KloypedLC5xhkQI06YQgsy-QZ3JUuPDSc3nqRNTkN8rvW5IP5FXraDtowXFM5ggeC4JsKSFHezFZKQ3AN9rQ5CZ_MmCycv9yg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJ3dZtMu9fHTERhKPAeVAuL_E	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ3dZtMu9fHTERhKPAeVAuL_E&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ3dZtMu9fHTERhKPAeVAuL_E&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	We follow this massage from review and because of close to our hotel where we stay. Overall nice relax and staff was nice service and not talk too much. Enjoy to relax and reasonable price. Strong massage enough,I like here. 	Just had the most amazing massage at Bangna Area! The staff were incredibly friendly and knowledgeable, and the place was spotlessly clean with private rooms for couples and individuals. There was plenty of parking, and it's conveniently close to the airport. I treated myself to a coconut scrub and an aroma massage, and let me tell you, my skin feels incredibly smooth, and my muscles are so relaxed! It's exactly what I needed after all the sports activities I've been doing. 	Here’s a concise and natural review based on your experience:  I had an absolutely wonderful experience with both the aroma massage and facial treatment! The atmosphere was incredibly relaxing, the space was clean, and the staff were polite and highly experienced. The scents used in the aroma massage were soothing, and the facial left my skin feeling refreshed. I felt completely pampered and would definitely recommend this place to anyone looking for a top-notch massage and facial!  Feel free to tweak it to match the specific place or add more details if you’d like!	Good massage place . Many korean tourists over the weekend. . You should make reservations before you go. But weekdays are ok to go walk in.	Wan was great to me, she did a 120 min Thai massage and was strong handed until the very last minute. Thank you for your effort. Great team and ambience. 🥭🍵💆🏽‍♀️I will be back and I recommend highly! I walked out feeling like newborn.🫶 … 	It was a really pleasant and lovely massage!  We went there right before we go to the airport. It was so good that we could take a shower before we get on the plane at late night. Everyone was so kind there also. Reasonable price, clean and good massage skill. Definitely will go again when i visit Bangkok again!	Less than 30min by taxi from the airport. I hugely recommend to someone who need relaxation after a long trip before going back to your home. I made a reservation days before via Messenger. There are menu and price list on their Facebook page, so you can see your preference. I received total three hours package G; scrub, oil massage and facial hydration massage. It was all great. They offered me cut mango + lotus tea after the treatment. They kindly arranged a taxi dropoff to the airport, which was actually cheaper than Grab… costed 240thb. Overall good hospitality. Note that the place is on 2nd floor of the building, and the entrance is within the courtyard not faced on the street. 	There is an empirical rule in massage shops in Thailand. In most cases, it's not the place, it's the lady. In my case, I have had much better experiences in regular places, than in fancy places like this one. But at least, when I pay 400 baht for Thai massage, I expect the manager to have only professional stuff. Today I was massaged by an amateur. The 1-star goes to the shop. People should be aware that they might not get a class-A massage here, despite the very good reviews. 	I just had the best massage of my life here at Koko Massage and Spa. My whole body was aching from work and I tried their therapeutic massage for office syndrome. The strength used is just nice and the masseuse is pressing on all the right parts. Will definitely visit again next time I am in Bangkok! 	KOKO Massage & Spa is one of the best spa in Bangkok. Whenever I visit Bangkok, I always come here for a massage. The therapists' skills are very good. "Office Syndrome" massage course is recommended. 	I have been living in Bangkok for over 5 years and this place is one of the best. The facility is much nicer then the price reflects. The massage therapist will tailor the massage your pleasure. I highly recommend this place. 	We choosed package C. They gave us 2 hrs service and after the massage, they gave us mango and tea. The massage skill was really good. And the people was really kind. Thank you! 	Loved this place so much we came twice.  It's less than 30 minutes from the airport, and it was actually on the way from our hotel in Bangkok.  The service is great (welcome drinks and mango dessert after), and they provide a couples room for anybody coming together.  The prices are very great as well, and I would recommend this to anybody considering a massage. We did package F the first time which was great starter for a 3 hr massage started with a body scrub. The second time we received 1 hr thai massage and 1 hr head neck shoulder massage- highly recommend! 	Pricey compared to other local Thai massage places. But it's not in vain. They do try to make your experience relaxing from the very first moment you walk into the door.  Massage itself was OK. Not bad. I had a private room for scrub and oil massage.  It was quiet and I was able to take shower right before massage, which is helpful for hot, sweaty Thai days 	Great overall service and best massage of my life!!! 1000000/10 😍 The owner was very kind and charismatic, staffs very attentive and the therapist skillful. I’m coming back next time for sure. Everyone should try KOKO massage when in Thailand. 	The spa itself has a great atmosphere, it’s very clean, calm and inviting for both men and women. I’ve gone twice. Once for a whole body massage and the other for a facial( very basic). Both times the staff where polite and patient.. 	Best massage experience so far in my life. Highly recommend!! 	By far the best massage I've ever had in my life. My masseuse was Jen and she did an amazing job. Great value, attentive service, and high quality massage. Will definitely return 	The masseuse was polite and funny at the same time. They will offer you membership with unlimited time of usage of period with the deposit system. I forgot to take pics, the place was so relaxing. 	Very good Thai massage. Facility is large and clean. Staff is courteous. I will be back. 

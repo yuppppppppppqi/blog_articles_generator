@@ -1,0 +1,42 @@
+Write a Conclusion for a blog post titled [TEMPLATE_TITLE_BLOG_EN].
+
+Guidelines:
+	•	Write in natural, personal blog style, like it’s written by someone who actually lives in Thailand.
+	•	Refer to [Summary of Features and Highlights of All Shops]
+	•	Use simple and easy English, suitable for non-native English speakers.
+	•	The target audience is:
+		1.	Travelers visiting Thailand
+		2.	Expats living in Thailand
+		The conclusion should be appealing and relatable to them.
+	•	The author has lived in Thailand for 3 years, and this local experience should feel like a trustworthy point.
+	•	The SEO keywords are: “[TEMPLATE_PRIMARY_FOCUS_KEYWORD]” and “[TEMPLATE_SECONDARY_FOCUS_KEYWORD]” — include both naturally.
+	•	The intent is informational (not salesy or promotional).
+	•	Word count should be 100-150 words.
+	•	If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags naturally. do this 4-6 times. do this at least 1 time in the first paragraph.
+    •	Do not add any introductions or any closing statements.
+    •	add new lines in once 2-3 sentences for better readability.
+    •   Wrap the paragraph with this format: <!-- wp:paragraph --><p>...your sentence here...</p><!-- /wp:paragraph -->
+
+Inserting a link:
+    Naturally insert a link to the related article using the following format:
+    <p>[Write a short, engaging sentence that encourages the reader to learn more, and include a link like this: <a href="[TEMPLATE_INTERNAL_LINK_IN_CONCLUSION_URL]">[custom anchor text]</a>.]</p>
+    On the next line, also include this WordPress embed block:
+
+    <!-- wp:paragraph -->
+        <p>
+        <!-- wp:embed {"url":"[TEMPLATE_INTERNAL_LINK_IN_CONCLUSION_URL]","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+            <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+                <div class="wp-block-embed__wrapper">
+                    [TEMPLATE_INTERNAL_LINK_IN_CONCLUSION_URL]
+                </div>
+            </figure>
+        <!-- /wp:embed -->
+        </p>
+    <!-- /wp:paragraph -->
+
+Output:
+conclusion.html
+
+
+[Summary of Features and Highlights of All Shops]
+[TEMPLATE_SUMMARY_OF_FEATURES_AND_HIGHLIGHTS_OF_ALL_SHOPS]

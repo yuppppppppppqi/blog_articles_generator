@@ -1,0 +1,138 @@
+Summarize the first shop (Lek Massage Bangkok - Lek Thonglor) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "best_foot_massage_in_thonglor_2025/contents/09_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Loft Thai Spa & Massage - Sukhumvit 38
+・Rating: 4.9/5 (941 reviews)
+・Highlights:
+  - Exceptional boutique ambiance with thoughtful Thai design elements
+  - Highly personalized service with detailed pre-treatment consultation
+  - Professional therapists with superior technical skills
+  - Complimentary extras like welcome drinks and post-treatment snacks
+  - Pristine facilities with private treatment rooms
+・Price: Premium (4800+ THB for specialty treatments)
+・Recommended: Perfect for luxury spa enthusiasts seeking a high-end, comprehensive wellness experience. Ideal for those who appreciate attention to detail and are willing to pay more for superior service.
+
+Po Thai Premium Massage Thonglor Branch
+・Rating: 4.7/5 (135 reviews)
+・Highlights:
+  - Clean, modern facility with professional atmosphere
+  - Skilled therapists specializing in authentic Thai techniques
+  - Convenient location near BTS Thonglor (Exit 3)
+  - Uses traditional Thai snake powder post-massage
+  - Excellent foot scrub and massage combinations
+・Price: Mid-range (300-700 THB)
+・Recommended: Great for those seeking authentic Thai massage in a clean, professional setting. Perfect for travelers staying near Thonglor who want quality treatment at reasonable prices.
+
+Forest Massage & Spa Onsen
+・Rating: 4.7/5 (359 reviews)
+・Highlights:
+  - Japanese onsen experience combined with Thai massage
+  - Customizable massage pressure and focus areas
+  - Serene, nature-inspired ambiance
+  - Professional booking system with off-peak discounts
+  - Excellent aromatherapy treatments
+・Price: Premium (2050+ THB for packages)
+・Recommended: Ideal for those seeking a unique fusion of Japanese onsen and Thai massage. Perfect for couples and anyone wanting a full spa experience rather than just a massage.
+
+Let's Relax Spa - Ginza Thonglor
+・Rating: 4.6/5 (478 reviews)
+・Highlights:
+  - Spacious, well-designed facility with calming atmosphere
+  - Heated massage beds for extra comfort
+  - Professional therapists with consistent quality
+  - Convenient location in Grande Centre Point Hotel
+  - Complimentary mango sticky rice post-treatment
+・Price: Upper mid-range (400-1000+ THB)
+・Recommended: Perfect for those who prefer established spa chains with reliable service standards. Ideal for hotel guests and those who appreciate a more upscale massage experience.
+
+Tiger Massage Thonglor 6
+・Rating: 4.4/5 (628 reviews)
+・Highlights:
+  - Excellent value for money
+  - Strong, therapeutic massage techniques
+  - Peaceful atmosphere despite busy location
+  - Professional and respectful staff
+  - Good for both Thai and oil massages
+・Price: Budget-friendly (320 THB/hour)
+・Recommended: Perfect for those seeking authentic Thai massage at affordable prices. Ideal for regular massage-goers who prefer strong pressure and therapeutic techniques.
+
+WARA Massage Thonglor
+・Rating: 4.4/5 (52 reviews)
+・Highlights:
+  - New, clean facility with modern amenities
+  - Strong focus on deep tissue massage
+  - Convenient location near hotels
+  - Professional staff and good English communication
+  - Fresh and well-maintained environment
+・Price: Mid-range (350-700 THB)
+・Recommended: Best for those who prefer newer facilities and appreciate a clean, modern environment. Good choice for hotel guests and English-speaking visitors.
+
+Kenko Beauty & Massage
+・Rating: 4.3/5 (74 reviews)
+・Highlights:
+  - Clean, comfortable environment
+  - Skilled therapists for neck and shoulder treatments
+  - Online booking with promotional offers
+  - Late operating hours
+  - Combined massage packages available
+・Price: Mid-range (300-600 THB)
+・Recommended: Great for night owls and those seeking last-minute bookings. Ideal for those who want both beauty treatments and massage services in one place.
+
+ThongLor Dala Massage
+・Rating: 4.3/5 (368 reviews)
+・Highlights:
+  - Strong therapeutic massage techniques
+  - Clean and calming environment
+  - Experienced in treating muscle problems
+  - Good booking system to avoid overcrowding
+  - Reasonable prices for the area
+・Price: Mid-range (350-500 THB)
+・Recommended: Perfect for those who prefer stronger, therapeutic massages. Ideal for customers with specific muscle issues or those seeking traditional Thai massage techniques.
+
+Lek Massage Bangkok - Lek Thonglor
+・Rating: 4.2/5 (184 reviews)
+・Highlights:
+  - Well-designed, clean facility
+  - Membership program for regular visitors
+  - Multiple services including spa and salon
+  - Professional atmosphere
+  - Convenient location
+・Price: Upper mid-range (400-600+ THB)
+・Recommended: Suitable for those seeking a one-stop shop for massage, spa, and beauty services. Good for long-term residents who can benefit from the membership program.
+
+Top Thai Massage Sukhumvit 55
+・Rating: 3.9/5 (194 reviews)
+・Highlights:
+  - Convenient location in Thonglor
+  - Basic but clean facilities
+  - Affordable prices
+  - Walk-in friendly
+  - Various massage options available
+・Price: Budget-friendly (300-500 THB)
+・Recommended: Best for those seeking basic massage services at lower prices. Suitable for walk-in customers who prioritize convenience and affordability over premium experience. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Lek Massage Bangkok - Lek Thonglor	4.2	184	https://places.googleapis.com/v1/places/ChIJfzt3WdWf4jARLnT0Xg_RUik/photos/AeeoHcLfgNMqjH-RFISmInnG4krhR0VFuOLj2YDCTMTtRYBXFX66HkXixpN49xkoPsLNfRG3aG5N9HnDjSfEWwx8MTL-q0nF67Ol-4fLRN2A5ZwSr6OYBF-VW5HCWKChJPUfRThTjzQo7-TleRmi5sgGIbOg-T8kpUjBDf0OAQkWQIxKjnfvr6wmBsrBzfL73y-cjl_DQvAdUxwPfl2aw-TvB0WVG2pBCKOxFsAlvFJUk3OtB11gNNwCZ5HCRr4PmmyYBZ6cI8IpodnZ18-qKFrQ2Ry3ktgKM5k76mSvvsv2ckXJEg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJfzt3WdWf4jARLnT0Xg_RUik/photos/AeeoHcL0l-FTh29SKq1mrvJjvPTb8oe0p92P4oP_28yESd9d4DfMC3daHsADTZMl7QbVFTqbu0VMYzo9DbPrRbAVFOd-4OCU2XBnGePQQtlFUSdUfRCc-wCcy9QZB_G_Va0utDA4Y1aZIXYeIdCzvuofrm-0_aT8qqrmpOp_yV4wKzktUxCULXn7710DU6umDoXlgpmKdl1AzEtJ8Lk429ji4KBGRTG0Rg1c2nOsfdsENTj-j4P4OpaPxdnuk25mrsyLX96KUOoJ3hBf3CjGK_7cZFfNHU0gdoh9A4FQuPaHUgr-5Q/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJfzt3WdWf4jARLnT0Xg_RUik/photos/AeeoHcL27HsC6oGlf78QeiIT5aRXCn39qoIQ67G4baCxqWEqyaGy2FZq_EhDyiVs3ClO_JC79ZH5PcP3moVDJYoIn-gOBJFTkPDjozRm8LDmFn4DYt0Ksw3k0hgBjsTcMXHRP115ww6C70lfmjpC5yZ58zs0O_JDn6KwSdL_IliFueyMnia3mzhOJ1a3KOrGoWORfH5om42KwuFFt2lNAsRnJlXMzuZ8pGLgqMiVzZ3yataCO8Sk7_Y7cSVu_Ht-cSP5AoS0AVtoDp301BwCEnWDrQGqCgkP-0uX-KUgPYKylbLNxw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJfzt3WdWf4jARLnT0Xg_RUik	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJfzt3WdWf4jARLnT0Xg_RUik&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJfzt3WdWf4jARLnT0Xg_RUik&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	This is located opposite Donki mall at Thonglor soi 10.  I go here often.  The price is more expensive than other massage shops in Thailand.  There are some massage therapists who are not very good at times, but overall I am satisfied. 	I had a great massage here. Walk in no appointment needed (but might need to make one at busier times or for groups/specific services). Across from Donki Mall and it was next to my lodging so very convenient if you’re staying in the area.  Reception spoke English and could explain their membership program. If you’re staying for a longer period may be a good option.	Service is excellent!! I booked through Class pass application for 2 hours (Foot & Thai massage) Khun Thong, the masseur, provided very polite massage and strong endurance. I do recommended the place 	Really great quality of staff considering it's a chain. Service is attentive and nice. Def recommend making a reservation before going as it's a pretty busy location. 	I booked a Head & Shoulder Massage which cost 400 Baht for 60 mins! The receptionist is polite and friendly ☺️ I waited 10 mins sitting on the couch at the lobby and I was bringing into the massage room, the massage lady is professionally doing her job 😁 I like the service! … 	Clean, relax, comfy plc.  Good massage. 	Good professional service, water and tea free	Rude, incompetent staff (manager / administrator), maybe this problem is only in this branch, but I never got to the massage, have no desire to get relaxation here 	Got a shoulder and neck massage and it was just pathetic. She was basically just touching me. Do they just learn from YouTube videos now days? 	First impression, the lobby is very clean and well designed. I had a full body oil massage. The masseuse was very experienced  and did an awesome job taking away all the knots. My whole body felt relaxed during and after the massage. It’s well worth the money. 	Semi-rude receptionist, tried so hard to upsell massages. My masseuse was 15 mins later than the ones my companions received, and when she finally arrived she gave me the worst foot massage of my life. I basically just paid 450 baht for a foot rub. The entire hour I was just waiting for it to end. Also, I think several of the masseuses were sick, they kept coughing. Not recommended.	I really impressed with their services. I’ve been the member here and always come here. Every time I came here, I try to test other massage types and it’s not disappoint me at all hahaha. Also, the salon is quite good but the hair towel a bit smelly! Hope you might solve this small issue haha. Anyway, I still recommend you guys who finding Thai massage which is a painless massage Please try this store ^^ 	This is the worst massage I have ever experienced. The lady seemed completely clueless about what she was doing, merely stroking my feet without any pressure throughout the session. When I requested more pressure, they started using excessive force, causing me pain rather than relaxation. 	I always go to Lek massage for a genuinely amazing and relaxing massage and my manicure\pedicure and hair needs. The service is 5 star. My partner and I desperately wanted a foot massage at 23:30 and I really appreciate that Lek massage thong lor managed to fit us in for two 30 min massages right before closing. Thank you very much and see you again soon 	I chose foot and hand spa Include normal nail polish.foot spa There is no disposable bag, which is unsanitary and the clerk does not provide it. We told the clerk to cancel spa only polish， The clerk actually gave us all the money back and asked us to do it somewhere else. Very speechless and poor service attitude. 	If you find a therapist named Addy, you won't regret it. I got a really cool Thai massage and felt professional that I've never felt at other shops. I'm a professional trainer and I'm good at recognizing muscle movements. 	I love coming to this place. Mae Kat is amazing, every time I come in with pain in certain areas I wouldn’t tell her where it is, yet she manages to find it and massage it better. If does have a heavy grip but if you are like me (who loves tough massages) then she would be the one for you. 	Massage was ok, good pressure and good techniques. But the masseur my friend and I had kept talking and laughing for no reason. Could have been more professional and respectful while we were trying to relax and sleep. Rooms were filled with mosquitos too.	Was having shoulder issues in my right rotator cuff.  A woman named Duen did a great job with deep-tissue massage- pressure applied specifically at correct spots.  Great massage, good, clean place; I'll be back	DO NOT GET YOUR NAILS DONE HERE. My gel manicure lifted in a couple of days and the cuticle was prepped well. Got a pedicure done as well but you have to pay extra to scrape the dead skin off your feet (which is a first it’s usually included) but the base of my feet was still flaky and wasn’t smooth.

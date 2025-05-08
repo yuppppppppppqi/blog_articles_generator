@@ -1,0 +1,82 @@
+Summarize the first shop (Himawari Massage Spa and Onsen) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "6_best_foot_massage_near_don_mueang_airport_2025/contents/02_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Ploenchiva Massage
+・Rating: 4.7
+・Highlights: Modern spa with elegant decor, attentive staff, and skilled therapists known for strong deep tissue work. Offers complimentary tea and cookies with each service in a peaceful, clean environment.
+・Price: Mid-range
+・Recommended: Perfect for travelers seeking a premium massage experience in a stylish setting near Don Mueang Airport.
+
+Himawari Massage Spa and Onsen
+・Rating: 4.9
+・Highlights: Japanese-inspired spa combining traditional massage with authentic onsen experience. Features private baths with customizable water colors and aromatherapy options in a tranquil setting.
+・Price: Premium
+・Recommended: Ideal for those wanting a complete relaxation experience with both massage and onsen bathing in a Japanese-style environment.
+
+SALA Theprak
+・Rating: 5.0
+・Highlights: Immaculately clean spa with exceptional service and highly skilled therapists. Known for their attention to detail, relaxing atmosphere, and consistently high-quality treatments.
+・Price: Mid-range
+・Recommended: Perfect for those seeking top-tier massage services in a serene environment with impeccable customer care.
+
+Belleza
+・Rating: 4.9
+・Highlights: Established luxury spa with 15+ years of excellence. Specializes in aromatherapy, herbal compress treatments, and office syndrome relief. Known for personalized service and consistent quality.
+・Price: Premium
+・Recommended: Ideal for regular spa-goers looking for expert care and treatments specifically designed for office workers and chronic pain relief.
+
+Relax Home Massage
+・Rating: 4.9
+・Highlights: Minimalist Japanese-inspired decor creates a soothing atmosphere. Known for excellent body scrub treatments ("dung bomb") and aromatherapy massages in a clean, Instagram-worthy setting.
+・Price: Affordable
+・Recommended: Perfect for those seeking value for money in a stylish environment, especially those interested in exfoliating treatments and skin care.
+
+Fortune Massage Phahonyothin 69
+・Rating: 4.9
+・Highlights: Clean, cozy spa with skilled therapists known for their strong pressure techniques. Offers complimentary bael fruit juice and creates a welcoming, relaxing environment.
+・Price: Budget-friendly
+・Recommended: Great for those who prefer firm pressure massages at affordable prices in a simple but well-maintained setting.
+
+Gen Massage
+・Rating: 4.9
+・Highlights: Modern minimalist spa with excellent customer service and specialized treatments for office syndrome. Offers both traditional and aromatherapy massage options.
+・Price: Affordable
+・Recommended: Ideal for office workers suffering from neck and shoulder tension who want targeted relief in a contemporary setting.
+
+Rean Sritrang
+・Rating: 5.0
+・Highlights: Exceptionally skilled massage therapists with a focus on therapeutic techniques. Clean, comfortable environment with soft background music and friendly, attentive service.
+・Price: Mid-range
+・Recommended: Perfect for those with specific pain points or muscle issues requiring experienced therapists with healing hands.
+
+Meghalaya Traditional Massage
+・Rating: 4.8
+・Highlights: Authentic Thai massage techniques delivered by professional therapists. Offers strong deep tissue work, stretching, and traditional methods in a dimly lit space with Thai music.
+・Price: Budget-friendly
+・Recommended: Ideal for those seeking genuine Thai massage with firm pressure, especially convenient for airport layovers.
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Himawari Massage Spa and Onsen	4.9	277	https://places.googleapis.com/v1/places/ChIJKXTzCqeD4jAReK-7h-jBgVM/photos/AeeoHcI4WNABaJKNP9Ubd7LAqTaPAwSY1JOXsSvudCGk7TS2APA9kNI-mUgHkfg_1axSt3YfFhp4iuM0y5eM7T7X9PcCDCsCEUOZnVeRMUERJX8cl-BSeAlk1z_u1qMoK3NqGp8LNLYft4gfAuZT267t1m9HV3gpTBlmiqpfdQSgcOGDJYZiSSzgeEfU9_1st7dfo527k9jyJCVR64UWLvFJylNdYr9_r4tIPbLEAtFv82Idgkl3f6aLeRMxV6bCr3bBexQqc03M2eIFd-NV4sxavPoh2X8e4H_skHZYrKzxmLl4lQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJKXTzCqeD4jAReK-7h-jBgVM/photos/AeeoHcKaMMgjKBkpW6a-OxSyAVPi-PJDgdVDj6N0yYbeKg3d8zokvyXb_BRderRPojlxuERGI1v6kv4zJ4pFsSwDNH9ijGfA546cSxf1fFc9gSscExilym3rgY3RQUX-vBFFOCCu2mSgP9apeN35g_5Rca9Jy1eI2XLzFuG5eD-16bZSP51-klwEfVSTR83rsAyY7fJT5sjc-svrEDKsZV7PHkKJ2OMWgpPhkaHstykhRDkktvMd81MnDWPo1SFoxlYq5iPp9tQ3MM2Nuli2uYezV2Ij2zCa9uv9F_MOmD5D46Vc_awLHTNfqnoWAlOoA8FQqns31xnaBu0Xuh_rONDlN4_LCGXd-GOzQQodMP2ka_F7EaWH6Pm9_sNK7YlDcIiNo8yCJ1cM186ojSYbpXyszVRNceg6C4iYL63pR-KqjEJ4Bw7G/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJKXTzCqeD4jAReK-7h-jBgVM/photos/AeeoHcLWTpIeR3hk3o_6wMtpjSEEE-9I33U08tCfi3loyoQ2r1l-tw84I_IJbZdo9QRUhEcadREXB_GFWYs8SxKluSHwpY0y1GUJPub-wzldDTyqqZJote80pzrCiK_pMe3bu0udW7KewgD7rsN2s3C_nhFykpEoqzSKabM2d4MwC1-aKcJvlPjXjWk5glsvP-s_VBJyQx2q_bKCxvwS4gIAkJBuQL_o4wSLylG5yxTZNQC2kGo0OLHN9HXMIu4Iuxq0Cur1bPZ5PVOXEZ1cdn_D98yfLdPUYZtY8HPUoTPQVoWveQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJKXTzCqeD4jAReK-7h-jBgVM	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJKXTzCqeD4jAReK-7h-jBgVM&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJKXTzCqeD4jAReK-7h-jBgVM&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	I booked through WhatsApp. Unfortunately the Onsen was full so I changed to steam bath and oil massage. I was given a private room with shower and the experience was perfect. Room was clean, therapist was experienced and price was reasonable. Will definitely come again. 	Feeling fresh and relax  like I’m in Japan. Nice and clean. Friendly staff. Reasonable price.  There are 3 types of Onsen experience., to day ai selected Noboribetsu Karurusu (Hokkaido) 	We booked both Onsen and Aroma massage package. They welcomed us with cups of tea and let us choose the Aroma scent and the colors of Onsen water.  The staffs here are friendly and helpful. I would definitely come again. 	Not sure how they have received such good reviews. My wife who is Thai and a massage therapist in Australia for the last 13 years in her own business just had a foot massage. As you can imagine I have had plenty of massages and my wife knows what she is doing. My massage was ok but my wife’s was awful and she Will praise if it deserves it. The massage felt like we were sitting on the main road which the shop is right next too. As a builder there would be ways to minimise the amount of noise but certainly not something they have worried about. Staff were reasonably friendly but I think pretty tired. Place was clean and welcoming towels and drink was nice. Overall for the money very disappointing. We would have come back tomorrow for additional massage of some type but will give it a big miss and try somewhere else. 	This shop is all you need for relaxation. It offers both massage and onsen in a very nice environment. Very good service and reasonable price ✅✅✅ 	The place is very peaceful and comfortable, suitable for the messy day. Should reserve for the onsen before coming. 	Best private Onsen so far in Bangkok with reasonable price and cozy vibe 🥰 … 	Nice service, Nice environment. Should go try once!! 	Very relax and reasonable price 	This place is amazing and comfortable for everyone. If you like easygoing,you could try to go here. 	Very nice relaxing environment. 	It's the best place. They have the best service. Super clean, friendly staff. Super helpful. Mind and body relax very well. 	Great experience very beautiful and great massage 	A cool place to get relaxed physically and mentally.The staffs are nice,well-trained and the service is satisfying enough.There is also a little cafe shop in front,the drinks are must-try!! Highly recommend for those who want a chilling day at Massage shop. 	While waiting for my queue at immigration, I had the idea to come get a foot massage and spend some time at a local Onsen! It was absolutely bliss! 🤩 … 	If you're looking for decent, clean, relaxing, and reasonable price massage, this place is highly recommended.  The staff can speak English, and the masseuses are experts . They also have complimentary tea that you can enjoy after the massage. 	It is absolutely a place to go. Perfect vibe and environment. Transports you to a relaxing zone immediately entering the premise.  The session for me is perfect with a lot of care and attentiveness. Is perfect for travellers entering Bangkok through Don Mueng Airport.  Catch a massage immediately arriving Bangkok gets u ready for the city and end the trip with a relaxing massage and revive you after the trip. Bring back the love and care from bangkok to your home.  Perfect

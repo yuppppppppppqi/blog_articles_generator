@@ -1,0 +1,82 @@
+Summarize the first shop (Massage koh tao supakorn) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "17_best_foot_massage_in_koh_tao_2025/contents/05_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Manara Massage (Royal thaï massage)
+・Rating: 4.6
+・Highlights: Serene ambiance enhanced by essential oil scents; skilled therapists adept at identifying and relieving problem areas; customizable pressure levels (soft to strong); complimentary tea offered post-massage.
+・Price: Good value for money (based on reviews).
+・Recommended: Couples, individuals seeking targeted massage therapy tailored to pressure preferences, or those looking for excellent value.
+
+Koh Tao Island massage
+・Rating: 4.4
+・Highlights: Prime beachfront setting ideal for sunset views and relaxation with wave sounds; skilled application of soothing ointments (like Tiger Balm); reputed for effective foot massages; nail services also available.
+・Price: Around 300 THB for a 1-hour aromatherapy massage (based on one review).
+・Recommended: Those desiring a massage with scenic ocean views and sounds, particularly foot massages or aromatherapy. May be less suitable for those needing high privacy or complete silence.
+
+Kinnaree Massage
+・Rating: 4.6
+・Highlights: Exceptionally skilled therapists known for therapeutic results, including improving mobility; clean, calm, and inviting atmosphere; offers a diverse range of effective massages (Aloe Vera highlighted); post-massage tea service enhances the experience.
+・Price: Fair price (based on reviews).
+・Recommended: Visitors with specific muscle pain or back issues, those seeking highly skilled therapeutic massage, and repeat customers valuing consistency.
+
+Mai Thai Health Massage
+・Rating: 4.6
+・Highlights: Highly professional and skilled therapists, especially proficient in addressing injuries and sore spots; combines strong and precise techniques; clean, air-conditioned space with relaxing jazz music; complimentary tea provided after massage.
+・Price: Reasonably priced (based on reviews).
+・Recommended: Individuals seeking professional, skillful massage, particularly those with specific aches, pains, or injuries requiring focused attention.
+
+Massage koh tao supakorn
+・Rating: 4.6
+・Highlights: Consistently excellent massages, especially Aloe Vera and Thai Oil, delivered by skillful and attentive staff; relaxing atmosphere aided by calming music; personalized service including post-massage tea; features strong therapists like Mai known for relieving soreness.
+・Price: Around 400 THB for a 1-hour Thai Oil massage (based on one review); Aloe Vera massage noted as gentle.
+・Recommended: Those seeking skillful Aloe Vera massage (especially after sun exposure) or a strong, effective Thai Oil massage; appreciated by repeat visitors for consistency.
+
+Paradise Massage
+・Rating: 4.5
+・Highlights: Prime beach location offering massages accompanied by soothing wave sounds; friendly and accommodating staff provide a no-frills, authentic experience; recognized for providing good value massages.
+・Price: Good value / Affordable (based on reviews).
+・Recommended: Visitors prioritizing a beachside ambiance and affordability over luxury amenities or strict privacy; favored by regulars familiar with specific therapists.
+
+Kayo healing massage
+・Rating: 4.5
+・Highlights: Highly-rated massages, particularly foot massage incorporating reflexology (therapist Spi noted) and effective Thai massage (specific male therapist recommended); prime beachfront location with sea views; friendly service includes post-massage tea; very reasonable prices. Also offers quality nail services with a view.
+・Price: Around 300 THB for 1hr massage (consistently mentioned in reviews).
+・Recommended: Those seeking excellent value massages, especially foot reflexology or strong Thai massage, combined with a beachfront setting. Also suitable for quality nail services with a view.
+
+Familly Thai Massage
+・Rating: 4.6
+・Highlights: Consistently exceptional and professional massages from therapists often described as having "magical hands"; known for providing deep relaxation and effectively targeting sore spots; comfortable, quiet, and well-maintained environment.
+・Price: Good value / Reasonably priced (based on reviews).
+・Recommended: Visitors seeking top-tier, highly professional massages focused on deep relaxation and pain relief.
+
+Majestic Spa
+・Rating: 4.3
+・Highlights: Offers a spa-like experience with professional service and attention to detail (intake forms, changing rooms, lockers, post-massage tea/towel); highly skilled therapists provide effective massages (Thai, foot, back); clean, beautiful facilities with comfy beds; Tiger Balm included in Thai massages.
+・Price: Higher-end price, reflecting spa amenities (based on reviews suggesting it's "worth the price").
+・Recommended: Those seeking a more luxurious spa experience with extra amenities, focusing on professionalism and comfort; effective for relieving desk job-related muscle knots. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Massage koh tao supakorn	4.6	158	https://places.googleapis.com/v1/places/ChIJ5eoACaGhVTARaujlBKplfCA/photos/AeeoHcLv3L79f-kcFS5z4vtC2M_SivxWIxfWlZckngdNGDPb5SbwQV9Blb_fdaCKwJzVaHOcEivVZBivLE7bvHCCZglzk8sWKCoEbgATPEThqNaC7MMmw34EDNPlhdwoy0GSCNvlLfnCyXy1CPEOYCWhDEpKsz7H1vJUDviq213dsrpCtuGTItaPFo_jzhUc_yG5qtXReca-jEwFVt7sctXmrOFBvbayfpsqOyQN4nmLGAoSWC1gIzsNNGWvqqFHtEmNWOo3ulPf7JFMiCJ2xsI6cmEboH18g3FfIDkMCSzninse9w/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJ5eoACaGhVTARaujlBKplfCA/photos/AeeoHcJ0X18IPYJoMPPwPpPAN7ijgdblgNfQUQy1zydaCLaerbaBnMGJWJ8P_ZjYvbBCk5XtiMUH3kVy79kBPKmTF6PIL_UjCUEpmVYW4b5LOSyBHv6mrZn2ZRvMdcxnhlGufafwq3I7Sakvi0t0sgqFMolkF3pnp2F6BgJWg82sjx30bJ46wzpWGwQG2UF2ZGQxULLKzMn1uEeDdu39itrX2JhXsTPRC6ne6Bm2-Rth4B2YBw1uyxfH7lpX4vw86s44zzku-JHba4Dq7MkI6lPKRg_JnKVPbfJmwJH6c_XMWibgXg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJ5eoACaGhVTARaujlBKplfCA/photos/AeeoHcIejnxm_kugnCnTUj-WueTTjl6ldOFgX2KMBcguguFfEswaZCc0kByjgtG4kBxvBSu1dWYmiGndXaFKd4xe6NDCaSDp1YcYY6xskaFB9M65gZFdLQb7I0gJNJ97ssc8087xiEkOHZhIucA6KrUWf_s9nQMpU2KfWz1hK_MT78Cs0RkSgAQntYLaS-cxqJAc08FyvgH1zPk5rfNCBLp5Hwrdfb3xZ7caDdmbkO7FQa8230SUZXBy8fsPKQubzR3t3xPN4BZcuOVsZdo6LjisOrg3--rWvxEKBIBOQ0lCtkFvgg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJ5eoACaGhVTARaujlBKplfCA	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ5eoACaGhVTARaujlBKplfCA&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ5eoACaGhVTARaujlBKplfCA&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Jodie-Deane Morris-Hewitson6 reviews3 weeks ago New Absolutely excellent massage and service. The environment was super relaxed with calming music in the background. The ladies running the shop were lovely and my masseuse was very attentive and thorough. After my 60 minute oil massage  I was … MoreLike Share Response from the owner 6 days agoThank you very much for your comments  it will make the masseuses very happy that they are appreciated.	Will McCabeLocal Guide · 48 reviews · 54 photos4 months ago Really good foot massage  would definitely recommend. They gave us a free cup of tea at the end as well.Like Share	Marcel MLocal Guide · 158 reviews · 76 photos11 months ago Thank you nam for your service. It was such a wonderful time with all of you. We will 100% come back. The Aloe Vera massage is the best we ever had. … MoreLike1 Share Response from the owner 10 months agoHello and thank you again for choosing our traditional massage parlour  and it is with great pleasure that we will welcome you soon	Lucas CarnielLocal Guide · 12 reviews · 4 photos4 months ago Amazing massage and very attentive service. Had both the Aloe Vera and the Thai Oil massages. Aloe Vera is more gentle as it’s likely aimed at people who’ve got sunburnt. Thai Oil is where it’s at though  great level of pressure and you … MoreLike Share Response from the owner 4 months agoThank you very much for your comments  it will be a great pleasure to all our staff.	Rosalie WangLocal Guide · 99 reviews · 192 photosa year ago Found this gem while browsing through shops on the main street. We ended up returning 3 more times  bf loves it too! We have had lots of massages including in Bangkok but found the ladies in this shop particularly skilful. We’ve tried 3 … MoreLike Share Response from the owner a year agoHello  thank you for giving us a moment to post this review. We are happy to hear such a speech  and are satisfied for you. We will be happy to welcome you next time.	Justin KamataLocal Guide · 71 reviews · 48 photos3 months ago Amazing massage by a lady called Mai.  She actually is strong and can fix any areas you are sore. … MoreLike Share Response from the owner 3 months agoThank you very much for your comment I will send your opinion to MAY.	Ana GomesLocal Guide · 50 reviews · 19 photos6 months ago I went in and there was only one lady who was busy giving me a massage  she asked me to wait and continued the service  about 5/10 minutes later a lady who came from the street and was wearing a diving shop t-shirt arrived. This lady was my … MoreLike Share	M. M.Local Guide · 16 reviews · 2 photosa year ago I had a 90min Lavendel Aroma Massage  with Dada :) one of the best most pleasant massage I ever had I recommend this place 200% sawadee Khap  MaxLike Share Response from the owner a year agoToday we thank you for your visit to our salon  indeed DADA  100% ensures its different massages and we are satisfied. A big thank you hoping to see you again.	Mara Van MeerLocal Guide · 33 reviews · 28 photosa year ago Wonderful  relaxing massage with a very knowledgeable and incredible masseuse.  I asked for a Thai oil massage (400 baht)  but she suggested I switch to the … MoreLike Share Response from the owner a year agoHello  thank you for your comment  we wish you a good stay in Koh Tao.	Timo Ullrich5 reviews · 1 photo5 months ago Nice little massage salon that also responds to your wishes and shares your recommendations. Unfortunately they vary a bit depending on who you're with  but I think that's normal.Like Share Response from the owner 5 months agoHello thank you for your comment  but we don't understand the exact meaning when you say "with the person you are with".I would like to deepen so that there is not a grey area  because we want to have the same services to people.thank you … More	Absolutely excellent massage and service. The environment was super relaxed with calming music in the background. The ladies running the shop were lovely and my masseuse was very attentive and thorough. After my 60 minute oil massage  I was …	Thank you very much for your comments  it will make the masseuses very happy that they are appreciated.	Really good foot massage  would definitely recommend. They gave us a free cup of tea at the end as well.	Thank you nam for your service. It was such a wonderful time with all of you. We will 100% come back. The Aloe Vera massage is the best we ever had. …	Hello and thank you again for choosing our traditional massage parlour  and it is with great pleasure that we will welcome you soon	Amazing massage and very attentive service. Had both the Aloe Vera and the Thai Oil massages. Aloe Vera is more gentle as it’s likely aimed at people who’ve got sunburnt. Thai Oil is where it’s at though  great level of pressure and you …	Thank you very much for your comments  it will be a great pleasure to all our staff.	Found this gem while browsing through shops on the main street. We ended up returning 3 more times  bf loves it too! We have had lots of massages including in Bangkok but found the ladies in this shop particularly skilful. We’ve tried 3 …	Hello  thank you for giving us a moment to post this review. We are happy to hear such a speech  and are satisfied for you. We will be happy to welcome you next time.	Amazing massage by a lady called Mai.  She actually is strong and can fix any areas you are sore. …	ChIJ5eoACaGhVTARaujlBKplfCA

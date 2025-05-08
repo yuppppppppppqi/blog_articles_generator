@@ -1,0 +1,32 @@
+Create a meta description by reading the intro of blog post.
+
+Instruction
+ - Generate with 150-160 words.
+ - Output file name (save to this file): data_output/metadata.txt
+ - Use key word: Foot Massage
+ - The title of this blog post is: 10 Best Foot Massage in Ko Samui
+
+[intro of blog post]
+<!-- wp:paragraph -->
+<p>After three years living in Thailand, believe me, I know how amazing a good <strong><u>foot massage</u></strong> feels after a long day exploring! When you're in Ko Samui, finding that perfect spot to unwind is a must.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I've looked into some of the most popular places, all with over 200 reviews, to find the truly <strong><u>best experiences</u></strong>. You'll find options with <strong><u>great atmospheres</u></strong> and <strong><u>skilled therapists</u></strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you're also visiting the capital, don't forget to check out <a href="https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/">my guide to the best foot massages in Bangkok</a> too!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+    <p>
+    <!-- wp:embed {"url":"https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+        <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+            <div class="wp-block-embed__wrapper">
+                https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/
+            </div>
+        </figure>
+    <!-- /wp:embed -->
+    </p>
+<!-- /wp:paragraph -->

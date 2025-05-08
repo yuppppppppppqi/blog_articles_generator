@@ -1,0 +1,26 @@
+Create a meta description by reading the intro of blog post.
+
+Instruction
+ - Generate with 150-160 words.
+ - Output file name (save to this file): data_output/metadata.txt
+ - Use key word: Foot Massage
+ - The title of this blog post is: 10 Best Foot Massage near Central World
+
+[intro of blog post]
+<!-- wp:paragraph --><p>After a long flight, there's nothing better than a <strong><u>rejuvenating foot massage</u></strong> to ease your travel fatigue. As someone who's lived in Bangkok for 3 years, I've tried countless massage shops near Don Mueang Airport and compiled this list of the absolute best spots!</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>Each shop featured here has <strong><u>earned over 50+ positive reviews</u></strong> from satisfied customers and offers that perfect balance of <strong><u>skilled therapists</u></strong> and <strong><u>welcoming atmosphere</u></strong>. Whether you're a traveler with a layover or an expat looking for regular relaxation, these massage shops near Don Mueang Airport provide the perfect escape from sore, tired feet.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>Looking for more massage options throughout Bangkok? Check out my comprehensive guide to <a href="https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/">the best foot massage shops across the entire city</a>.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>
+<!-- wp:embed {"url":"https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+    <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+        <div class="wp-block-embed__wrapper">
+            https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/
+        </div>
+    </figure>
+<!-- /wp:embed -->
+</p>
+<!-- /wp:paragraph -->

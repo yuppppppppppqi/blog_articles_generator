@@ -1,0 +1,13 @@
+[PLACEHOLDER]
+This file is: translation/temp/7_best_foot_massage_near_central_world_2025/sections/5/ja/summary.txt
+
+It should contain a 5-line Japanese summary (200-250 characters) for Nikko Thai Massage Signature @Siam Square Soi5.
+The summary needs to be generated based on the instructions in:
+translation/temp/7_best_foot_massage_near_central_world_2025/sections/5/ja/prompt_to_translate_summary.txt
+
+The source English details for Nikko Thai Massage Signature @Siam Square Soi5 (from the prompt file) are:
+Nikko Thai Massage Signature @Siam Square Soi5
+・Rating: 4.8
+・Highlights: Senior experienced masseurs who excel at working out deep tension, post-massage tea and Thai tea custard, and dimly lit relaxation rooms
+・Price: Mid-range with 3% surcharge for card payments
+・Recommended: Perfect for travelers seeking consistent quality massage with traditional Thai hospitality in a central Siam location 

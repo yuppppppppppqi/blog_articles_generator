@@ -1,0 +1,76 @@
+お店（Manara Massage (Royal thaï massage)）を以下の形式で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- 日本語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/temp/17_best_foot_massage_in_koh_tao_2025/sections/1/ja/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+
+Manara Massage (Royal thaï massage)
+・Rating: 4.6
+・Highlights: Serene ambiance enhanced by essential oil scents; skilled therapists adept at identifying and relieving problem areas; customizable pressure levels (soft to strong); complimentary tea offered post-massage.
+・Price: Good value for money (based on reviews).
+・Recommended: Couples, individuals seeking targeted massage therapy tailored to pressure preferences, or those looking for excellent value.
+
+Koh Tao Island massage
+・Rating: 4.4
+・Highlights: Prime beachfront setting ideal for sunset views and relaxation with wave sounds; skilled application of soothing ointments (like Tiger Balm); reputed for effective foot massages; nail services also available.
+・Price: Around 300 THB for a 1-hour aromatherapy massage (based on one review).
+・Recommended: Those desiring a massage with scenic ocean views and sounds, particularly foot massages or aromatherapy. May be less suitable for those needing high privacy or complete silence.
+
+Kinnaree Massage
+・Rating: 4.6
+・Highlights: Exceptionally skilled therapists known for therapeutic results, including improving mobility; clean, calm, and inviting atmosphere; offers a diverse range of effective massages (Aloe Vera highlighted); post-massage tea service enhances the experience.
+・Price: Fair price (based on reviews).
+・Recommended: Visitors with specific muscle pain or back issues, those seeking highly skilled therapeutic massage, and repeat customers valuing consistency.
+
+Mai Thai Health Massage
+・Rating: 4.6
+・Highlights: Highly professional and skilled therapists, especially proficient in addressing injuries and sore spots; combines strong and precise techniques; clean, air-conditioned space with relaxing jazz music; complimentary tea provided after massage.
+・Price: Reasonably priced (based on reviews).
+・Recommended: Individuals seeking professional, skillful massage, particularly those with specific aches, pains, or injuries requiring focused attention.
+
+Massage koh tao supakorn
+・Rating: 4.6
+・Highlights: Consistently excellent massages, especially Aloe Vera and Thai Oil, delivered by skillful and attentive staff; relaxing atmosphere aided by calming music; personalized service including post-massage tea; features strong therapists like Mai known for relieving soreness.
+・Price: Around 400 THB for a 1-hour Thai Oil massage (based on one review); Aloe Vera massage noted as gentle.
+・Recommended: Those seeking skillful Aloe Vera massage (especially after sun exposure) or a strong, effective Thai Oil massage; appreciated by repeat visitors for consistency.
+
+Paradise Massage
+・Rating: 4.5
+・Highlights: Prime beach location offering massages accompanied by soothing wave sounds; friendly and accommodating staff provide a no-frills, authentic experience; recognized for providing good value massages.
+・Price: Good value / Affordable (based on reviews).
+・Recommended: Visitors prioritizing a beachside ambiance and affordability over luxury amenities or strict privacy; favored by regulars familiar with specific therapists.
+
+Kayo healing massage
+・Rating: 4.5
+・Highlights: Highly-rated massages, particularly foot massage incorporating reflexology (therapist Spi noted) and effective Thai massage (specific male therapist recommended); prime beachfront location with sea views; friendly service includes post-massage tea; very reasonable prices. Also offers quality nail services with a view.
+・Price: Around 300 THB for 1hr massage (consistently mentioned in reviews).
+・Recommended: Those seeking excellent value massages, especially foot reflexology or strong Thai massage, combined with a beachfront setting. Also suitable for quality nail services with a view.
+
+Familly Thai Massage
+・Rating: 4.6
+・Highlights: Consistently exceptional and professional massages from therapists often described as having "magical hands"; known for providing deep relaxation and effectively targeting sore spots; comfortable, quiet, and well-maintained environment.
+・Price: Good value / Reasonably priced (based on reviews).
+・Recommended: Visitors seeking top-tier, highly professional massages focused on deep relaxation and pain relief.
+
+Majestic Spa
+・Rating: 4.3
+・Highlights: Offers a spa-like experience with professional service and attention to detail (intake forms, changing rooms, lockers, post-massage tea/towel); highly skilled therapists provide effective massages (Thai, foot, back); clean, beautiful facilities with comfy beds; Tiger Balm included in Thai massages.
+・Price: Higher-end price, reflecting spa amenities (based on reviews suggesting it's "worth the price").
+・Recommended: Those seeking a more luxurious spa experience with extra amenities, focusing on professionalism and comfort; effective for relieving desk job-related muscle knots. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+Manara Massage (Royal thaï massage)	4.6	230	https://places.googleapis.com/v1/places/ChIJq6qqqsahVTARhdyocBc0eyA/photos/AeeoHcKAv7tUEG0nja2PbBmVbL0GeUIKXUP8n-axk_WsdWwbW1ZVzzUtc8VR4bZbQb-QmyRJyoTtB3d01PZzNm26-k2ZEh9dhjhI6JWD2nkX4pvaVenaNVfCgIYPTiPWW4GExK-gsj17LgFVn_UPj1OBInh4xi3Ez-lNQBrsJUjOu01mC7ZHL0Iz23Dof_871BRdNnExpkHCbaZu2vEpceXVCQ9BlEnS04wRMXKfEZbecUlj4fLIjEeIp7FTa7_p9qz8iw8z4kZkVkIljjd8hWFyhsqzB-bwtJnhqRMhz_MgXvco6Q/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJq6qqqsahVTARhdyocBc0eyA/photos/AeeoHcKcTTTm-Nt-JNxRxt_YnsQnqY5M6SrCoDwatbz-__zbEohEHFuaXM7SShnbGB2BJycH7iWUVIsAb1Hmh43OWYbM3M-LJJDjW4wwLFMwT4kKgUyrc4ckfdUycNA1HuvI7P6HrNyZzs_Puk0iBPYwKlqfuwGzvyo_JuVYCDoSgiuuqIh3JSrizCxOqUhjR5N7M-IS3cPdS0uSWOZndOFxqnmawUediuffVRcyD53S9YRNbunL4nyXCjSi1hJpL63FPmw0m6DIYw0GCGSusF7wNjAF9JGizmz8zELyxjs24DMbWjJnZnF0rSfNCLugkGcgqGIScPbtmUxN4I_Tig1rsgUbVjNT1W48ogf52m3QkP3QFiDRe1VhtyI2qtJorzhQiCuPgIMVygMdrhUbvEzUVcBIuFbH0kMyzoxP69aAwltJKg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJq6qqqsahVTARhdyocBc0eyA/photos/AeeoHcLKM9IBuCz1lfPvNxGAR7q99a6E4wLl5H0-y3W9G6K9sbCt1etC7EW5WzNTRBfqHlRobTYqQBZ4We0JqqTVC__7U8xbIYSp79m_iSoRpfxGOUT3ucU8wa4gGHv-ucFLtIkzkhdMM9fkLdFiXCW8ggsyTueOi3JXv6HY45buGW-_CZQVk9feypyR7b0cVvUHDGn7ruDhK5r-lh8mKzfBSDJUvPow60M-GO3Sk0MzuQ1WJ0m4_awE88suBhCe89aa7_Ba8sO2AGQsU1VO6Mgxn8fks9urYoFPds0yvx-LcwMk12ZNKyHXLwtVzxN5iMXdw5M36NB9ABOuR8mdGrX5Q0egW5GPx5K2I6emyLIXkz139qRyE6uIGhnbP_IBjR1m4vYVzNGkba7dwGKy7GCeH2736-NwPgxPYaUDALUVsQVpOJ4c/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJq6qqqsahVTARhdyocBc0eyA	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJq6qqqsahVTARhdyocBc0eyA&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJq6qqqsahVTARhdyocBc0eyA&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Pannita Jansorn2 reviews2 months ago Recently  my partner and I had the opportunity to visit Royal Thai Massage  and I must say  it was an amazing experience! From the moment we stepped into the establishment  the tranquil atmosphere and the scent of essential oils made us … MoreLike Share	Alexis LahorraLocal Guide · 109 reviews · 497 photos8 months ago Excellent Thai Massage and great tea 🍵 at the end.  We went as a couple for the Oil Thai Massage and we loved it! … MoreLike Share	Tomasz NLocal Guide · 97 reviews · 160 photos3 months ago Very good place  perfect massage  they use good oils quiet much  you can feel the nice aroma even in the waiting room. I do recommendLike Share	Recently  my partner and I had the opportunity to visit Royal Thai Massage  and I must say  it was an amazing experience! From the moment we stepped into the establishment  the tranquil atmosphere and the scent of essential oils made us …	Excellent Thai Massage and great tea 🍵 at the end.  We went as a couple for the Oil Thai Massage and we loved it! …	Very good place  perfect massage  they use good oils quiet much  you can feel the nice aroma even in the waiting room. I do recommend	Maja BottazzoLocal Guide · 25 reviews · 13 photos3 weeks ago New I know the thai massage is for strong sporty people  but I cannot immagine it was so painfull and total body. The little masseuse jump sweety on my back  find all blocked energy points  make me stretching and finally make me more tall! … MoreLike Share	Clay Ackerland6 reviews2 months ago The best massage I've had in Thailand yet (and I've had quite a few). The therapist found all my typical problem areas and really worked them out thoroughly. I felt great afterward. … MoreLike Share	Laura Arango25 reviews2 months ago You can get here great massages  the best in Koh Tao. I have tried every massage lady. They are very professional. You just have to say if you like a strong  medium or soft massage and they will provide the best experience. … MoreLike Share	Tatiana7 reviews2 months ago I’ve been to this massage salon multiple times and I can say that they are the best on Koh Tao. Especially I can highly recommend the lady with the name I don’t know how to spell  but it sounds like “One” ( number in English). I had some … MoreLike Share	Mehdi Rahim-Silvioli5 reviewsa month ago Amazing massage. One of the best in my life. The staff is so gifted. Best value for money. Nice and kind people  clean location. It really is a banger.Like Share	Anano Aspanidze (მელა)Local Guide · 194 reviews · 334 photos4 months ago Environment is good  you get a room for 3 people so it’s peaceful. Ambient music. For me it was too cold. Owners are nice and give you complementary tea and sweets. … MoreLike Share	"G A4 reviews · 1 photo5 months ago This is a really bad massage. They massaged my right shoulder blade for about 30 minutes. They touched and kneaded it about 40 times. The hands were simply smeared with oil without any pressure. The massage is called ""full body massage""  … MoreLike Share Response from the owner 5 months agoHello I sée you use to give one star to many place you have visiting. You are not very lucky Very sorry for you"	I know the thai massage is for strong sporty people  but I cannot immagine it was so painfull and total body. The little masseuse jump sweety on my back  find all blocked energy points  make me stretching and finally make me more tall! …	The best massage I've had in Thailand yet (and I've had quite a few). The therapist found all my typical problem areas and really worked them out thoroughly. I felt great afterward. …	You can get here great massages  the best in Koh Tao. I have tried every massage lady. They are very professional. You just have to say if you like a strong  medium or soft massage and they will provide the best experience. …	I’ve been to this massage salon multiple times and I can say that they are the best on Koh Tao. Especially I can highly recommend the lady with the name I don’t know how to spell  but it sounds like “One” ( number in English). I had some …	Amazing massage. One of the best in my life. The staff is so gifted. Best value for money. Nice and kind people  clean location. It really is a banger.	Environment is good  you get a room for 3 people so it’s peaceful. Ambient music. For me it was too cold. Owners are nice and give you complementary tea and sweets. …	"This is a really bad massage. They massaged my right shoulder blade for about 30 minutes. They touched and kneaded it about 40 times. The hands were simply smeared with oil without any pressure. The massage is called ""full body massage""  …"	ChIJq6qqqsahVTARhdyocBc0eyA 

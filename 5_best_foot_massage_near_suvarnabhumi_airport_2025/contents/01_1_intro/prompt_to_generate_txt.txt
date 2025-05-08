@@ -1,0 +1,88 @@
+Summarize the first shop (Relax Home Massage สาขาบางนา) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "5_best_foot_massage_near_suvarnabhumi_airport_2025/contents/01_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Relax Home Massage สาขาบางนา
+・Rating: 5.0/5.0 (274 reviews)
+・Highlights: Tranquil cafe-style ambiance with fresh aromatics, highly skilled therapists specializing in targeted pressure point work, exceptional post-massage care with complimentary Thai herb drinks
+・Price: Mid-range with excellent value
+・Recommended: Perfect for those seeking a premium yet authentic Thai massage experience in a modern, clean setting - ideal for first-time visitors to Thailand
+
+KOKO MASSAGE & SPA
+・Rating: 4.9/5.0 (1,620 reviews)
+・Highlights: Luxurious spa facilities, comprehensive treatment packages, skilled therapists trained in therapeutic techniques, complimentary mango and lotus tea service, airport transfer service available
+・Price: Premium, with package deals offering good value
+・Recommended: Excellent for travelers seeking a full-service spa experience near the airport, particularly good for office syndrome relief and couples treatments
+
+VEORA Spa
+・Rating: 4.9/5.0 (165 reviews)
+・Highlights: High-end spa ambiance, comprehensive beauty and wellness services including salon treatments, professional staff with excellent technique, quiet and serene atmosphere
+・Price: Premium
+・Recommended: Perfect for those seeking a luxurious, full-service spa experience with both massage and beauty treatments
+
+SUPAWADEE MASSAGE
+・Rating: 4.8/5.0 (168 reviews)
+・Highlights: Expert therapists skilled in traditional Thai techniques, spacious treatment rooms, immaculate facilities, specializes in Thai balm and therapeutic massages
+・Price: Moderate
+・Recommended: Ideal for those seeking authentic Thai massage with a focus on therapeutic benefits
+
+Maruey Thai Massage
+・Rating: 4.7/5.0 (193 reviews)
+・Highlights: Professional therapists with strong technical skills, peaceful environment, thorough consent process, excellent English communication
+・Price: Budget-friendly
+・Recommended: Great for solo travelers seeking quality massage at reasonable prices, especially good for those who prefer stronger pressure
+
+Roma Massage & Spa
+・Rating: 4.7/5.0 (200 reviews)
+・Highlights: Clean modern facilities, skilled therapists, comprehensive treatment packages, loyalty program available, convenient location
+・Price: Mid-range
+・Recommended: Perfect for regular visitors seeking consistent quality and value with membership benefits
+
+Relax Place (Little Walk Bangna)
+・Rating: 4.7/5.0 (165 reviews)
+・Highlights: Serene atmosphere, skilled therapists, specializes in hot stone massage, advance booking recommended for weekends
+・Price: Premium but justified by quality
+・Recommended: Ideal for those seeking a reliable, high-quality massage experience in a shopping center setting
+
+Foot Massage Balsabai
+・Rating: 4.6/5.0 (156 reviews)
+・Highlights: Specialized foot massage expertise, modern clean facilities, quiet environment focused on relaxation, late-night operation
+・Price: Mid-range
+・Recommended: Perfect for tired travelers seeking expert foot relief, especially after long flights or shopping
+
+Na Siam Massage
+・Rating: 4.4/5.0 (193 reviews)
+・Highlights: Experienced therapists, convenient BTS location, variety of massage styles, good value for money
+・Price: Budget-friendly
+・Recommended: Great for those seeking authentic Thai massage at local prices near public transport
+
+Feel Good Thai Massage
+・Rating: 4.2/5.0 (127 reviews)
+・Highlights: Clean facilities, package deals available, shower facilities provided, traditional Thai massage techniques
+・Price: Moderate
+・Recommended: Suitable for those seeking basic but professional massage services in a clean environment 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Relax Home Massage สาขาบางนา	5	274	https://places.googleapis.com/v1/places/ChIJT53tB8yh4jARYBymu6QFXAg/photos/AeeoHcKGaJ1jYWx8WFW_UDhLi65tiIHnHykkO1KTbdtWix-3Xoj12-yFZv5G429efg1kUn8UDkferT4IOuuk3r9ph011cyovKpFV37BPUhVlwx9gNm82ptssf73WkQdx2nbhM6ZzacgWH2hrEziAF98sESN6Bm1EXY0YWwCBVc1MHIZc_x6BppseW0UwrAm4AZII1V20r_waYExZ6VzPtTfIax84rZVuzophXdVjfwWIIcxWHFNGa6ajGKpggTSMtzbA9WrsyLdRbBxRXMKORl_3UKgC51Wd3iqwok_TUh7EUC8kBe35MOz9g_FIKOvko-qitX0Ra5RoqfR8wcgKByHi-0KIc-dxKwbpAb_x0o4Br62IpC-r9htwm-K0B3PzADSfz1myGE6ZhC2vU_vGQQ4A0SrlKNkLFflKW_UnDgO4H2K5tQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJT53tB8yh4jARYBymu6QFXAg/photos/AeeoHcLFHIOig6uZXNRVMhRGQro3R2U8p4Qm3bprt6y6_SCc7ndRGY5DY7J7p9vjA6lBogR8c_4g3qhofPkrF5k0x56hP6zzk0lk-V4TrCmLpCPViWcm0Ne3KB9FqGI-m_DmBmnpDbY8QiKZEoS1EwECtO09NwB1l2EnLErKoh4keHZvqCd--vhtYbZr7O6UIvbSGZazHpATDMCNjp9aegJC9nIe8i_7uIjxHn1xxVFUh-8whYe1k2MjMg-SlRc49enNJjKiK-VKvE-kQk8vU84hIrOk8W7avGJnP9ptlBol76LCBA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJT53tB8yh4jARYBymu6QFXAg/photos/AeeoHcIkmoy3PBi7PfHalAhmuqDjdPiKL30vMYdSqjWHQDar4BlIJppWrtawKi5eh0xYjurGVso0nEhekzKUkKgyS57wasDLwllkL-EHsfqDOBCRAP7na4KiTZBGwDAkwR86m4faxZfijUYU6-Fukv0DZlGwgdcTI4HEgpWquBaxiouvjfHb4lCR_XFFLIpvlz7qCm1ZEWzuVss_bBy9OPU0b3qHCUz5I2b0vKn1sg5O9paW-x_I4UOPKx-aYVaoZlChqbvwuewFWoMT69ACGVmhGm5CjZCLlSJH5s8xIGHUXUl8xw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJT53tB8yh4jARYBymu6QFXAg	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJT53tB8yh4jARYBymu6QFXAg&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJT53tB8yh4jARYBymu6QFXAg&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	If you would like to relax your body/brain, I would recommend this place. It is so good. The place is very nice. All staffs are amazing service. They also served Thai herb drink after massage. Definitely come back here. 	Good massage, nice rooms, very quiet compared to shops in the main road, I definitely recommend going! 	Good place for relaxing after hard working. Clean room with sevice mind staffs. 	Good services with quality massage. Superb! 	I'm happy to have such a clean and pleasant massage shop near my house. staff was kind and the massage was so great. Find khun Der!	I had a wonderful thai oil experience with K.Da. She fixed my problematic right shoulder. The place is clean, cosy. An easy 5 stars. 	Took oil massage today for 2 hours.it was very good and relaxing. Room is very neat and clean. Good service 	So glad we found this place! One of the best massage places in Bangna. 	Really nice, clean friendly staff. Been here a few times already and will come back for sure.. 	very good massage 👽👍👍 recommend this place … 	Reasonable price and nice massage in Bangna area, recommend. 	Been here every now and then. Should give it a try at least. Clean. Neat and affordable. 	Nice location and very enjoyed massage. 	Very good service, clean and reasonable price 	Very beautiful place, very professional. Recommended! 	The best massage, P’Pat 	The best massage shop 	Nice place, good service 🙏🏻 … 	Beautiful shop, decorated in a minimalist cafe style. Come into the shop, it's clean and smells fresh. Relax from the moment you come in. Good service. If you want to focus on anything, please let us know. Very cute. We recommend you make a reservation first. Very good price🧡😍 … 	ร้านบริการดีมากๆ บรรยากาศก็ดี สะอาดมากกกก พี่หมอนวดพูดจาดียิ่มแย้ม เป็นมิตร แนะนำดี ✨️นวดดี ตรงจุด หนักเบาแค่ไหน บอกพี่หมินวดได้เลย 🫶ราคาดีสุด ✅️มีที่จอดรถเยอะ อยู่ในตลาดปิงมาเช่บางนา

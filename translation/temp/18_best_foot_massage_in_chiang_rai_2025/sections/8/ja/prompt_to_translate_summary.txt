@@ -1,0 +1,82 @@
+お店（GRAND SPA แกรนด์สปา）を以下の形式で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- 日本語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/temp/18_best_foot_massage_in_chiang_rai_2025/sections/8/ja/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+
+นารายา นวดเพื่อสุขภาพเชียงราย Naraya Massage&Relax Chiangrai
+・Rating: 4.1
+・Highlights: Offers a convenient second location right at the night market. Reviews are mixed, with some customers praising excellent massages (especially foot and head/neck/shoulder) while others report inconsistencies in quality and duration. Staff are generally friendly and communication in English/Chinese is possible.
+・Price: Budget-friendly (around 250 THB/hour mentioned).
+・Recommended: Visitors looking for an affordable massage near the night market, though experiences may vary.
+
+Cho Kaew Thai Massage
+・Rating: 4.2
+・Highlights: Praised for amazing and effective foot massages, often including complimentary neck/shoulder massage and tea. Massages are described as firm, strong, and relaxing, leaving customers feeling renewed. Polite staff and quiet atmosphere enhance the experience.
+・Price: Budget-friendly (Good price mentioned, though specific cost not detailed in provided reviews).
+・Recommended: Those seeking a thorough, firm massage, particularly foot massages, in a tranquil setting at a good value.
+
+เชียงรายไรซิ่งซัน นวดเพื่อสุขภาพ ChiangRai Rising Sun Massage
+・Rating: 4.8
+・Highlights: Consistently rated as one of the best massage experiences in Thailand by reviewers. Known for professional, respectful service and highly skilled masseuses, including the owner. Offers a serene ambiance with thoughtful touches like foot baths with lime, tea, and biscuits. Praised for finding the right pressure and effectiveness, especially for oil and Thai massages.
+・Price: Mid-range (400 THB/hour mentioned for oil massage).
+・Recommended: Visitors seeking a high-quality, professional, and serene massage experience, particularly those looking for skilled oil or Thai massages.
+
+คำแปง นวดเพื่อสุขภาพ เชียงราย Kham Paeng massage chiang rai
+・Rating: 4.9
+・Highlights: Frequently described as offering one of the best Thai massages ever, often exceeding expectations for the price. Masseuses are noted for good pressure, finding and focusing on problem areas, and providing a relaxing, spa-like experience. Some confusion noted regarding pricing based on massage pressure.
+・Price: Budget-friendly (200 THB/hour for Thai massage mentioned, though potential extra cost for 'hard' massage noted by one reviewer).
+・Recommended: Those looking for an exceptionally good and relaxing Thai or oil massage at a very affordable price.
+
+เชียงรายสเตชั่นนวดเพื่อสุขภาพ Chiangrai massage
+・Rating: 4.8
+・Highlights: Highly regarded for strong, deep, and thorough massages, particularly Thai and sports massages. Therapists are skilled, attentive to requests, and effective at targeting muscle tightness. Clean environment and reasonable prices are noted, though a couple of reviews mention negative experiences with specific therapists or uncleanliness.
+・Price: Budget-friendly (200 THB/hour mentioned).
+・Recommended: Individuals seeking a strong, deep tissue massage at a great price, prepared for potentially intense pressure.
+
+เชียงรายเทอร์มินอล นวดเพื่อสุขภาพ
+・Rating: 4.6
+・Highlights: Offers phenomenal, thorough, and professional massages, particularly Thai and foot massages. Masseuses are noted for being attentive to sore spots, leaving customers feeling rejuvenated. Very affordable pricing. Some negative reviews mention unprofessional staff behavior.
+・Price: Budget-friendly (Very affordable mentioned).
+・Recommended: Value-seekers looking for a thorough and effective massage, particularly Thai or foot massage, though some staff interactions might be inconsistent.
+
+Chamonpond Massage
+・Rating: 4.4
+・Highlights: Run by a local Akha family, offering very good, strong, and firm massages, especially foot massages, often cited as the best experienced in Thailand. Staff are friendly and skilled, providing intuitive treatments. The interior is unassuming, but the massage quality is highly praised. Some suggestions for improving ambiance (foot wash, face cradles).
+・Price: Budget-friendly (Cheap mentioned).
+・Recommended: Guests prioritizing skillful, strong massage (especially foot massage) over luxurious ambiance, offered by a friendly local family business.
+
+GRAND SPA แกรนด์สปา
+・Rating: 4.9
+・Highlights: Delivers an exceptional spa experience from start to finish with polite, professional staff and a peaceful, clean atmosphere. Offers customizable treatments (choice of oils, focus areas) and is praised for relaxing yet effective massages (Thai, foot, head, aroma oil). Complimentary tea and excellent reception add to the experience.
+・Price: Mid-range to Premium (Considered slightly overpriced by one reviewer compared to others nearby, packages available).
+・Recommended: Those seeking a premium, customizable spa experience with excellent service and a relaxing atmosphere, suitable for couples or individuals wanting pampering.
+
+Chiang Rai Nice Massage
+・Rating: 4.9
+・Highlights: Consistently described as providing one of the best massage experiences, with highly skilled, attentive, and intuitive therapists (especially Bee). Known for identifying and relaxing blocked areas effectively. Features a lovely, calming atmosphere with nice scents and music. Offers great value, friendly service, and thoughtful extras like tea and stretching tips.
+・Price: Budget-friendly (400 THB/hour for oil massage, overall good price mentioned).
+・Recommended: Anyone looking for a high-quality, professional, and genuinely relaxing massage with personalized attention in a calming environment.
+
+Siamese Spa
+・Rating: 4.9
+・Highlights: Offers an amazing, wonderful spa experience with a serene atmosphere and welcoming, professional staff. Highly praised for skilled therapists who listen to requests and use appropriate pressure (especially noted for aroma oil, hot compress, and foot massages). Consistently delivers one of the best massage experiences, noted for cleanliness and hospitality, including complimentary tea. Allows customization of pressure and focus areas.
+・Price: Mid-range (Specific prices not mentioned, but spa setting suggests mid-range).
+・Recommended: Visitors seeking a top-tier, relaxing spa experience with highly skilled therapists, attention to detail, and a welcoming, clean environment. Ideal for those wanting customized treatments like aroma oil or hot compress massages. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+GRAND SPA แกรนด์สปา	4.9	813	https://places.googleapis.com/v1/places/ChIJW_G5Y0gH1zARo2Dh8WdF3Vg/photos/AeeoHcKKSiudS8ejcMtNuHkhDkWMnJe-_hqLiggmKTm3hNBGN6S5ZWDDsZtgnIeGrCXWAJmqRMj8Lajywki8cx66KiLH-9cXvJKe_egQkKMpsYZ-G0et_IUvU6XZYwWg6rnkTSSSZphrCRLVR8yGBmwzmmqMI9TCiKni4MBKneZaN3y7pzU1sP9pnfPU44nvRWnkdtazyjOnvWSZI5tElUTrIaYOr6Y1g1CIp7--CtHieER3RFmk9ph_C-BFOO2lCUV8tL3pJCZAj7kxcppjVm7H8Q4h0WFXigiTGI7YLrsUvNOAbXnG5yo89AZB4Xjnp4y-2FhWSQfR9xAj4XeXydZ_zR2OK2PI5k6wqMSMCIjT9mUFerGAf_U45JP9B9GtdyqFsi5Gm-zGQ1TdvDZun1zwSihzWnYKSgKNpsCXSFFBwmxBgA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJW_G5Y0gH1zARo2Dh8WdF3Vg/photos/AeeoHcIheh2_b7ykyJ1Xo5sEMzfNlwgyo0bWIyX9LeJO1kfIdrjoXzhmhjdQd2R9sVxq3cqVXXr3Ca8X3oKDdJalMwOtK_3PYIHb63BRa4fHaNXnDMCxfftOmBazIUX2b9KLTIr1toeTvHHyvTs-wPIeqrbU-f8crZOJvMW-GqfPHL-aDoyyqX_le95O6CCvmmiWI6Et2uYP3CQI4esV2hbYRA4aXwtL7GHCit4RTVNf4HclkVPYv60Xdq6qSopyKKIrrTG3WP04XDFZNu5CHEdUejVi8iVIA99MME7JklANDOkdWH3N1_qa4OaeXNmPLcKlappmH3v1_pzT9GCsmUypJx106FMG6uJ_qivN0MTYgoJCgdIq7pOLE6_aWsMmZZ3tnWTlBuqdv5uJWCCJ83YiaqY2JLbNFNWesB0cvnYyQTyT4A/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJW_G5Y0gH1zARo2Dh8WdF3Vg/photos/AeeoHcLymfd2WeKmvw7CsCKkkJqDrGkTiHFlkFW8rypp-Akg3dIJTtRGcD_guT2E_9QG8QL8XcIhXsrDi1vSqGw2PdG9zJZAaZonheLePXp8n2FlaG4yTqqnJIe_juSGxNKlRSLQ49iEvJCowGojHq95kG08LL254LntbvBFmNkyOFEcbfMsPD9NBOATPNEWYJzAQXY4vJBv345SKeWowBZPNmY8sJOzrx71-Inc7VdWASI8O_b6XJ7lCxqQeaSaDDTQkTmNSlDchd-NQ46H8mEuEgbgM5rTiYPQXUIQ41v5HvwqHfFl6W-LJ7PkYn6U-Fi12r-_9AtSadJh7S57QbMK3FkKlaR21TtHWr4_Xj0Z9NVZaHcYtKY0mrBML797_gfEYJkVv7iqU6fFCs8f1mW47wWTjuX_CI2mJCg9NNrTEbErLA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJW_G5Y0gH1zARo2Dh8WdF3Vg	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJW_G5Y0gH1zARo2Dh8WdF3Vg&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJW_G5Y0gH1zARo2Dh8WdF3Vg&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Henrieta Fraser5 reviews · 3 photos2 months ago Had a Thai massage at Grand spa  it was very enjoyable. The personnel is very polite and nice  the massage was great  just the good pressure  not painful abd did the job perfectly  treated the affected area as requested. Feeling so much … MoreLike Share	Tara LhamoLocal Guide · 60 reviews · 161 photos4 months ago We had Thai massage for an hour. It was a great and feel painless afterwords. Service is great and they are very experienced in massage and were focused on the area that I have requested.Like Share	Samuel GenestLocal Guide · 44 reviews · 211 photos5 months ago After trying several other in the area it was ok but a little bit over price and not as exciting as the other we’ve done in the area but if he would have be 400 for an hour and 600 for 1.5hr he would have been 4 star since the small … More0:210:070:07 +4Like Share	Sandy Lan Hing Ting5 reviews · 30 photosa month ago It was an amazing experience. The foot and head massage were very relaxing and the staff very extremely nice and welcoming. Definitely recommend and will visit again when in Chang Rai. +2Like Share	Daniela SILVA1 reviewa month ago Absolutely amazing! From the moment I arrived at Grand Spa  everything was perfect. The staff was incredibly kind and professional  and the atmosphere was so peaceful and relaxing. I loved every minute of my experience — from the warm … MoreLike Share	Lorenza Minini3 reviews · 2 photos5 months ago We booked on the spot for 30 minutes later  very helpful staff to find the place for a one-hour massage for two people. Excellent reception  friendly staff  as soon as we arrived we were welcomed with a cold tea. The massage was beautiful  … MoreLike Share	Matilde Marchiori3 reviews · 4 photos3 months ago I had a couple aroma oil massage and it was fantastic  the lady was really professional and polite. The place is clean and beautiful. I really recommend this place!Like Share	Chelsea Jackson2 reviews · 1 photo2 months ago One of the best experiences I’ve experienced so far in Thailand. Walking in I was immediately greeted and was given the price listing for each spa option as well as a comllimentary tea. I loved the fact that I was able to pick my aromatic … MoreLike Share	Jane PLocal Guide · 91 reviews · 402 photos2 months ago Great service and experience! Place was clean and organised. I did the rejuvenating package  highly recommended! Call in advance to make reservation if you have limited time in Chiang Rai.Like Share	Amelie van Dijk9 reviews · 2 photosa month ago I had a lovely experience at Grand Spa! I did the 1 hour Thai massage and I highly recommend it! The service was amazing and I loved how you could customise it beforehand to your preferences by choosing areas to focus on or avoid! My … MoreLike Share	Had a Thai massage at Grand spa  it was very enjoyable. The personnel is very polite and nice  the massage was great  just the good pressure  not painful abd did the job perfectly  treated the affected area as requested. Feeling so much …	We had Thai massage for an hour. It was a great and feel painless afterwords. Service is great and they are very experienced in massage and were focused on the area that I have requested.	After trying several other in the area it was ok but a little bit over price and not as exciting as the other we’ve done in the area but if he would have be 400 for an hour and 600 for 1.5hr he would have been 4 star since the small …	It was an amazing experience. The foot and head massage were very relaxing and the staff very extremely nice and welcoming. Definitely recommend and will visit again when in Chang Rai.	Absolutely amazing! From the moment I arrived at Grand Spa  everything was perfect. The staff was incredibly kind and professional  and the atmosphere was so peaceful and relaxing. I loved every minute of my experience — from the warm …	We booked on the spot for 30 minutes later  very helpful staff to find the place for a one-hour massage for two people. Excellent reception  friendly staff  as soon as we arrived we were welcomed with a cold tea. The massage was beautiful  …	I had a couple aroma oil massage and it was fantastic  the lady was really professional and polite. The place is clean and beautiful. I really recommend this place!	One of the best experiences I’ve experienced so far in Thailand. Walking in I was immediately greeted and was given the price listing for each spa option as well as a comllimentary tea. I loved the fact that I was able to pick my aromatic …	Great service and experience! Place was clean and organised. I did the rejuvenating package  highly recommended! Call in advance to make reservation if you have limited time in Chiang Rai.	I had a lovely experience at Grand Spa! I did the 1 hour Thai massage and I highly recommend it! The service was amazing and I loved how you could customise it beforehand to your preferences by choosing areas to focus on or avoid! My …	ChIJW_G5Y0gH1zARo2Dh8WdF3Vg 

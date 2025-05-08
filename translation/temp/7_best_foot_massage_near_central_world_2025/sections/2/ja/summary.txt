@@ -1,0 +1,13 @@
+[PLACEHOLDER]
+This file is: translation/temp/7_best_foot_massage_near_central_world_2025/sections/2/ja/summary.txt
+
+It should contain a 5-line Japanese summary (200-250 characters) for Arun Piti Thai Massage.
+The summary needs to be generated based on the instructions in:
+translation/temp/7_best_foot_massage_near_central_world_2025/sections/2/ja/prompt_to_translate_summary.txt
+
+The source English details for Arun Piti Thai Massage (from the prompt file) are:
+Arun Piti Thai Massage
+・Rating: 5.0
+・Highlights: Therapists skilled at finding and releasing tension in unknown muscle knots, customizable pressure intensity, and calm, fountain-adorned ambiance
+・Price: Affordable with excellent value
+・Recommended: Ideal for visitors seeking authentic Thai massage with personalized attention in the convenient MBK Center location 

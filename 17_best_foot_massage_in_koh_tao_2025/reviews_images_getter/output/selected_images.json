@@ -1,0 +1,42 @@
+[
+  {
+    "shop": "shop05",
+    "image": "image_08.png"
+  },
+  {
+    "shop": "shop11",
+    "image": "image_01.png"
+  },
+  {
+    "shop": "shop04",
+    "image": "image_08.png"
+  },
+  {
+    "shop": "shop02",
+    "image": "image_03.png"
+  },
+  {
+    "shop": "shop03",
+    "image": "image_08.png"
+  },
+  {
+    "shop": "shop10",
+    "image": "image_03.png"
+  },
+  {
+    "shop": "shop09",
+    "image": "image_05.png"
+  },
+  {
+    "shop": "shop07",
+    "image": "image_07.png"
+  },
+  {
+    "shop": "shop12",
+    "image": "image_09.png"
+  },
+  {
+    "shop": "shop13",
+    "image": "image_08.png"
+  }
+]

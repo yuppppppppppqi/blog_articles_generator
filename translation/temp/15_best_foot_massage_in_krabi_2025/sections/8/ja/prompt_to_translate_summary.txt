@@ -1,0 +1,82 @@
+お店（Dee Dee Massage）を以下の形式で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- 日本語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/temp/15_best_foot_massage_in_krabi_2025/sections/8/ja/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+
+Massage Corner
+・Rating: 4.8
+・Highlights: Renowned for its relaxing atmosphere, highly skilled and welcoming staff providing exceptional service. Offers a wide range of treatments including traditional Thai, foot, oil massages, and specialized packages like 'Office Syndrome'. Features unique outdoor foot massages amidst greenery and complimentary refreshments. Consistently rated as one of the best massage experiences in Thailand by repeat visitors.
+・Price: Affordable
+・Recommended: Visitors seeking a highly professional, relaxing, and comprehensive massage experience with thoughtful extras. Ideal for those wanting specific treatments like the 'Office Syndrome' package or outdoor foot massages.
+
+The Blue Spa & Massage @Aonang Krabi Thailand
+・Rating: 4.8
+・Highlights: Offers luxurious multi-hour spa packages like the couples special. Known for immaculate cleanliness, outstanding staff, and high-quality, therapeutic massages (Thai and oil). Provides thoughtful touches like tea and cookies. Knowledgeable reception helps choose the right treatment.
+・Price: Mid-range to Premium (Value-focused for quality)
+・Recommended: Couples or individuals seeking a high-quality, clean, and professional spa experience with longer package options. Good for those who appreciate knowledgeable staff guidance.
+
+Lazy Dayz Massage
+・Rating: 4.8
+・Highlights: Praised for its clean, peaceful, and relaxing environment with professional staff. Offers good value massages. Unique combination of massage parlor with a selection of weed and clothing available. Staff noted for being helpful and English-speaking. (Note: Some mixed reviews on massage consistency).
+・Price: Budget-friendly
+・Recommended: Travellers looking for a relaxed, budget-friendly massage in a clean environment, potentially interested in the adjacent shop offerings. Good for those who value helpful, English-speaking staff.
+
+Pu body scrub & massage
+・Rating: 4.6
+・Highlights: Offers a range of massages including effective back/shoulder/head and foot massages, incorporating stretching. Known for being professional, clean, and affordable with good customer service. Therapists noted for attentiveness (e.g., caring for minor wounds) and providing strong pressure when requested.
+・Price: Affordable
+・Recommended: Guests seeking affordable, clean, and effective massages, particularly those who appreciate strong pressure or attentive therapists. Ideal for repeat visits due to value. (Note: Some inconsistency in experience reported).
+
+Jane & June Massage
+・Rating: 4.8
+・Highlights: Highly-rated family-run business offering comprehensive packages and individual services (massage, waxing, nails). Known for exceptional service, including free hotel transport and welcome drinks. Features a spotlessly clean, beautiful environment and highly skilled, professional, and friendly staff who tailor pressure.
+・Price: Mid-range (Good value for service level)
+・Recommended: Visitors looking for a full-service spa experience (massage, nails, waxing) with excellent customer care, cleanliness, and convenience (free transport). Ideal for those wanting tailored, professional massages in a beautiful setting.
+
+Kaohom Massage
+・Rating: 4.4
+・Highlights: Highly regarded by some for professional, skilled, and effective Thai massages, particularly good at working out knots and chronic pain. Therapists noted for strength and hitting the right spots. Considered a hidden gem by repeat visitors offering fair prices. Kom praised for foot massages. (Note: Experiences vary, potential for inconsistency in service/atmosphere).
+・Price: Budget-friendly / Fair
+・Recommended: Individuals seeking strong, effective, therapeutic massages at fair prices, especially for back/shoulder knots or foot relief (ask for Kom). Best suited for those prioritizing massage skill over luxurious ambiance.
+
+SANKARA - Traditional Thai Massage & Nail Spa
+・Rating: 4.6
+・Highlights: Popular spot excelling in nail services (manicures, pedicures, nail art) with highly skilled, precise, and professional technicians. Also offers quality traditional Thai massages and other treatments in a clean, modern setting with good AC. Staff are friendly and English-speaking.
+・Price: Mid-range (Variable based on service/pressure)
+・Recommended: Primarily for those seeking high-quality nail services (manicures, pedicures, gel, art). Also a solid choice for massages and other treatments in a busy, clean, and professional environment.
+
+Dee Dee Massage
+・Rating: 4.2
+・Highlights: Centrally located shop offering professionally skilled massages at reasonable prices, often considered better value than pricier spas. Known for friendly, English-speaking owners and specific skilled therapists (e.g., P'Pan). Features a clean, aromatic atmosphere and stays open late, with happy hour deals available. (Note: Some mixed reviews on service consistency).
+・Price: Budget-friendly
+・Recommended: Visitors in central Ao Nang looking for good value, skilled massages without the frills of high-end spas. Good for late-night sessions or those seeking specific recommended therapists.
+
+Nature Garden Massage by PURE Krabi
+・Rating: 4.9
+・Highlights: Offers a unique and highly-rated massage experience in a serene outdoor garden setting amidst nature sounds. Known for exceptional hospitality from the owner (Pu) and highly skilled therapists (e.g., Ya). Provides a tranquil, authentic atmosphere with options like coconut scrubs and oil massages, complemented by delicious tea. Booking recommended.
+・Price: Mid-range to Premium (Experience-focused)
+・Recommended: Nature lovers and those seeking a unique, tranquil, and high-quality massage experience away from typical indoor salons. Ideal for deep relaxation and escaping into a peaceful environment.
+
+Baanthai Massage
+・Rating: 4.5
+・Highlights: Known for being hygienic, professional, and offering a range of services including massages and competent nail care (pedicure, gel polish) at good prices. Provides private rooms and comfortable garments for Thai massages. Therapists like Sue and Taen are highlighted for their skill and attentiveness. Family and group-friendly. (Note: One very negative review contrasts with mostly positive feedback).
+・Price: Budget-friendly / Good Value
+・Recommended: Individuals, families, or groups looking for clean, professional, and good-value massages and nail services. Good choice for those who appreciate skilled therapists and private rooms. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+Dee Dee Massage	4.2	419	https://places.googleapis.com/v1/places/ChIJIahhjwbAUTARhURAchU_WUc/photos/AeeoHcITxZ8a7biE3hnnqqbMqGbYjaNJK_VfRjMhMQSJB4zS-VWT7ho7I11AymPvDepUQNZowe1Q3Owt0b6EzN2HOIWWf08UYOdSWZXdpY1vavWwlDHd29xwnSDvpb6k_FUPt7gNr-_R1rIAtY6zlb-wl9qmUIA-j5F-bd-0AALxIPKxUHOEoyMQjT8OEZynY8_2SslEebTr2tkMNG6Tex1oWA6J0dhJ2XR3_LcKG4OAJfMKVMXB6dlDm_T8Y4glxjWjDvqeyRgaKwjur911F1d_cDb_KI_wjjSnNZnIv2BQ4FXe4zZBssp9WY8UIKEkd6hBxFpuhG69-5r3j9BK9-032bgXcSC74aH6wY3DZ2CPqp3Z09wtBz_jZxKlW-ed0e29W4gL9srgGv8hOJlrLtuz5zH1nHgBkgPAmyVISDh4gd8/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJIahhjwbAUTARhURAchU_WUc/photos/AeeoHcKnyub20GTA8MvbwRuoSCDFGcAz78YOnpZrhRucu8_KE5Ff8d4kP55O_5kE04TMPNwdcKJoQnpjd3BNekBDXarEuTJUNpO_D586qNetuIrNca2Xz0-i0vj5Qx_zUAkA7yDSvas3BbDbmKyKFi0WNxdBsUz_FfVlq8SrYNPfYEVVp9Ch8vXooJsplHrbEGGQ-ka1fF_9rFjTNEz4gUV8vGwzG4_Q-871Gx5gYLn_CFjflD5JoMZ0F_gr3tMRgBtAUnKs-A_6MD_oMUO0NaUQ208ET5ztOUFyOJEcM1XnVtbybpfUOudcPryg1T5S7B_npIWtuVNacE2K4Jy4a9NFrgsxnGVkFQOetwsl4Lv9qvefEsHESjqM5oROMkd3_b52VZyom9jgbTe6ZU937EUWEVZ5OFNTH4kt7e44RMFGeQHy2t0M/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJIahhjwbAUTARhURAchU_WUc/photos/AeeoHcII5hEZ9tQ-FLe7jo1tpJnbNR4f04yr5nAtsYDyrxhz_8Mfw7keupD6izHlklWSemspfbL-AlRE-vT9VP12U4GmgfrrMsyXqaPaGg0Ef1FsnbR7NRL82CMYWQzvrVL5fFZn8K756sYd-PNNCXY-us_PUQ-pktWYPEeMQG8N74YHp71WZT4Mn6heAgrGErPqzz0sI9f0s9lARTsusGBRp4F7cZQgFr1UqHbloJp27GvwqtiEkqg8pYBU9CX4vJXn6_PkgneUoi_FA2N0Rc0m6teq5QMHBO0lJ3RKWDPnyouvWyUGV3Wgyg_dV6d3B0I7U2rWOVIcDd4pfpCVDYLS1JQzd5flPsi8W79WnZC9WOVEEB6-nr5kqSgOEL3nYHAl1pBzeOirPpfKUuqDRwDT4PntcSUo1fZTY-KcaKncDrfb5w/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJIahhjwbAUTARhURAchU_WUc	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJIahhjwbAUTARhURAchU_WUc&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJIahhjwbAUTARhURAchU_WUc&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	LinhLocal Guide · 308 reviews · 2 389 photos4 months ago Great massage  reasonable prices in central Ao Nang. The masseuses are professionally skilled  making it a relaxing and good experience. The owners are really friendly and welcoming  speak good English. Highly recommended! +3Like1 Share	Kaimook H.2 reviews5 days ago New My fav massage spot in Ao nang! And P’ Pan is my favorite therapist  she always did a very good job and gentle.😊 Unfortunately  on the last day here in Ao Nang I don’t have an opportunity to say goodbye. Anyway  I really recommend to get a massage with her! 👍🏻👍🏻👍🏻 …Like Share	Ипатій Хуйланцевъ-СцадзеLocal Guide · 13 reviews · 3 photos6 months ago I have walked around Aonang massage places a lot before I found this place. Never gone anywhere else after. I have been massaged 5 or 6 times by a young girl named Ping and it was … MoreLike2 Share	Ilya LebedevLocal Guide · 767 reviews · 3 571 photos5 months ago Very good massage. I tried multiple places in Ao Nang and this one was one of the best. The price is average  yet quality is better than most of the fancy & expensive saloons out there.Like1 Share	tasnim sultanah1 reviewa week ago New I went for a foot massage and noticed the therapist was using far too much pressure. I asked her to do it more softly. I fell asleep and then woke up to pain in the other foot. I don't think she is well trained or even had awareness of what … MoreLike Share	sinitta saowaratLocal Guide · 60 reviews · 245 photosa month ago Nice atmosphere   clean and aromatic odor. professional massagers with strength. Foot massage is done eith massaged oil in cluded in 300 THN/Hr Open untill late nightLike Share	Ki Lemetri1 review2 months ago Booked an oil massage and unfortunately it was terrible. The lady that started the massage left the room 5 minutes in for a man to replace her without my consent. … MoreLike Share	The Inkfirmary Studio2 reviews · 3 photos2 months ago I’ve been coming to this place for three years whenever I visit Ao Nang  but after this experience  I don’t think I’ll be returning. The decline in quality is disappointing. … MoreLike Share	Maria DorisLocal Guide · 23 reviews · 34 photos4 months ago We had a great coconut oil massage here  probably the best we had in Thailand. Good prices  friendly staff. Go for the happy hour deal🥰 …Like1 Share	sophieLocal Guide · 18 reviews · 9 photos5 days ago New A nice and very affordable massage place  the lady was so experienced and strong however I did feel a bit awkward with the curtain being slightly open when she was stretching my body around everywhere and also it was very painful at times lolLike Share	Great massage  reasonable prices in central Ao Nang. The masseuses are professionally skilled  making it a relaxing and good experience. The owners are really friendly and welcoming  speak good English. Highly recommended!	My fav massage spot in Ao nang! And P’ Pan is my favorite therapist  she always did a very good job and gentle.😊 Unfortunately  on the last day here in Ao Nang I don’t have an opportunity to say goodbye. Anyway  I really recommend to get a massage with her! 👍🏻👍🏻👍🏻 …	I have walked around Aonang massage places a lot before I found this place. Never gone anywhere else after. I have been massaged 5 or 6 times by a young girl named Ping and it was …	Very good massage. I tried multiple places in Ao Nang and this one was one of the best. The price is average  yet quality is better than most of the fancy & expensive saloons out there.	I went for a foot massage and noticed the therapist was using far too much pressure. I asked her to do it more softly. I fell asleep and then woke up to pain in the other foot. I don't think she is well trained or even had awareness of what …	Nice atmosphere   clean and aromatic odor. professional massagers with strength. Foot massage is done eith massaged oil in cluded in 300 THN/Hr Open untill late night	Booked an oil massage and unfortunately it was terrible. The lady that started the massage left the room 5 minutes in for a man to replace her without my consent. …	I’ve been coming to this place for three years whenever I visit Ao Nang  but after this experience  I don’t think I’ll be returning. The decline in quality is disappointing. …	We had a great coconut oil massage here  probably the best we had in Thailand. Good prices  friendly staff. Go for the happy hour deal🥰 …	A nice and very affordable massage place  the lady was so experienced and strong however I did feel a bit awkward with the curtain being slightly open when she was stretching my body around everywhere and also it was very painful at times lol	ChIJIahhjwbAUTARhURAchU_WUc 

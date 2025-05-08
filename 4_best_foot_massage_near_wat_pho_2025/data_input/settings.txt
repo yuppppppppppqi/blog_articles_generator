@@ -1,0 +1,5 @@
+SEARCH_WORD_ON_GOOGLE_MAP_API = massage the grand place
+TEMPLATE_TITLE_BLOG_EN = Best Foot Massage Near Wat Pho (2025)
+TEMPLATE_INTERNAL_LINK_IN_INTRO_TITLE = 10 Best Foot Massage Shops in Bangkok (2025)
+TEMPLATE_INTERNAL_LINK_IN_INTRO_URL = https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/
+TEMPLATE_INTERNAL_LINK_IN_CONCLUSION_URL = https://my-bangkok-life.com/what-is-a-thai-foot-massage/

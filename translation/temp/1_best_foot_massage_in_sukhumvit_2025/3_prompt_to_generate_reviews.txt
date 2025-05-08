@@ -1,0 +1,15 @@
+Read the following prompt files and run them one by one:
+
+1. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/1/ja/prompt_to_translate_reviews.txt
+2. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/2/ja/prompt_to_translate_reviews.txt
+3. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/3/ja/prompt_to_translate_reviews.txt
+4. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/4/ja/prompt_to_translate_reviews.txt
+5. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/5/ja/prompt_to_translate_reviews.txt
+6. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/6/ja/prompt_to_translate_reviews.txt
+7. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/7/ja/prompt_to_translate_reviews.txt
+8. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/8/ja/prompt_to_translate_reviews.txt
+9. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/9/ja/prompt_to_translate_reviews.txt
+10. translation/temp/1_best_foot_massage_in_sukhumvit_2025/sections/10/ja/prompt_to_translate_reviews.txt
+
+
+Each file contains a specific generation task. Follow the instructions inside each prompt exactly as written.

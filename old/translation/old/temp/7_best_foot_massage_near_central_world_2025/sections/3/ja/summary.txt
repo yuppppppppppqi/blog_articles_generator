@@ -1,0 +1,13 @@
+[PLACEHOLDER]
+This file is: translation/temp/7_best_foot_massage_near_central_world_2025/sections/3/ja/summary.txt
+
+It should contain a 5-line Japanese summary (200-250 characters) for Nature Thai Massage @siam soi5.
+The summary needs to be generated based on the instructions in:
+translation/temp/7_best_foot_massage_near_central_world_2025/sections/3/ja/prompt_to_translate_summary.txt
+
+The source English details for Nature Thai Massage @siam soi5 (from the prompt file) are:
+Nature Thai Massage @siam soi5
+・Rating: 4.8
+・Highlights: Intuitive therapists who tailor treatments to individual needs, signature 5-in-1 therapy, and 20% discount for sessions before 5pm
+・Price: Mid-range with good value promotions
+・Recommended: Perfect for those seeking a comprehensive massage experience with exceptional attention to detail in a peaceful setting 

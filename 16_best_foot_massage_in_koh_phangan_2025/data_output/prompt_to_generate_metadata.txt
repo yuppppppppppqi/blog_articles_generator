@@ -1,0 +1,26 @@
+Create a meta description by reading the intro of blog post.
+
+Instruction
+ - Generate with 150-160 words.
+ - Output file name (save to this file): data_output/metadata.txt
+ - Use key word: Foot Massage
+ - The title of this blog post is: 10 Best Foot Massage in Koh Tao
+
+[intro of blog post]
+<!-- wp:paragraph --><p>After living in Thailand for three years, I've learned that a good <strong><u>Foot Massage</u></strong> is essential! Especially after exploring the beautiful beaches of <strong><u>Koh Phangan</u></strong>. It's such a <strong><u>great value</u></strong> way to relax and recharge.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>I've tried many places, and I wanted to share my top 10 picks on the island. All these shops have earned their spot with over 100 positive reviews, so you know you're getting <strong><u>quality service</u></strong>. Finding a truly <strong><u>relaxing experience</u></strong> can make a huge difference to your holiday or daily life here.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>If you're also exploring other parts of Thailand, you might find my Bangkok guide helpful too: <a href="https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/">Check out the best foot massage spots in Bangkok!</a></p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+    <p>
+    <!-- wp:embed {"url":"https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+        <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+            <div class="wp-block-embed__wrapper">
+                https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/
+            </div>
+        </figure>
+    <!-- /wp:embed -->
+    </p>
+<!-- /wp:paragraph -->

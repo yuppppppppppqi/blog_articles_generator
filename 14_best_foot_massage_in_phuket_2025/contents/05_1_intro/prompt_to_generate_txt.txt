@@ -1,0 +1,88 @@
+Summarize the first shop (Body Works Thai Massage Patong 2) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "14_best_foot_massage_in_phuket_2025/contents/05_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+We Wealth Health Massage and Beauty
+・Rating: 4.8
+・Highlights: Skilled therapists adept at addressing specific pain points, offering a wide range of massage types including deep tissue and aromatherapy. The shop is praised for its relaxing atmosphere, private rooms, and thoughtful touches like herbal gels for injuries. Complimentary tea and biscuits, plus a nearby cafe, add to the experience. Reasonable prices and consistently high service standards, though some variability in therapist quality.
+・Price: Reasonable
+・Recommended: Ideal for those seeking targeted relief from pain or tension, and anyone wanting a relaxing, well-rounded massage experience in a welcoming setting.
+
+Hatha Massage Patong
+・Rating: 4.7
+・Highlights: Popular, centrally located shop with experienced, professional staff. Clean, comfortable environment with no aggressive street solicitation. Flexible with families and children, and offers a variety of massage styles. Consistent quality and fair prices, with deep relaxation and attentive service noted by repeat visitors.
+・Price: 350–500 baht for 60 minutes
+・Recommended: Great for families, couples, and travelers looking for a reliable, no-nonsense massage in the heart of Patong.
+
+Healthland
+・Rating: 4.6
+・Highlights: Authentic, rustic Thai massage experience with highly skilled, experienced masseuses. Not a luxury spa, but known for effective treatments, especially for injuries and chronic pain. Clean, welcoming, and affordable, with a loyal local and tourist following. Some mixed feedback on therapist style and communication.
+・Price: Affordable
+・Recommended: Best for those seeking genuine Thai massage and therapeutic relief, rather than a luxury spa environment.
+
+NAYA Thai Massage Phuket Town
+・Rating: 4.9
+・Highlights: Exceptionally friendly and professional staff, with therapists who listen to client needs and adjust pressure accordingly. Clean, cozy shop with complimentary tea and biscuits. Highly recommended for deep tissue and sports massages, and praised for healing back pain and providing attentive care.
+・Price: Affordable, cheaper than surrounding area
+・Recommended: Perfect for those needing personalized care, sports recovery, or a welcoming first-time Thai massage experience.
+
+Body Works Thai Massage Patong 2
+・Rating: 4.9
+・Highlights: Detailed, thorough massages with attentive therapists who check on client comfort. Calming atmosphere, friendly staff, and a reputation for both deep tissue and relaxing massages. Some variability in pressure preference, but overall high satisfaction and value for money.
+・Price: Good value
+・Recommended: Suited for those who appreciate attentive service and want a thorough, relaxing massage in Patong.
+
+Sansabai Massage 3 in Thairapy zone in Jungceylon
+・Rating: 4.9
+・Highlights: Highly professional, clean, and skilled therapists. Wide range of massage options, including migraine and deep tendon treatments. Excellent for both individuals and groups, with a reputation for consistent quality and customer care. Reasonable prices and a welcoming environment.
+・Price: 400–450 baht for 60 minutes
+・Recommended: Ideal for those seeking top-quality massage in a busy shopping area, including groups and those with specific therapeutic needs.
+
+Tonpho Thai Ta Massage
+・Rating: 4.8
+・Highlights: Clean, relaxing space with skilled and caring therapists. Known for strong, effective massages and a welcoming, soulful atmosphere. Staff are attentive to client requests, and the shop is praised for its professionalism and legit services. Occasional feedback on therapist matching and pressure.
+・Price: Standard
+・Recommended: Great for locals and visitors seeking a genuine, strong Thai massage in a friendly, no-nonsense environment.
+
+SAMA Onsen & Massage
+・Rating: 4.8
+・Highlights: Unique combination of Japanese onsen and Thai massage. Impeccably clean, beautifully decorated, and highly accommodating to special requests. Therapists are professional and attentive, and the onsen experience is deeply relaxing. Complimentary herbal teas and a hidden-gem atmosphere.
+・Price: Good value
+・Recommended: Perfect for couples or anyone wanting a rejuvenating spa day with both onsen and massage in a tranquil setting.
+
+Charm Massage
+・Rating: 4.7
+・Highlights: Luxurious experience at a reasonable price, with private spaces and attentive staff. Clean, professional, and welcoming, with thoughtful extras like cold towels and herbal tea. Some variability in service, but generally high satisfaction and comfort.
+・Price: 390 baht for foot massage (Jan 2025), slightly higher than average
+・Recommended: Ideal for those seeking a pampering, comfortable massage in Old Town, with a focus on cleanliness and relaxation.
+
+Kim's Massage & Spa 12 Old Town Thalang Road
+・Rating: 4.6
+・Highlights: Serene, clean, and professional environment with a variety of massage options. Therapists are generally skilled and attentive, with some variability in pressure and communication. Good value for spa packages, and a quiet, calming atmosphere in a convenient location.
+・Price: US$24 for 2 hours, affordable packages
+・Recommended: Best for those wanting a peaceful, no-frills massage experience in Old Town, especially after a day of sightseeing. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Body Works Thai Massage Patong 2	4.9	403	https://places.googleapis.com/v1/places/ChIJo6SwBnY7UDARDAzRXXpbFfw/photos/AeeoHcIjhO4wXWaJ7nSY2MonwuM3f_pYsYVRQ-voiMJ_gHvLqeOSDKQZI-pOU_bfSgkcUgjP_S9F_U9vgagBumLao6phOl-5tHmRijHgZo6RKxQbr1gLUjHf0zForQPSC_1wrwhY2CL0cMLm1ihc-qsmMpahUpvKrrMH4RtTu32_wrc3T8PdAMG3rsO1oatmFShY9kj4aXAm2nscP9VplFsrwHkTv_g0XdnAmVKPdcK7LVHbYad3L_EH0EcpKnOW2cMSdnxRo_UxJCb-q4gCw5R8gVRPnku34Gn1fyHBOWpDEsesnJnSlpeBkJIYUA7Fde5HKwQxbZbJ7Z6ntaj-oMU5s4fWISf9l1tPIA-0QFCeu04lGeef8D34pQ-31Hwdb-cjrzfxw0nv7ZJ_baxQa2cCmS_lhiuspmOWJ5NXema8ULjHcAB3/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJo6SwBnY7UDARDAzRXXpbFfw/photos/AeeoHcKxHCWMeVymVN0958sw7EBR9oHEXEVYF6EcnKelbv4hywBG8P9Ojah79qsrAXwdg1h4BUdtnLmgGBL-IqFc7aCRq0SUHxd55CAo-0CbQCWwExl1lpi2yIxkX1bUdOc4ujjMxksv17k91Q1gpwag7HCaryu6BYKU81aSPX2H7Zx6cYLbecfl5gfBubRL5JGTpYRej6dDr6S7SbTEimq9dcjEOY3eVyNQl9TuO5FdurPK_H89jv5bzwMr6xb_eOlql55wTexi4vYkglr1HCRlyoOtR0XDy9tpoxeEWdNJrWMmOig8KuJawjGQBAPSzFt46az3Ow6tw09MxK9mPjXgGav7PJs-6KhvIEInd5zSfLjHkHDJDpXXJPj_lUWYlchLYQb1WVXXCx3I_SDEJvYXftFA4Er-_UNdLXlA_bzm7gya0A/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJo6SwBnY7UDARDAzRXXpbFfw/photos/AeeoHcLTutGto_3FoZDyKFHms5hXEKhI2AmhVon6lcLFQl1-STgNeDKGk6-nGPNg-SnleVWyI-6OQjSzPxrdIrWWmaI0MSXhaVpCIybt_o7K0o4c3CraFeGzK5nCyNp7gM2SpBo_m_fLhYQPdxjDtSUIEHdiAsWR7beuxhM-lU2KbK2o3FwKrwTsitPJTbWeOy_eBNsEa2ZPaGWh0_H_MoJBbzOblIPDaU0p8FsBIp6pM9-YO2MhqdEbK88RGFlUJNt7r8UCSAFUn2DD_tK1Gnfc45M5SMXQC-Gz8ywCEjpUnTbc5fjmxLsH-zR78wr1IWUw_s56afLq0IoZdF3b9sTbLs7vvtpK4hs0apzu82mweD1JlcwJM9AnDk0WvoqT6wVqhkylBQqBJnthAEunGxE3BR7E244LivhNjIpBVgH343y_cw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJo6SwBnY7UDARDAzRXXpbFfw	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo6SwBnY7UDARDAzRXXpbFfw&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo6SwBnY7UDARDAzRXXpbFfw&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Pardeep GhaiLocal Guide · 119 reviews · 798 photos3 weeks ago New I’m delighted to share my great experience at Body Works Thai Massage-2 Phuket. We visited them to get Foot/Body … MoreLike Share	TikaLocal Guide · 28 reviews · 9 photosa week ago New A very good and detailed massage. I've had quite a few thai massages in different places  and none were as thorough as this! 'Pu' was lovely  smiley  and constantly checked if everything was okay! She's … MoreLike Share	Angelica Di Camillo11 reviews · 2 photos5 months ago We had a beautiful foot massage  service was fantastic and they were so friendly. Atmosphere was so calming. Our massages were with Sugar and Tukta and would highly recommend!Like Share	Chinnnu PiousLocal Guide · 13 reviews · 12 photos3 weeks ago New My husband and I booked a Thai massage here expecting a relaxing experience  but unfortunately  it was far from that. My husband specifically requested medium pressure  but his therapist used very strong pressure from the start. When he … MoreLike Share	Marie Bruno8 reviews · 3 photos3 weeks ago New I just finished a massage and it was amazing! Tukta  my masseuse  was incredible — she really worked on my back and helped release all the tension. I feel so much better now. She was professional and attentive. I highly recommend this salon 100%!Like Share	SimonLocal Guide · 9 reviews · 17 photos7 months ago Possibly the best massage therapists in Patong. This won’t be the last time I come here. It’s really difficult to find a great massage therapist. I tried out the 60min foot reflexology massage and eventually extended to 120mins because that’s how amazing it is. Safe  Clean  friendly service and great value for money.Like Share	Brett BelseyLocal Guide · 17 reviews · 2 photos3 months ago Patty and moi were so freindly and the massage was incredible. I had the deep tissue thai massage and a foot massage both were amazing can't recommend enough!Like1 Share	Jens AndreasenLocal Guide · 90 reviews · 74 photosa month ago Oj oj oj 🙌🙏 amazing massage  went for the deep tissue and that was the deepest massage I’ve ever gotten before for sure 🤪 … MoreLike Share	Angel Le8 reviews · 13 photos3 weeks ago New Came here and had a 1 hr back  shoulder  neck and arm massage. My shoulders always get really tight and my masseuse Sugar did a great job at relaxing them. Would recommend!Like Share	Ekaterina Zorina3 reviewsa week ago New It’s the first time I left the massage 10 minutes after the start. The woman just rubbed the aloe gel into me without any technique   hardly can call it a massage. Then they proceeded to be rude about it and didn’t give the money back for … MoreLike Share	I’m delighted to share my great experience at Body Works Thai Massage-2 Phuket. We visited them to get Foot/Body …	A very good and detailed massage. I've had quite a few thai massages in different places  and none were as thorough as this! 'Pu' was lovely  smiley  and constantly checked if everything was okay! She's …	We had a beautiful foot massage  service was fantastic and they were so friendly. Atmosphere was so calming. Our massages were with Sugar and Tukta and would highly recommend!	My husband and I booked a Thai massage here expecting a relaxing experience  but unfortunately  it was far from that. My husband specifically requested medium pressure  but his therapist used very strong pressure from the start. When he …	I just finished a massage and it was amazing! Tukta  my masseuse  was incredible — she really worked on my back and helped release all the tension. I feel so much better now. She was professional and attentive. I highly recommend this salon 100%!	Possibly the best massage therapists in Patong. This won’t be the last time I come here. It’s really difficult to find a great massage therapist. I tried out the 60min foot reflexology massage and eventually extended to 120mins because that’s how amazing it is. Safe  Clean  friendly service and great value for money.	Patty and moi were so freindly and the massage was incredible. I had the deep tissue thai massage and a foot massage both were amazing can't recommend enough!	Oj oj oj 🙌🙏 amazing massage  went for the deep tissue and that was the deepest massage I’ve ever gotten before for sure 🤪 …	Came here and had a 1 hr back  shoulder  neck and arm massage. My shoulders always get really tight and my masseuse Sugar did a great job at relaxing them. Would recommend!	It’s the first time I left the massage 10 minutes after the start. The woman just rubbed the aloe gel into me without any technique   hardly can call it a massage. Then they proceeded to be rude about it and didn’t give the money back for …	ChIJo6SwBnY7UDARDAzRXXpbFfw

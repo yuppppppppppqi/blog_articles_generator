@@ -1,0 +1,13 @@
+[PLACEHOLDER]
+This file is: translation/temp/7_best_foot_massage_near_central_world_2025/sections/4/ja/summary.txt
+
+It should contain a 5-line Japanese summary (200-250 characters) for Pela Thai Massage : Siam Square soi6.
+The summary needs to be generated based on the instructions in:
+translation/temp/7_best_foot_massage_near_central_world_2025/sections/4/ja/prompt_to_translate_summary.txt
+
+The source English details for Pela Thai Massage : Siam Square soi6 (from the prompt file) are:
+Pela Thai Massage : Siam Square soi6
+・Rating: 4.8
+・Highlights: Japanese-inspired clean and modern facilities, expert therapists who quickly identify problem areas, and tranquil zen-like atmosphere
+・Price: Mid to premium range (650+ baht for 90 minutes)
+・Recommended: Ideal for those seeking a premium experience with attention to ambiance and professionalism in a convenient Siam location 

@@ -1,0 +1,26 @@
+Create a meta description by reading the intro of blog post.
+
+Instruction
+ - Generate with 150-160 words.
+ - Output file name (save to this file): data_output/metadata.txt
+ - Use key word: Foot Massage
+ - The title of this blog post is: 10 Best Foot Massage in Chiang Mai
+
+[intro of blog post]
+<!-- wp:paragraph --><p>Sawasdee ka! After living in Thailand for three years, one thing I know for sure is how amazing a good Foot Massage feels after a long day exploring. Chiang Mai has so many options, it can be hard to choose! That's why I've put together this list of 10 fantastic spots, all with over 200 reviews, so you know they're tried and tested. You can expect <strong><u>great service</u></strong> and that <strong><u>wonderful feeling of relaxation</u></strong>.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>Finding a place that offers <strong><u>good value</u></strong> and a <strong><u>truly authentic experience</u></strong> is key. These selections should help you find the perfect escape for your tired feet!</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>If you find yourself down south, check out my recommendations for Bangkok too: <a href="https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/">Discover the best foot massage spots in Bangkok</a>.</p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+    <p>
+    <!-- wp:embed {"url":"https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+        <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+            <div class="wp-block-embed__wrapper">
+                https://my-bangkok-life.com/10-best-foot-massage-shops-in-bangkok-2025/
+            </div>
+        </figure>
+    <!-- /wp:embed -->
+    </p>
+<!-- /wp:paragraph -->

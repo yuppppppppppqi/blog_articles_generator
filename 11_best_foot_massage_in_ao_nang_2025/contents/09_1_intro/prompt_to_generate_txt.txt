@@ -1,0 +1,88 @@
+Summarize the first shop (Burin Thai Massage) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "11_best_foot_massage_in_ao_nang_2025/contents/09_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Massage Corner
+・Rating: 4.8
+・Highlights: Highly professional and skilled therapists praised for attentiveness, especially with specific needs like injuries. Serene, clean environment slightly off the main road, featuring thoughtful touches like welcome drinks and post-massage refreshments. Relaxing open-air foot massage area with nature views. Accepts card payments.
+・Price: Moderate / Good Value
+・Recommended: Those seeking a professional, high-quality massage in a tranquil setting with excellent customer care and thoughtful amenities, away from the main street bustle.
+
+Lazy Dayz Massage
+・Rating: 4.8
+・Highlights: Soothing parlor with gentle music and refreshing scents. Offers hemp seed oil massages and cannabis products. Features comfortable lazyboy-recliner chairs for massages. Some reviewers noted inconsistency in massage quality and hygiene practices (hand washing).
+・Price: Moderate
+・Recommended: Visitors looking for a relaxing experience with unique offerings like hemp oil massage and comfortable seating, though experiences with therapist skill may vary.
+
+Wey Rich Thai Massage
+・Rating: 4.8
+・Highlights: Modern, clean, and peaceful atmosphere. Highly professional and skilled therapists delivering excellent massages. Offers a calm, secluded environment away from street noise, despite one review mentioning uncomfortable non-reclining chairs for foot massages. Provides complimentary tea post-massage. Charges a 3% fee for card payments.
+・Price: Moderate (with 3% card fee)
+・Recommended: Individuals seeking a high-quality, professional massage in a very clean, modern, and tranquil setting.
+
+Velar Massage
+・Rating: 4.5
+・Highlights: Friendly staff and cozy atmosphere. Therapists noted for professionalism and skill, particularly in addressing specific issues like sunburn or injuries (symptomatic/deep tissue massage). Some inconsistency reported, with negative experiences mentioning lack of skill or poor customer service, particularly towards certain nationalities. Deceptive practices alleged by one reviewer (making shop look busy).
+・Price: Moderate
+・Recommended: Guests needing targeted massage therapy for specific ailments or injuries, though quality may be therapist-dependent. Caution advised due to mixed reviews on consistency and customer service.
+
+Kanok body health care กนก นวดเพื่อสุขภาพ
+・Rating: 4.5
+・Highlights: Staff praised for being accommodating and communicative regarding massage needs (pressure, specific points). Offers additional beauty services like facials, lashes, brows, manicures. Clean, newer studio. Mixed experiences reported: some found it the best ever, others the worst (weak pressure, inexperienced staff, chaotic atmosphere, pricing disputes, language barrier).
+・Price: Fair / Moderate (potential for pricing disputes mentioned)
+・Recommended: Those seeking a customizable massage experience or additional beauty treatments in a clean shop, but be aware of highly variable reviews regarding massage quality and professionalism.
+
+AMALA MASSAGE
+・Rating: 4.8
+・Highlights: Newly opened, exceptionally clean, modern, and peaceful environment. Friendly, professional staff with good English skills. Masseurs (especially Sindy, Ann, Bee) praised for skill and understanding body needs. Offers excellent body scrubs alongside massages.
+・Price: Affordable (300-400 baht mentioned)
+・Recommended: Anyone looking for a top-tier massage experience in a brand new, spotless, and calming facility with highly skilled and welcoming staff.
+
+Oasis Thai Relax Traditional Massage
+・Rating: 4.4
+・Highlights: Very welcoming and lovely staff providing professional service. Offers a range of massages including hot oil aroma and traditional Thai. Clean shop. Some negative reviews mention feeling uncomfortable or receiving a poor quality massage.
+・Price: Reasonable (299 baht mentioned)
+・Recommended: Visitors seeking a friendly atmosphere and standard Thai massage options, although some caution is warranted due to isolated negative experiences.
+
+Oscar Thai Massage
+・Rating: 4.4
+・Highlights: Very friendly staff and owner; skilled therapists knowledgeable in acupressure points. Offers a variety of services including foot scrubs, facials, and hair braiding. Conveniently located near Holiday Style Ao Nang Beach. Some inconsistency noted (inexperienced therapists, therapist using phone, lack of pressure). Atmosphere described as basic (small, no AC, no music).
+・Price: Affordable / Good Value
+・Recommended: Tourists staying nearby looking for a friendly, affordable massage with skilled therapists available, but be mindful that experiences can vary and the ambiance is basic.
+
+Burin Thai Massage
+・Rating: 4.6
+・Highlights: Located within Ananta Burin resort, offering a clean, modern, and professional setting. Experienced therapists providing relaxing and effective massages (Thai, aroma, oil, balm). Offers promotions like 'buy 1 get 1 free'. One reviewer noted a masseuse falling asleep; another mentioned distracting behaviour between therapists.
+・Price: Moderate (potentially higher without promotions)
+・Recommended: Resort guests or visitors looking for a professional massage in a clean, resort-style environment, potentially with good deals available.
+
+Ally Massage 3
+・Rating: 4.3
+・Highlights: Very friendly and welcoming staff, creating good vibes. Offers a range of services including foot scrubs and pedicures. Therapists like Kom and Aoun praised for specific skills. Busy atmosphere, not tranquil. Inconsistent experiences reported: some found it the best, others the worst (rushed, unprofessional, lack of pressure, time short-changed, alleged theft/scam attempt).
+・Price: Affordable (£7 equivalent mentioned)
+・Recommended: Budget-conscious visitors looking for friendly service and specific treatments like foot care, but who don't mind a busy, less relaxing atmosphere and are aware of highly variable quality and potential issues. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Burin Thai Massage	4.6	72	https://places.googleapis.com/v1/places/ChIJqw9h5ES_UTARm18IXhUgLFY/photos/AeeoHcKT256XoW_unVIUoz1OVgqgiE3PQuET-Zbx-F1bc0op86NDRTA1m9l_kDmwYRj5Q4z7dTFDq1yM74DKLbo8g55ikrhIsWW4CmO4g3K0YRi0BG-OJvM36je99mMN9sIOIeFrCM6Enzp8zqU4c9uj41EJpqQQxJpEqP1en_wqSVR_kCoddr2cDOeMaycwRU9HjeJm8GVeFsnbMt5p7c-Xe16L18_8Sm4D5HgWrLudKVCJZsTcbxHswfMOsDu5G7BVQVT9qU0eIRRsshGRZy219ygGd_PBW092pKCxniAIjYxEeg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJqw9h5ES_UTARm18IXhUgLFY/photos/AeeoHcIflBqoJF40TPo75KYmBwFuYmj2BNM1d2Mi723NZMkCBCffAP2k5gnY7auruJNuuFTvNvchlWpe0vg5DHOuM1zvj_JSVeN4urE70VBGJpOHXUCFFZ5XCoQ8NMqinwnvNwy8s_KBBX5inOPUANGlQlYbp_RK5sRD1DcGe3SXQGAst-CxBYfrlYqExfKYbOWrcnjNtsAo7nMTWmiQyLSARr-AVWkVX4bfFp3jUSV0b71JFew4ef0aDTJrdWX6wj-JZUj6C2ohMVrvfi1fCYFTk-jVk3MNcP2IgtWME2DpHVEt2_8ssxxYQErv9e9VacCBV1Cig1KikilF58sK_CDsY-7kEjpWgH8alrYvtXXqNVkb1f4BafMpS1pZByTmh909nLiGGm50bESLTyLpBc51wGbvReHuapsF-e52TbBdlS3MVpE/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJqw9h5ES_UTARm18IXhUgLFY/photos/AeeoHcJ7bS-GUUGvWW9BTOKvx9lFFhxRdcwvOZsqy4ksCTabeePppYbCYbQTLvey1ngNUoN3jjO8Zd0ZZJ1UgYmq0SE4w7hVv3IUVs2OXP4nzq7YPOvu6xM9XmfnglqnYiLcNiiHAjmivOmN4uHZg0wLkxTzV1zqZEzSVgk3xUieHJmfLdBR0valHXe9pgISeJj32CTX1bQic76sX3YdcwvMMqfMgAtbApJNSPANAo1uqwdE2HFIImPzBviNcc6g6GdqLWCgcAozxa6h_rp-G1xZ-7ZmM7Ga8k8Zx71FBfIJxelbt4GompV5F0sfEEVRAKIL0PQZLfTGdyG5whM0V-NuiaiZbpsCcO9iuGT4NWhaIkDGvvHIl92TYhqhsX3z3oUGEdZEcTTWdZ66nD9sqgvLk7CLPw3eRZZpzzAKvpx8G3DKe07c/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJqw9h5ES_UTARm18IXhUgLFY	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJqw9h5ES_UTARm18IXhUgLFY&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJqw9h5ES_UTARm18IXhUgLFY&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Very good and clean massage place. Massage is decently good but a bit pricey without promotion 	Amazing massage experience. I had 1h Thai full body massage from Ananta Burin resort and it was super relaxing and professional. You feel the experience and quality. The building is super clean and modern. 	So good. What a find!! Service was second to none....even after checkout. We will definitely be back the next time we are in Krabi! 	I don’t even know how to describe what that was xd an old masseuse during a coconut oil massage spent the first 40 minutes awkwardly rubbing various parts of my body. After that, she fell asleep over me XDD I got up and left, there was no point in enduring this drama for another 40 minutes. 	Massage was awful. I ask for a sport massage, but it wasn't. Soft oil massage only. No help, no english communication at all. Don't recommend at all. You could find better massage and 2-3 times cheaper then there 	We received 2 free massages with our booking as we booked direct. We also made use of their buy 1 get 1 free promo for aroma massage. The staff were friendly, welcoming and accepted that as a single adult travelling with 3 young children the toddler would be in the room with me. Easy booking procedure and would recommend. 	My family of four just had one of the best aroma wat pho oil massage, the ladies were really good. Very happy customers 	Loved the whole experience, the lady was brilliant, I had a balm and oil which was just what I wanted. Will be going again 	Great service. We felt so relaxed and loved the massage experience. It is worth the price. Heartily thankful to the staff members. Also the vibe at massage parlour was very peaceful and pleasant. 	Great massage place in Ao nang. The lady is really good. I feel extremely relaxed and calm after session. Also very low prices! 	Body massage was very good. They massage very well. I feel very relaxed. 	Relaxing and a bit painful as they massage your points deeply , a must try for a life time experience, good hotel as well	The manager so good in handling us and upgraded our room Thanks ya 	Best resortbfor families and groups. Lovely breakfast menu and in house massage house. Highly recommend to saty over 3 days 	The foot massage here is really really good, somewhat magical. My husband and I almost fell asleep during the massage. Would highly recommend. 	Came here for a back/neck and shoulders massage and found it to be decent. I requested a male masseur due to the strength difference I have noticed in Thailand and that was no issue.  My friend settled for a lady massuese due to no more males being available and she found her massage to be okay/nice as well.  The lady though she had kept opening the curtains between us and laughing and trying to converse with my masseur, which was a bit annoying to be honest. Upon the moment they were stretching my friend she opened the curtains again, after I myself closed them and my masseur seriously got flashed due to my friend's bare chest.  Since all the professionala got called after 4 people requested a massage I am assuming they have certain people on speeddile and whomever responses the quickest, gets the deal.  For the nice resort that they are I was expecting more professionalism from the masseuse.  I overall had a good massage, yet I do not need to see someone elses face and hear that curtain be opened 10times in a row after my masseur and myself closed it.  Focus on your own client, that might be a better work strategy. 	I am having the massage for 2nd time. The massuer is professional with skillful hands, perfect for relaxing after the tiring trip. I always been to Healthland for massage before, this is definitely better than that.

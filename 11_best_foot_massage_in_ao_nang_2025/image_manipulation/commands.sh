@@ -1,0 +1,3 @@
+python change_file_name_and_convert_to_webp.py
+
+# python upload_to_wordpress.py

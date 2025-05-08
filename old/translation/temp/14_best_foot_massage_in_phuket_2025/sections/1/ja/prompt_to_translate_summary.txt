@@ -1,0 +1,82 @@
+お店（We Wealth Health Massage and Beauty）を以下の形式で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- 日本語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/temp/14_best_foot_massage_in_phuket_2025/sections/1/ja/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+
+We Wealth Health Massage and Beauty
+・Rating: 4.8
+・Highlights: Skilled therapists adept at addressing specific pain points, offering a wide range of massage types including deep tissue and aromatherapy. The shop is praised for its relaxing atmosphere, private rooms, and thoughtful touches like herbal gels for injuries. Complimentary tea and biscuits, plus a nearby cafe, add to the experience. Reasonable prices and consistently high service standards, though some variability in therapist quality.
+・Price: Reasonable
+・Recommended: Ideal for those seeking targeted relief from pain or tension, and anyone wanting a relaxing, well-rounded massage experience in a welcoming setting.
+
+Hatha Massage Patong
+・Rating: 4.7
+・Highlights: Popular, centrally located shop with experienced, professional staff. Clean, comfortable environment with no aggressive street solicitation. Flexible with families and children, and offers a variety of massage styles. Consistent quality and fair prices, with deep relaxation and attentive service noted by repeat visitors.
+・Price: 350–500 baht for 60 minutes
+・Recommended: Great for families, couples, and travelers looking for a reliable, no-nonsense massage in the heart of Patong.
+
+Healthland
+・Rating: 4.6
+・Highlights: Authentic, rustic Thai massage experience with highly skilled, experienced masseuses. Not a luxury spa, but known for effective treatments, especially for injuries and chronic pain. Clean, welcoming, and affordable, with a loyal local and tourist following. Some mixed feedback on therapist style and communication.
+・Price: Affordable
+・Recommended: Best for those seeking genuine Thai massage and therapeutic relief, rather than a luxury spa environment.
+
+NAYA Thai Massage Phuket Town
+・Rating: 4.9
+・Highlights: Exceptionally friendly and professional staff, with therapists who listen to client needs and adjust pressure accordingly. Clean, cozy shop with complimentary tea and biscuits. Highly recommended for deep tissue and sports massages, and praised for healing back pain and providing attentive care.
+・Price: Affordable, cheaper than surrounding area
+・Recommended: Perfect for those needing personalized care, sports recovery, or a welcoming first-time Thai massage experience.
+
+Body Works Thai Massage Patong 2
+・Rating: 4.9
+・Highlights: Detailed, thorough massages with attentive therapists who check on client comfort. Calming atmosphere, friendly staff, and a reputation for both deep tissue and relaxing massages. Some variability in pressure preference, but overall high satisfaction and value for money.
+・Price: Good value
+・Recommended: Suited for those who appreciate attentive service and want a thorough, relaxing massage in Patong.
+
+Sansabai Massage 3 in Thairapy zone in Jungceylon
+・Rating: 4.9
+・Highlights: Highly professional, clean, and skilled therapists. Wide range of massage options, including migraine and deep tendon treatments. Excellent for both individuals and groups, with a reputation for consistent quality and customer care. Reasonable prices and a welcoming environment.
+・Price: 400–450 baht for 60 minutes
+・Recommended: Ideal for those seeking top-quality massage in a busy shopping area, including groups and those with specific therapeutic needs.
+
+Tonpho Thai Ta Massage
+・Rating: 4.8
+・Highlights: Clean, relaxing space with skilled and caring therapists. Known for strong, effective massages and a welcoming, soulful atmosphere. Staff are attentive to client requests, and the shop is praised for its professionalism and legit services. Occasional feedback on therapist matching and pressure.
+・Price: Standard
+・Recommended: Great for locals and visitors seeking a genuine, strong Thai massage in a friendly, no-nonsense environment.
+
+SAMA Onsen & Massage
+・Rating: 4.8
+・Highlights: Unique combination of Japanese onsen and Thai massage. Impeccably clean, beautifully decorated, and highly accommodating to special requests. Therapists are professional and attentive, and the onsen experience is deeply relaxing. Complimentary herbal teas and a hidden-gem atmosphere.
+・Price: Good value
+・Recommended: Perfect for couples or anyone wanting a rejuvenating spa day with both onsen and massage in a tranquil setting.
+
+Charm Massage
+・Rating: 4.7
+・Highlights: Luxurious experience at a reasonable price, with private spaces and attentive staff. Clean, professional, and welcoming, with thoughtful extras like cold towels and herbal tea. Some variability in service, but generally high satisfaction and comfort.
+・Price: 390 baht for foot massage (Jan 2025), slightly higher than average
+・Recommended: Ideal for those seeking a pampering, comfortable massage in Old Town, with a focus on cleanliness and relaxation.
+
+Kim's Massage & Spa 12 Old Town Thalang Road
+・Rating: 4.6
+・Highlights: Serene, clean, and professional environment with a variety of massage options. Therapists are generally skilled and attentive, with some variability in pressure and communication. Good value for spa packages, and a quiet, calming atmosphere in a convenient location.
+・Price: US$24 for 2 hours, affordable packages
+・Recommended: Best for those wanting a peaceful, no-frills massage experience in Old Town, especially after a day of sightseeing. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+We Wealth Health Massage and Beauty	4.8	236	https://places.googleapis.com/v1/places/ChIJ89q_CqExUDAR_fF5oNEwdIk/photos/AeeoHcLkLHWfWBejsbt7R8YJC1E1eFuRUBT78uj0FBOP1Dj3bo8-0NZY1_nfxTURWm_C6NLc9Ge__PLhvVhmXtU49s4hL983mKs2lHQl_9Xf2X26qrvrdfxJmTfeniqWsjX66aWeHpTJMH3Yc3Va1Coq8glrf3AG8gCax1-lxvBxQsZxd-pKY5QUA5qdTseLLK6zgavnRdKjZ7sbNNecBNtRuTx5EndpWsgfAipC-LQjD58iHf2k-yqzm4Sz-qjS9Um4aVoybbYPft5UXlyvLEHgZS2QMdYjvwkQywBTSyuutW8C6snLrpOekBl8BryyCSgZzzjl9qNY6t6r9bFe4rVBOHB_4z33QCL9MannVP2C0eB6xQT1WB9iNomf5GD0pCLMhhTzjVjTysmUQmXPSvslEjRKHmcYZfnwVc5EeQre8L2sxKk/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJ89q_CqExUDAR_fF5oNEwdIk/photos/AeeoHcJDk2w4pxyCwkdlB_4D_OhqeEYbF1AQ8tbBz3ohV5qJvBWtAlu429NEZTSkXClA22Y3ExtHNh5vm_V4JwUEhubzCswzge4QwdBH29u4CYPJxmaFfIcvWioPMu7e1-NVFL285Y5EB3GoTpGk_y7NTZ7fn7G_zgRf1oSjoiIKuWB3pkfiM_iYU4YWCPiVuhFEoJT7MzwmHgoUIHeTlGh0AGMG22Lp2yIDliXx4Ft3GWwToeO_RNQdeOHqO0vrnq6WiDEt5Q3WNfwUrDr4Yz7oa7xw91Ys0XH7SbweQg3CMS6lG5QA9c6JwQIjRcDuvZot8UvJcfnXAqxj-uCWT7ams8ASMsjf2aVLVJHfQc1b6dDfyegzci31E-LeBu2GKM2TQeSUs0i-RvgJEoDZ3lxF8csYCzijN9DD3WDFRE4zWfKWJba8/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJ89q_CqExUDAR_fF5oNEwdIk/photos/AeeoHcK4AcHy_VNev6SQ7vv5TK2z-dcbSCEQEv6G7dunk5_71LdSicorttCUk44dBUo5Z2kJ7KV1wHa7TMfwfxw39jEjv4KQ2gAoxl0AtUTqTx8DbT3Qrf2QFOj9BCm6gz9TIvWqQ7RJ1HXi_1037610wLIuSZ7I32HlUdul45VYdaFMmgRTW0QTfRyloUYDQBG840-MgqWLCwwOl-4QrKUx017SwnOGPgc0B9jplfQ2MSJ7pG2HPV0gxh__vWwGfVWLEqgr_Bki_v5GL4fVrfWvQWIIlCuXP1JNW6d_xRYq2VJOb2I0vM_KkZwic_llY9CLJbDbxZ8mp37eongcfphY7O4juvaMGb8moYH7k1HDjMCmWM8QBY1gjG8hoHaJ8I0Sri9xN3tkgyZHKd8oLkO46l-3xIjBy1fXL4mvnA1bjfnNXImO/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJ89q_CqExUDAR_fF5oNEwdIk	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ89q_CqExUDAR_fF5oNEwdIk&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ89q_CqExUDAR_fF5oNEwdIk&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Hulya SapmazLocal Guide · 50 reviews · 17 photosa month ago I had oil deep tissue massage. I have hernia at back and neck and a frozen shoulder. She knew where to put pressure on.. I felt so relaxed and painfree for long hours after massage. She used some herbal gel on my frozen shouldee as well and … MoreLike Share Response from the owner a month agoThank you very much  Translated by Google ・ See original (Filipino)	Akis MatthaiadisLocal Guide · 75 reviews · 4 photosa month ago This was one of the best massage experience of my life. I had the traditional Thai massage and the next day I booked for  a two hours combination of Thai - Relaxing & Foot massage. … MoreLike1 Share Response from the owner a month agoThank you for your kind words. We always welcome you🙏  …	Shayne Xiang2 reviews · 1 photoa month ago I have came here 3 times  2 times of the best massage in my life so far. But one therapist who has short hair with glasses is also one of the worst therapist  not professional at all. Overall  this is a good place for massage with reasonable price.Like Share	ElenaLocal Guide · 226 reviews · 1 172 photosa year ago I really loved the experience here. I had a head massage and if you want to have the same think again. Lots of hair fall afterwards and head in bruises. … More +6Like1 Share	Sema the Traveler2 reviews3 months ago Such a relaxing experience. After a long search I decided on this place and reserved an hour long relaxing aroma therapy oil massage for me and my sister. It was the best decision. We had a private room for ourselves and two nice therapist … MoreLike Share Response from the owner 3 months agoOh  thank you for your compliment and satisfaction with the service of the shop. Translated by Google ・ See original (Thai)	Andreea Denissa BeciuLocal Guide · 35 reviews · 307 photosa year ago Had the best massage! It was so good and such a pleasant experience. We got some tea at the end and biscuits. Reasonable prices as well  100% recommend. There is also a cafe right next to it with amazing food and coffee.Like Share	Ro T1 review · 4 photos11 months ago The first time  the message was in the forest in the central town of Phuket. I find here by coincidences. They have various programs for massage  body scrub  and hair wash  and also the price is friendly. The staff is also professional and … MoreLike Share Response from the owner 4 months agoThe shop is very grateful that customers like the service offered by the shop. Translated by Google ・ See original (Thai)	Haldi KülaLocal Guide · 12 reviews · 10 photosa year ago Very nice place - I’ve waited until the end of my Thai trip with the review. This was my first massage in Thailand it set the bar for others quite high. Lovely service from the beginning to end (welcome  washing the feet  tea and … MoreLike1 Share	S E 135 reviews3 months ago An Exceptional Hour of Pure Relaxation and Relief  I recently experienced a one-hour foot reflexology session  and it was nothing … MoreLike Share Response from the owner 3 months agoThank you very much for liking the service of the shop. Translated by Google ・ See original (Thai)	Alexander MykhailenkoLocal Guide · 10 reviews · 56 photos4 months ago The best place for having a massage. Nice new building with super atmosphere and greatfull people. We tried full body massage once and next time feet massage  both were done very … MoreLike Share Response from the owner 4 months agoThank you very much for liking the atmosphere of the shop. Translated by Google ・ See original (Thai)	I had oil deep tissue massage. I have hernia at back and neck and a frozen shoulder. She knew where to put pressure on.. I felt so relaxed and painfree for long hours after massage. She used some herbal gel on my frozen shouldee as well and …	Thank you very much	This was one of the best massage experience of my life. I had the traditional Thai massage and the next day I booked for  a two hours combination of Thai - Relaxing & Foot massage. …	Thank you for your kind words. We always welcome you🙏  …	I have came here 3 times  2 times of the best massage in my life so far. But one therapist who has short hair with glasses is also one of the worst therapist  not professional at all. Overall  this is a good place for massage with reasonable price.	I really loved the experience here. I had a head massage and if you want to have the same think again. Lots of hair fall afterwards and head in bruises. …	Such a relaxing experience. After a long search I decided on this place and reserved an hour long relaxing aroma therapy oil massage for me and my sister. It was the best decision. We had a private room for ourselves and two nice therapist …	Oh  thank you for your compliment and satisfaction with the service of the shop.	Had the best massage! It was so good and such a pleasant experience. We got some tea at the end and biscuits. Reasonable prices as well  100% recommend. There is also a cafe right next to it with amazing food and coffee.	The first time  the message was in the forest in the central town of Phuket. I find here by coincidences. They have various programs for massage  body scrub  and hair wash  and also the price is friendly. The staff is also professional and …	ChIJ89q_CqExUDAR_fF5oNEwdIk 

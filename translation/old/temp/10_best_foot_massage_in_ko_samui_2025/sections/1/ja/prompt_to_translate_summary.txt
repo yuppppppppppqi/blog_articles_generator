@@ -1,0 +1,82 @@
+お店（Urban Thai Massage - Fisherman Village）を以下の形式で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- 日本語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/temp/10_best_foot_massage_in_ko_samui_2025/sections/1/ja/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+
+Urban Thai Massage - Fisherman Village
+・Rating: 4.6
+・Highlights: Professional and friendly staff, very clean and tranquil setting, some rooms offer beautiful sea views, known for foot massages and couples treatments, specific therapists often praised (Nee, Man, Laura).
+・Price: Mid-range (described as slightly more expensive but fair/reasonable by reviewers).
+・Recommended: Couples or individuals seeking a professional massage experience in a clean environment with potential sea views, willing to pay a bit extra for the ambiance.
+
+Eve's Boudoir Massage & Nail
+・Rating: 5.0
+・Highlights: Exceptional service across massages and beauty treatments (nails, lashes), highly skilled and attentive therapists (Nim, Lee, Nee, Beauty frequently mentioned), very clean and professional salon, relaxing atmosphere with thoughtful touches (foot wash, tea).
+・Price: Good value/Fair price mentioned by reviewers.
+・Recommended: Those seeking a high-quality, comprehensive spa experience including massages, manicures, pedicures, or eyelash extensions in a very clean and professional setting.
+
+Nakee Thai Massage
+・Rating: 4.8
+・Highlights: Highly skilled, professional therapists known for effective massages (Noi, Rin frequently mentioned), strong reputation for pain relief and deep tissue work, offers pregnancy massages, clean and modern environment.
+・Price: Fair/Reasonable.
+・Recommended: Individuals seeking therapeutic, high-quality massages (including deep tissue and pregnancy) from skilled practitioners in a clean setting.
+
+Ning 's home massage
+・Rating: 4.8
+・Highlights: Beautifully decorated, bright, and very clean space, friendly owner (Ning) and staff creating a welcoming atmosphere, high-quality massages (Thai Oil popular), thoughtful extras like tea and snacks.
+・Price: Standard street salon prices, considered great value.
+・Recommended: Visitors looking for a high-quality massage in a beautifully designed, clean, and friendly environment at affordable prices.
+
+Sodsai Health Massage Branch 2
+・Rating: 5.0
+・Highlights: Exceptionally skilled therapists often described as having "doctor's skills", effective for relaxation and addressing health issues/pain, professional and attentive service, caters well to specific needs (pregnancy, injuries), clean environment.
+・Price: Very reasonable, slightly higher (50 baht) for some services but considered excellent value.
+・Recommended: Anyone seeking highly effective, therapeutic, or relaxing massages from exceptionally skilled professionals, including pregnant individuals or those with specific pain points.
+
+Sea-Sand Massage
+・Rating: 4.9
+・Highlights: Consistently high-quality massages, particularly deep Thai massage, skilled therapists with strong hands (Patty, Ve mentioned), clean, quiet, and relaxing atmosphere, attentive and respectful service.
+・Price: Fair/Standard pricing.
+・Recommended: Individuals looking for strong, effective therapeutic or deep tissue massages in a clean, quiet, and respectful spa environment.
+
+Urban Thai Massage - Chabad House
+・Rating: 4.7
+・Highlights: Professional and skilled staff (Big, Jib, Leena, M, Mam, Rue mentioned), clean and well-maintained facilities, offers a variety of massages including effective deep tissue and hot stone, good for couples.
+・Price: Reasonable/Mid-range (mentioned as more expensive than some but fair).
+・Recommended: Those seeking professional, strong massages (including deep tissue and pain relief) in a clean, well-equipped spa environment.
+
+Urban Thai Massage - Central Samui
+・Rating: 4.5
+・Highlights: Clean environment with premium feel, some rooms offer sea views, comfortable armchairs for foot massages, skilled therapists capable of strong pressure (Wood, Bella, Tao mentioned), good range of massage options.
+・Price: Reasonable/Mid-range.
+・Recommended: Visitors looking for a professional massage (including deep tissue) in a clean, ambient setting, potentially with sea views.
+
+Coconut Paradise Spa
+・Rating: 4.5
+・Highlights: Skilled and friendly therapists (Et, Noi mentioned), effective deep tissue and foot massages, clean and professional environment, good location in Fisherman's Village.
+・Price: Average/Mid-range (e.g., 500-550 THB for deep foot/leg).
+・Recommended: Those seeking effective deep tissue or foot massages in a clean spa, though potentially noisy due to nearby clubs.
+
+Baan Massage
+・Rating: 4.7
+・Highlights: Very friendly owner and staff, clean and calming atmosphere set back from the main road, excellent quality massages (Thai hot compress, coconut oil popular), good value for money, thoughtful service touches (foot wash, tea).
+・Price: Local/Affordable prices, great value.
+・Recommended: Visitors seeking high-quality, relaxing massages (including hot compress) in a friendly, clean, and calm environment at reasonable prices. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Urban Thai Massage - Fisherman Village	4.6	393	https://places.googleapis.com/v1/places/ChIJjS2njODxVDARq9rZHzlpwiQ/photos/AeeoHcK1qhLvj4Wck7EYCaeanpLenZl0alUTDh_696rWLuj5PJc_xVfaRBYOynO-aF5NNMudvab0OYcYnomhtVj7Jl5k3rCjhvZCYVbsvb3oJ-1ia8LZK5-mGRFT7h5RdW3FSEASGj1r4eFOZSBzM3S8SCAnvu4Mjxa0nqJltcyLZs7usWG5xQl-vQBZrSjIivjh82eRfK3k4nt2YOq-LraKuQTasTXhWIcqs_yn_NxBCsxxS3P_ixiLvzMITJY70bB7FveiWRIqXYg5Qe1lUCc4wG7HJZhoKF9-osxGJwl5sW0qSTykHPklTkXZSAA8YasZu3d3rjFa9poSv3mBRq31dlNdmOCxxII1TET0jl8LFFS4liXkYwvFqrdp2FjIvBMHLGCtjjauDunF-JvxkmUt7EwpkB8YcQa2KZHBIlNb_f92l5Wa/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJjS2njODxVDARq9rZHzlpwiQ/photos/AeeoHcJa1tNz1V-VyBAevgTXQX8xca6SQmmaShzoFhGj57L_jOlj9EP9T3gncsmdB0PGVbNEgsQh7lNLIwZYv7gcYygq1rBT1q-bhyVHH15DefgwhJVYGLKCP9gGwwmeR5p9EyFRZHsoKbY0sZ6VWlRv5he8vNG1ZiYQp2rw0zWHx9epe87_vZw6wFEU7tj-Rm8gD7Zj-3P12bFSPTBtPThhYAznJDsg2xWaLC6wrGdG19CusZU4_6fLj9H37cNmH06Q1JV-5Pt2kIeXxMuG7BdoIqflizVsBsMPncYaXuzd-gKfDpw5dsUOuHzbzQzxk10iorMoa_eVAjunygEvVTVsmKTTzxCrhd8AFYq_flglSgU_Gj279j4zDtmdzupv0Nso50ahb9RA-PMGCdDIga0l-q52XuCkQdpn3pGHrYtjlViblCA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJjS2njODxVDARq9rZHzlpwiQ/photos/AeeoHcJ6zKctJ76Vg44IIDNH9wDZkh2d30dC86xVnOPEyxcwWLAKlAty1DHJ0ZXLEwYNvASFOhwYGmKe-FC0uRJtb_69UwQdw0Q3piN6TBkCv8rIpfmS8K5BicdyYEZO3Cqd8IEYdaKmXUnU0uizyDrn_0Jtuv017Aj6Y4CWZPftTZHbvKuJ2sh_4-CfcoJA9FV0NTe37hrRToo_IJEHQ7b9T7ZiV3dqiPvxumxKGAmdd51XV-axW_0HztX-3Zifw49seKN3snl-zvnPIrgwO0bqzO-1L6bpdu7p_ZaWeYB-I1ULb6m-ziyp6Wn4_oXQKeayurBnmAd8Di4SGsw8I22iY9FcWKpVFIWDXDGF5knHMVqOMGW6-2Jtkv6pQC_Wgh5EhZ-GbRyU6egfbW3D09X06qKBso0szxg2ZQ7c0TyxLHNtIOEC/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJjS2njODxVDARq9rZHzlpwiQ	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJjS2njODxVDARq9rZHzlpwiQ&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJjS2njODxVDARq9rZHzlpwiQ&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	I was very impressed with the massage I received. I had a full body lemongrass massage and it was a super relaxing experience. The staff were very professional and friendly! I would totally recommend this experience to anyone, a little more expensive than some of the others but worth every Baht 💙 … 	Great massage at a very good price. Came on a rainy afternoon and even though they were busy they fit us straight in for a couples massage. The view from the room is really good! 	The best massage in Koh Samui Mr.Kai was very welcoming and so friendly 🤍 I was so fresh after fully body oils massage 😍 … 	Clean and nice ambience. Friendly and professional masseur. Well maintained furniture. Reasonable price. 	I've never had a massage before this but now the bar is impossibly high for everyone else. I got a couples body scrub and massage with my husband on our honeymoon at Urban Thai Massage and it was such a good experience. It was calming and the view from the room was beautiful. The ladies were funny and inviting and I swear I walked out feeling brand new. Would 1000% recommend! 	We had many massages in Thailand, probably hundreds…the foot massage at Urban was easily one of the best ones! The place is clean and the staff is very friendly and super professional. I’d warmly recommend paying the extra to try this place out. 	We booked the 2-hour Urban Dream treatment for 1,500 Baht each, expecting a high-level experience. Unfortunately, it was very disappointing. Our therapists were very bad, painful and not nice at all. That didn’t agree even to turn off the air conditioning even though I was freezing. They were acting like they were doing me a favor for giving us the massage, and seemed unprofessional. We left feeling uncomfortable and dissatisfied. 	Truly professional, very clean and tranquil setting. Nong & Tu were exceptional!! My sister and I had a shared room with a great sea view. We found it courteous that they didn't speak to each other during the massage. Highly recommended!! 	Urban Thai Fisherman Village is a pristine and picturesque location that creates a serene atmosphere for a spa experience. The cleanliness and beauty of the place are certainly notable, contributing to a sense of tranquility upon arrival. However, the experience took a downturn when it came to the core aspect of the visit— the massage therapy.  The skills of the therapists at Urban Thai Fisherman Village unfortunately did not live up to expectations. Despite numerous requests to increase the pressure during the massage, it seemed that the therapist was unable to provide the desired level of intensity. This resulted in a massage experience that felt more like a superficial rub than a therapeutic treatment, failing to address the intended purpose of relaxation and relief.  Moreover, the sequence of treatments added to the disappointment. A scrub before the massage can be a beneficial prelude to relaxation, but the lack of a towel provided before the shower detracted from the overall experience. Attention to these details is crucial in ensuring a seamless and comfortable transition between treatments.  It is evident that the therapist's skills did not meet the standard expected of a top-tier spa, leaving much to be desired in terms of the massage experience. Given the abundance of alternative choices on the island, it is hard to ignore the fact that there are far better places with therapists showcasing superior abilities.  Ultimately, while the ambiance and ambiance of Urban Thai Fisherman Village are commendable, the mediocrity of the massage therapy and the lack of attention to essential details make it difficult to recommend this establishment as a top choice for a rejuvenating spa experience. 	Great atmosphere, beautiful when you book the room with sea view, great massage and fair prices. My masseuse was Laura and she was amazing !! 	Very nice views from the rooms onto the ocean and also clean. But the lady never asked me about how intense I would like the massage and even when I told her I‘d prefer it softer, it was still too hard for my taste. 	I was a little wary going into any old establishment and wanted to choose one that looked clean and professional, not just cheap. Urban Thai was very clean. We were welcomed in, got our feet washed and given slides to wear whilst inside. We were greeted nicely and treated politely throughout. My husband and I went twice and got the relaxation package with half hour foot massage and one hour full body massage with oils. I didn’t feel like she got the places on my feet that I like. Never touched the toes and somewhat avoided the heel which are the two spots I like massaged on the feet. It was still very relaxing and enjoyable and the full body massage was great. We both enjoyed the two massages we got and would recommend Urban Thai massage if you’re in the area. 	My wife and I were looking for a massage and we walked along the street in fisherman’s village. A good friend of our recommended the views and the massage therapists were amazing! We were very impressed with the couples oil aromatherapy massage we came back to get another one. Lovely facility and the view from the rooms are absolutely amazing! We will definitely come back when we are in samui again :) 	Had one of my better massage experiences in Thailand at this place! Very clean, calm, serene and nicely decorated. Friendly staff and some rooms also have a beautiful view (which you can’t see with your head down ^^). I chose the back/shoulder/neck massage with lemongrass oil. She (‘Nee’) was able to exactly pinpoint which muscles needed more attention, since some around my shoulders are usually very stiff. She alleviated the ache and stiffness and overall I had a really pleasant, relaxing and satisfied experience 🙏🏻 	Had a great experience with the 60-minute tiger balm Thai massage. The staff were friendly and kindly asked if I was comfortable with a male masseuse. The massage was excellent and fairly priced. No complaints! 	Nice people and best massage! Also the room with sea view is so nice, you can take a shower afterwards. 	When you pick back and shoulders massage you need lay on the floor like at those cheap massages on the beach even when they have empty many massage bed upstairs and fancy building when you pay premium ( I would understand if the place was full, but at the time there was almost nobody. So if you want to have real massage on the table like a human being you need to pick a massage that you dont want. Not talking it was soft and the lady was doing same move for 40 minutes. You cant get better treatment and for lower price elsewhere 	Fantastic experience, super clean, smells good and professional. I can highly recommend that place, my therapist for the day was “MAN”, he gave me an excellent foot massage. super strong hands and very gentle at the same time. 	Very beautiful, clean and quiet place. The staff are very nice and the massage was especially good. We will definitely come back. 	We had a nice massage there.  My daughter and wife enjoyed foot massage and I did a full body massage. The view from the massage room facing the sea is fantastic! 

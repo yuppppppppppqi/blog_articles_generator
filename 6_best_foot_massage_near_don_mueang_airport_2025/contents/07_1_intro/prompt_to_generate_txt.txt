@@ -1,0 +1,82 @@
+Summarize the first shop (Gen Massage) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "6_best_foot_massage_near_don_mueang_airport_2025/contents/07_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Ploenchiva Massage
+・Rating: 4.7
+・Highlights: Modern spa with elegant decor, attentive staff, and skilled therapists known for strong deep tissue work. Offers complimentary tea and cookies with each service in a peaceful, clean environment.
+・Price: Mid-range
+・Recommended: Perfect for travelers seeking a premium massage experience in a stylish setting near Don Mueang Airport.
+
+Himawari Massage Spa and Onsen
+・Rating: 4.9
+・Highlights: Japanese-inspired spa combining traditional massage with authentic onsen experience. Features private baths with customizable water colors and aromatherapy options in a tranquil setting.
+・Price: Premium
+・Recommended: Ideal for those wanting a complete relaxation experience with both massage and onsen bathing in a Japanese-style environment.
+
+SALA Theprak
+・Rating: 5.0
+・Highlights: Immaculately clean spa with exceptional service and highly skilled therapists. Known for their attention to detail, relaxing atmosphere, and consistently high-quality treatments.
+・Price: Mid-range
+・Recommended: Perfect for those seeking top-tier massage services in a serene environment with impeccable customer care.
+
+Belleza
+・Rating: 4.9
+・Highlights: Established luxury spa with 15+ years of excellence. Specializes in aromatherapy, herbal compress treatments, and office syndrome relief. Known for personalized service and consistent quality.
+・Price: Premium
+・Recommended: Ideal for regular spa-goers looking for expert care and treatments specifically designed for office workers and chronic pain relief.
+
+Relax Home Massage
+・Rating: 4.9
+・Highlights: Minimalist Japanese-inspired decor creates a soothing atmosphere. Known for excellent body scrub treatments ("dung bomb") and aromatherapy massages in a clean, Instagram-worthy setting.
+・Price: Affordable
+・Recommended: Perfect for those seeking value for money in a stylish environment, especially those interested in exfoliating treatments and skin care.
+
+Fortune Massage Phahonyothin 69
+・Rating: 4.9
+・Highlights: Clean, cozy spa with skilled therapists known for their strong pressure techniques. Offers complimentary bael fruit juice and creates a welcoming, relaxing environment.
+・Price: Budget-friendly
+・Recommended: Great for those who prefer firm pressure massages at affordable prices in a simple but well-maintained setting.
+
+Gen Massage
+・Rating: 4.9
+・Highlights: Modern minimalist spa with excellent customer service and specialized treatments for office syndrome. Offers both traditional and aromatherapy massage options.
+・Price: Affordable
+・Recommended: Ideal for office workers suffering from neck and shoulder tension who want targeted relief in a contemporary setting.
+
+Rean Sritrang
+・Rating: 5.0
+・Highlights: Exceptionally skilled massage therapists with a focus on therapeutic techniques. Clean, comfortable environment with soft background music and friendly, attentive service.
+・Price: Mid-range
+・Recommended: Perfect for those with specific pain points or muscle issues requiring experienced therapists with healing hands.
+
+Meghalaya Traditional Massage
+・Rating: 4.8
+・Highlights: Authentic Thai massage techniques delivered by professional therapists. Offers strong deep tissue work, stretching, and traditional methods in a dimly lit space with Thai music.
+・Price: Budget-friendly
+・Recommended: Ideal for those seeking genuine Thai massage with firm pressure, especially convenient for airport layovers.
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Gen Massage	4.9	58	https://places.googleapis.com/v1/places/ChIJmeataeh9HTER7q5nhIb92XI/photos/AeeoHcJAiJUIuP7hNz7mZxCf5nqkb4iz9li5oxavglYxqj7F9U2iLV0GAZ-npvkK4mFE9uOCk-_tJivZeMnae5aSJ2gyYTvCSDtg8PyinyvHcTHlVDkHhrppbWOk38KBAbDO6Sk4nUEr7Cz2ldz2NoNLHfH8HeyDPaPnGv9cR9VztIeNbE1P8Kl8Fhq4T1c4AqvuiV3UeByEwf66BZ-tbE37YuNqB1CbP9uNRV8danDtglMl4o0T0ei0oRZPKLQH1cHKcxWS8vmmPt1ZlCQQ5dJ38_0RPtJk92VtNCeLDY-nhnwbTA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJmeataeh9HTER7q5nhIb92XI/photos/AeeoHcIqTTEGPIrC2299W1TYF6VolP8jKKrL8OlT10TYdSAHvhXOFPbVJ7GPVz0xCrWR16s5mLjCCv9dJFY043uCWwibOcCEVnwYXjG4W7ZVU8KnvXbmZQ-H3ow54UHtI0haFcwU808cvxfdNf1LP6CYdu99kq3yDujnF571vc_oK1j2Uj7IkaZjvqikH_B7ffgQloO8Vzo_i5D8yU0rSEZ82f6A4rgac4Lr2LEfK0TXkki13YsISw0Xb0aciVGAv2xDvZfCDQeuNAu-BT3PHX887GHE3dxILl81LK8xbKGe7u_HFkceZHH8E33b7NjH_vqykZeOhIUEqFdq4c3uMgGwr5pGejgpHmNrbWvkINB1dFtTbOFJLscQYgCmI9ltFTJE-j_xWrz0pvNrib6Ksm__ed2_fwkpT5-efX1NmaBGrRf9/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJmeataeh9HTER7q5nhIb92XI/photos/AeeoHcJ1TlkaT98kpyxeAorOqJW08LD9YSGkFQyQHhGY4wSMbaUlHFteJxoiYxzWW-eFpjAAL3Y1YMfvAecRsVJom_xU35MbJV4kplWl9y2ITqQY-lUb57-K6xgAoO3OSvDYVQ8eyxayr0NufJEbCqeQW3XcTYBq_0rQPZgizSv6G8tjmzZv49c6LThqafKlEQ5T354Yc7DN2ozGGqIhpRy9AuoigcX9lLL_GF79YMYafBZx8pF31Dp5b_V8D52cRPoIuRctFbobK3yPceJRYoZwa5s4AG8stf2cxq1HqcZD356jQHhsU_-nVvSq-mTjJLIuXgg5s9oQHVSJXvk7qNH7PeW-j2V7jbv7UZMvd0QVU4K2r_BsNGXBtrfLBO2JybZdm2rnCgKNt82CsTTIsk3FN72QhhRy9Q6G4l1afJOLieY/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJmeataeh9HTER7q5nhIb92XI	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJmeataeh9HTER7q5nhIb92XI&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJmeataeh9HTER7q5nhIb92XI&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	The therapists are service-minded. I feel so comfortable getting a massage here with the perfect atmosphere. Plus, the price is affordable. I recommend it so much and I’ll come back again for sure! 	Good environment, better service 	Very nice Will come again	Minimal style massage shop The atmosphere inside the shop is clean, the service is good, friendly, you can call to reserve an appointment first, the massage is good, you can use your hands. feel relaxed Definitely have to come again. 	Come here for a massage regularly, the masseuse is good, hits the right points, the shop is clean, I recommend coming to this shop. The doctor is attentive and cute. 	First time getting a massage here, the masseuse is good, hits the right points, the shop is clean, I recommend coming to this shop. The doctor is cute and speaks well and cares about customers. 	Come get massages here regularly. Good masseuse, very good service, clean shop. I recommend coming to this massage shop. 	The shop is clean, airy, and the area is divided into proportions. There is a foot massage zone, a body massage zone, double rooms and single rooms. Aromatherapy massage zone. First time coming for aromatherapy massage. Relaxing. Good massage. Good hand weight. You can tell me where to focus and feel comfortable.	Aromatherapy massage, first time getting a massage, clean shop, cute shop owner...good massage, very good service. 	Good service staff, good massage, relaxing, very clean place. 	Come get massages here regularly. The best in the Sai Mai area, Sukhaphiban 5. The masseuse is attentive, hits the right points, the place is clean and the price is reasonable. Introducing P'Yaya and P'Tukata. 	Good masseuse, presses on the right points very well. Come use the service very often. Parking is convenient. Store is clean. 	First time getting a massage Service exceeds expectations, good massage, attentive to customers. Very impressed with the lovely staff named Tutta. 	The masseuse is good, gives good massage, has skills. Going to get a massage to cure office syndrome helps a lot 👍👍👍 … 	Very good massage. The shop is very clean. Pee Paneek has very good manners. 	Very good massage. I recommend this massage shop very much. I like it. Must come again. 	The ladies at the shop are lovely, good service, comfortable massage, clean shop. Whenever I come, I'm never disappointed. 💖 … 

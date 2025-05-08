@@ -1,0 +1,9 @@
+Create a meta description by reading the intro of blog post.
+
+Instruction
+ - Generate with 150-160 words.
+ - Output file name (save to this file): data_output/metadata.txt
+ - Use key word: [TEMPLATE_PRIMARY_KEYWORD]
+ - The title of this blog post is: [TEMPLATE_TITLE_BLOG_EN]
+
+[intro of blog post]

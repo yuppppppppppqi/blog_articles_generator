@@ -1,0 +1,138 @@
+Summarize the first shop (Kenko Beauty & Massage) in this style (5 lines in total):
+
+Shop Name
+・Rating
+・Price
+・Recommended (brief description of the ideal customer)
+・Summary:
+    - Write a paragraph between 100 and 150 words.
+    - Do not exceed or go below this word count.
+    - The output should sound natural, conversational, and emotionally genuine, as if written by a real person.
+    - Use the reviews as inspiration, but do not copy phrases. Instead, craft personalized highlights that reflect real experiences.
+    - The paragraph should read like a summary of overall impressions
+    - DO NOT start with “Summary”.
+    - DO NOT start with bullet point.
+    - Count your words carefully. Stay between 100–150 words only.
+
+
+Requirements
+- Output: save in file name "best_foot_massage_in_thonglor_2025/contents/07_1_intro/summary.txt"
+- Do not add any introductions or any closing statements
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, wrap them with <strong><u></u></strong> tags.
+- However, avoid overuse — apply it only where it naturally draws the reader's attention without overwhelming the text.
+- Avoid creating extra new lines. It should be 5 lines.
+
+[Summary of Features and Highlights of All Shops]
+Loft Thai Spa & Massage - Sukhumvit 38
+・Rating: 4.9/5 (941 reviews)
+・Highlights:
+  - Exceptional boutique ambiance with thoughtful Thai design elements
+  - Highly personalized service with detailed pre-treatment consultation
+  - Professional therapists with superior technical skills
+  - Complimentary extras like welcome drinks and post-treatment snacks
+  - Pristine facilities with private treatment rooms
+・Price: Premium (4800+ THB for specialty treatments)
+・Recommended: Perfect for luxury spa enthusiasts seeking a high-end, comprehensive wellness experience. Ideal for those who appreciate attention to detail and are willing to pay more for superior service.
+
+Po Thai Premium Massage Thonglor Branch
+・Rating: 4.7/5 (135 reviews)
+・Highlights:
+  - Clean, modern facility with professional atmosphere
+  - Skilled therapists specializing in authentic Thai techniques
+  - Convenient location near BTS Thonglor (Exit 3)
+  - Uses traditional Thai snake powder post-massage
+  - Excellent foot scrub and massage combinations
+・Price: Mid-range (300-700 THB)
+・Recommended: Great for those seeking authentic Thai massage in a clean, professional setting. Perfect for travelers staying near Thonglor who want quality treatment at reasonable prices.
+
+Forest Massage & Spa Onsen
+・Rating: 4.7/5 (359 reviews)
+・Highlights:
+  - Japanese onsen experience combined with Thai massage
+  - Customizable massage pressure and focus areas
+  - Serene, nature-inspired ambiance
+  - Professional booking system with off-peak discounts
+  - Excellent aromatherapy treatments
+・Price: Premium (2050+ THB for packages)
+・Recommended: Ideal for those seeking a unique fusion of Japanese onsen and Thai massage. Perfect for couples and anyone wanting a full spa experience rather than just a massage.
+
+Let's Relax Spa - Ginza Thonglor
+・Rating: 4.6/5 (478 reviews)
+・Highlights:
+  - Spacious, well-designed facility with calming atmosphere
+  - Heated massage beds for extra comfort
+  - Professional therapists with consistent quality
+  - Convenient location in Grande Centre Point Hotel
+  - Complimentary mango sticky rice post-treatment
+・Price: Upper mid-range (400-1000+ THB)
+・Recommended: Perfect for those who prefer established spa chains with reliable service standards. Ideal for hotel guests and those who appreciate a more upscale massage experience.
+
+Tiger Massage Thonglor 6
+・Rating: 4.4/5 (628 reviews)
+・Highlights:
+  - Excellent value for money
+  - Strong, therapeutic massage techniques
+  - Peaceful atmosphere despite busy location
+  - Professional and respectful staff
+  - Good for both Thai and oil massages
+・Price: Budget-friendly (320 THB/hour)
+・Recommended: Perfect for those seeking authentic Thai massage at affordable prices. Ideal for regular massage-goers who prefer strong pressure and therapeutic techniques.
+
+WARA Massage Thonglor
+・Rating: 4.4/5 (52 reviews)
+・Highlights:
+  - New, clean facility with modern amenities
+  - Strong focus on deep tissue massage
+  - Convenient location near hotels
+  - Professional staff and good English communication
+  - Fresh and well-maintained environment
+・Price: Mid-range (350-700 THB)
+・Recommended: Best for those who prefer newer facilities and appreciate a clean, modern environment. Good choice for hotel guests and English-speaking visitors.
+
+Kenko Beauty & Massage
+・Rating: 4.3/5 (74 reviews)
+・Highlights:
+  - Clean, comfortable environment
+  - Skilled therapists for neck and shoulder treatments
+  - Online booking with promotional offers
+  - Late operating hours
+  - Combined massage packages available
+・Price: Mid-range (300-600 THB)
+・Recommended: Great for night owls and those seeking last-minute bookings. Ideal for those who want both beauty treatments and massage services in one place.
+
+ThongLor Dala Massage
+・Rating: 4.3/5 (368 reviews)
+・Highlights:
+  - Strong therapeutic massage techniques
+  - Clean and calming environment
+  - Experienced in treating muscle problems
+  - Good booking system to avoid overcrowding
+  - Reasonable prices for the area
+・Price: Mid-range (350-500 THB)
+・Recommended: Perfect for those who prefer stronger, therapeutic massages. Ideal for customers with specific muscle issues or those seeking traditional Thai massage techniques.
+
+Lek Massage Bangkok - Lek Thonglor
+・Rating: 4.2/5 (184 reviews)
+・Highlights:
+  - Well-designed, clean facility
+  - Membership program for regular visitors
+  - Multiple services including spa and salon
+  - Professional atmosphere
+  - Convenient location
+・Price: Upper mid-range (400-600+ THB)
+・Recommended: Suitable for those seeking a one-stop shop for massage, spa, and beauty services. Good for long-term residents who can benefit from the membership program.
+
+Top Thai Massage Sukhumvit 55
+・Rating: 3.9/5 (194 reviews)
+・Highlights:
+  - Convenient location in Thonglor
+  - Basic but clean facilities
+  - Affordable prices
+  - Walk-in friendly
+  - Various massage options available
+・Price: Budget-friendly (300-500 THB)
+・Recommended: Best for those seeking basic massage services at lower prices. Suitable for walk-in customers who prioritize convenience and affordability over premium experience. 
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Kenko Beauty & Massage	4.3	74	https://places.googleapis.com/v1/places/ChIJ66xUOlyf4jARvMLE_hDQAX0/photos/AeeoHcLTr0qV0zvtfm0fKKNXLg8JFxL9iY66CevPPbDKXDFo5Ff0CRKs2H2Xp6u4VgVBwuiiQKcdQSHZk7DsxOwHSRJdGA7nXBsCflIrJPt26VHvFxzRVab2pOoLrt_TrfbzwXBKeWhEQh5kr-ErESHei3QvVHtBDFvReD4ElGKf8BsraIZXQB43AmpWfvm79oDKCR-nqcJ0pks1IZqSTLq-mejhyvZKDDgfXyLRxI4xqejFvwsUjyLiU0GHqIei8iBXKcCC3h63XVFzb3oV-7Jox4_yN_IuBw948dq01g6MTorbag/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJ66xUOlyf4jARvMLE_hDQAX0/photos/AeeoHcL6A1flrMegar6Q8MZLV94Ikrotz2QYdEKv8wxe6qvvJIFMNPV7GB0PywUUqcEX5IF-ydz14ZoK6a-yVnoSlKkhN2xWVmiYViO8Pfx5xt0Qx3B2675Ge8q5KVycMGF0X68-FOReSaY5k2oDo2tdU7Osm9R0MTOt0dvLNxiiDNJ_DotFg0SGysSCzQVni42Wz3e_KpGYl9xlKxXSKkAirvrtXK1nVsGWjEAe-clnC13yHsBvXqU8AHYJazviFZ0B6KC3W_maEyDZQo4E7KUd_UyMJHjGc19gYTQUVyqhAmsmeg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJ66xUOlyf4jARvMLE_hDQAX0/photos/AeeoHcJHtVBp5JpRLcnUK5WY227XcY3FNk2Yt_B37nu4Ve8-KydZwccIDHzn2r16FiUiWcfApI9orBfbxCtBCckGUEeEa1EEq4kET3kJocN2HhrnP03-9jlSDfaPI4Iu6j5oAkrkFOUWjJ0TOgYXavXnBoJUwN5PdkFz13yc30sH2vw40vlitm-qIQ77pMySZdG8ekvJBYn4hPUAJnX4FnhJ7zb0zKvpO4_aYxz6_gSVI8gRuvbNvxM0BHh44cuk5zatzEbaIu9sCLmjo2VoK5yn3VnPaF4DS5bUrFoewPFJMTw9-A/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJ66xUOlyf4jARvMLE_hDQAX0	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ66xUOlyf4jARvMLE_hDQAX0&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ66xUOlyf4jARvMLE_hDQAX0&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	I had 3 massages at Kenko. One foot massage and  two whole body massages.  The place is simple but spotless.  The masseuses are excellent and kind.  It is not a snobby place. The prices are fair.  The owner is often there with her cute golden retriever puppy.  The location is great just across from the Hotel Nikko and around the corner from Le Petite Salil Hotel.  There are many good Japanese restaurants nearby for dinner after your massage.  You can easily contact the shop using the LINE app.	Good massage at a decent store. The only thing that can be improved is washing feet before massage. Due to not washing my feet ahead of starting the massage, I felt a little bit uncomfortable(non-hygenic) during massage time.	Amazing massage. I called an hour before, walked in and chose 30 mins back and shoulder, 30 mins foot massage. I believe my masseuse’s name is Mina, she was so skilled and thorough. I have tried a few other places in thong lor, this will be my new go-to, especially because I’m a volleyball player and my legs are always sore. 	Highly recommended !  We have visited this shop 3 times in our trip .It is a clean and comfortable massage shop in thong lor. The staff are very nice and professional especially KAI and LINLY. ❤️ They help me and my mum relieve our muscle pain . Will come back next time :)	Did foot massage for my first visit and Aromatherapy for my second visit. Good deal as it has promotion offers if you book online! Shopkeeper and staffs are friendly and welcoming. 	Tried body aroma massage. Two of us went there, both of our therapists were not quite skilful. 	Super nice massage place. Decent price (about 50 baht over average- but it’s 1000% worth it). You don’t really hear the noise of the busy road and you have privacy curtains, so u can relax without feeling like everyone’s staring at u. If you are looking for a relaxing foot, back, or full body massage this is the place! 	Not bad but masseuses are sleeping almost everywhere downstairs. Makes it look unprofessional. 	I been here twice,first time with mu husband we had foot massage (It was great, very relaxing great super nice staff) and second time I been myself and had neck shoulders and back massage and again it was great! Top standard,  place looks little bit run down but staff is highly capable and professional very good with their job, great prices I would say under priced for level of massage you getting from these lovely ladies 🥰🥰👌👌 	Indulge in pure bliss as skilled hands work their magic, melting away stress and tension. Best massage and I came continuously for 2 days. The opening hours is quite late, no more worries on massage after a late night shopping👍🏻 … 	The worst massage in Thailand. My masseur was NO SKILL AT ALL and looks tired of life. Went back in 2022 after a few years. Price gone up quality gone way down. You can find better massage elsewhere. 	Excellent massage in Tong Lor. clean shop, very friendly, knowledgeable staff and helpful english speaking management that will guide you for the best experience. The therapist really helped with my muscle and joints pain 	Had a frozen shoulder. Booked 1 hour of massage. Very skillfull masseuse, the shoulder pain has gone away. Great shop, very professional and attentative. 	Well renovated location, clean place with nice staff. The massage was not good as expected. I took foot massage, it was soft and boring.	The noise from the main road can be heard I. The treatment rooms so you don’t get true peace and quiet. It’s quite clean though. 	Ket is very good skill😍 … 	Excellent massage by professional therapists. Really good value. I’ll be going again! 	Very good services! Nice and make me feel very welcome! 	Very good. Phon is recommended. 	Don’t go, the girl here apparently doesn’t know how to do massage appropriately.

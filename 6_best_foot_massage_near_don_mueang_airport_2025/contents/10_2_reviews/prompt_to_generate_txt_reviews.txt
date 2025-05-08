@@ -1,0 +1,20 @@
+Based on the 20 provided reviews, generate:
+- 8 positive reviews
+- 2 lightly negative reviews
+
+Constraints:
+- Include personal experiences and feelings.
+- Use natural, human-like expressions.
+- Each review should be between 8 and 20 words.
+- Negative reviews should be soft and not too harsh.
+- Do not add extra new lines. the output will contain only 10 lines.
+- Do not add extra commentary or explanations. just output a list of 10 reviews, each on a separate line without any bullet points or so.
+- If the content includes elements such as quality of service, impression, emotional impact, or value for money, therapist's name, wrap them with <strong><u></u></strong> tags. (only for positive reviews)
+- However, avoid overuse — apply it only where it naturally draws the reader’s attention without overwhelming the text.
+
+Output:
+reviews.txt
+
+20 provided reviews:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Thai Massage	4.7	94	https://places.googleapis.com/v1/places/ChIJQVC74TWD4jARdhCWLOCK0u0/photos/AeeoHcKGJ-zz0WBd6aLlS2S8EIIjB5QUx86xnYQRDIPa3kHA34plrcYxeFc4RbEtQM3a9hVn0v-P17wIn3hMPXe2sSDMjfDG2IolrRb24sl1AIhJHfohl9qFdiBhsfG3dEk_L93wVI-xubx7_Wb5qSpVgO-7ya70yTFScm4eHuZyRC10hsiQLqTByDfWTTyJhj5x6H-6bU23McBkpd5f6qn_ktvaSARbH0zYSU2oOCvwxIbCxPfgOiFL2qIFzXpl9D26L-GEZib_D-ETyBVdd_WaPg4U8oi3qhTEOhKVhV4DPJy4lQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJQVC74TWD4jARdhCWLOCK0u0/photos/AeeoHcI6h1Ivfc260xFYBXS9teBecKaqFByXsysnHOrC2FE3NHS7WTS4HNOIgqR8Cq0oKEAYQ0q9M08l29d-XFoDBw0Z2WsNLAkTLix7JVRI8WYxR1BmbPkj5HuU9c6A3rZcCK-jQoJnIXF8SeMCwRfkjkvLoFWpmJswLM0VPihQhJdii5YhwpjmkS9xICH3PQJ4HrIMlv82HJAFI4ngsh_Ac6UlvSZn1TGvEmulGRxU1WJKYVYMdnVRwVOyqiOu24JflRtCQJm005tQ0DOonNAC2NMq_N4FeqyD2nmkdYvCLdZzbw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJQVC74TWD4jARdhCWLOCK0u0/photos/AeeoHcKksnn5PUudfXbbz0M1wqcQyLScZF-aCS9BDRziCoPiq5LFmhQMuWV9ZeJg8yodHQrYIIf7B3A50P-Yv3Q7bBZW-au_7TV3wMFqD0uSTMLvYyufcv4mJkjezIWOVcuiLDXeO4Q_44weCjEPz4iiV5IvYsG-zogzIEUKl95vsS45nwniGduugNQprR1zaV4pL18FrliC1QAn2QmXEHmVn2w1YOS6e8kKfTZ8YOf5JDkQsqY_OzYnT6h7KWmI5K_Y_jpDk-MRZBCwD14zT4ydET-_TzmFpEZELkVzH6pOPr53kw2hmk5ErsWzr3QZ38ZoX5Euny1W7JUW1htMo2hwut6t4pC9KIDr5Wi08dAABYcJGxTLOc1VIiHoiFRAYKmJHSMExqMLhyYdJZP-PEfkUp4a35sCIJ6iAEktswScbHvEhA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJQVC74TWD4jARdhCWLOCK0u0	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQVC74TWD4jARdhCWLOCK0u0&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQVC74TWD4jARdhCWLOCK0u0&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>																	

@@ -1,0 +1,82 @@
+お店（SAMA Onsen & Massage）を以下の形式で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- 日本語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/temp/14_best_foot_massage_in_phuket_2025/sections/8/ja/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+
+We Wealth Health Massage and Beauty
+・Rating: 4.8
+・Highlights: Skilled therapists adept at addressing specific pain points, offering a wide range of massage types including deep tissue and aromatherapy. The shop is praised for its relaxing atmosphere, private rooms, and thoughtful touches like herbal gels for injuries. Complimentary tea and biscuits, plus a nearby cafe, add to the experience. Reasonable prices and consistently high service standards, though some variability in therapist quality.
+・Price: Reasonable
+・Recommended: Ideal for those seeking targeted relief from pain or tension, and anyone wanting a relaxing, well-rounded massage experience in a welcoming setting.
+
+Hatha Massage Patong
+・Rating: 4.7
+・Highlights: Popular, centrally located shop with experienced, professional staff. Clean, comfortable environment with no aggressive street solicitation. Flexible with families and children, and offers a variety of massage styles. Consistent quality and fair prices, with deep relaxation and attentive service noted by repeat visitors.
+・Price: 350–500 baht for 60 minutes
+・Recommended: Great for families, couples, and travelers looking for a reliable, no-nonsense massage in the heart of Patong.
+
+Healthland
+・Rating: 4.6
+・Highlights: Authentic, rustic Thai massage experience with highly skilled, experienced masseuses. Not a luxury spa, but known for effective treatments, especially for injuries and chronic pain. Clean, welcoming, and affordable, with a loyal local and tourist following. Some mixed feedback on therapist style and communication.
+・Price: Affordable
+・Recommended: Best for those seeking genuine Thai massage and therapeutic relief, rather than a luxury spa environment.
+
+NAYA Thai Massage Phuket Town
+・Rating: 4.9
+・Highlights: Exceptionally friendly and professional staff, with therapists who listen to client needs and adjust pressure accordingly. Clean, cozy shop with complimentary tea and biscuits. Highly recommended for deep tissue and sports massages, and praised for healing back pain and providing attentive care.
+・Price: Affordable, cheaper than surrounding area
+・Recommended: Perfect for those needing personalized care, sports recovery, or a welcoming first-time Thai massage experience.
+
+Body Works Thai Massage Patong 2
+・Rating: 4.9
+・Highlights: Detailed, thorough massages with attentive therapists who check on client comfort. Calming atmosphere, friendly staff, and a reputation for both deep tissue and relaxing massages. Some variability in pressure preference, but overall high satisfaction and value for money.
+・Price: Good value
+・Recommended: Suited for those who appreciate attentive service and want a thorough, relaxing massage in Patong.
+
+Sansabai Massage 3 in Thairapy zone in Jungceylon
+・Rating: 4.9
+・Highlights: Highly professional, clean, and skilled therapists. Wide range of massage options, including migraine and deep tendon treatments. Excellent for both individuals and groups, with a reputation for consistent quality and customer care. Reasonable prices and a welcoming environment.
+・Price: 400–450 baht for 60 minutes
+・Recommended: Ideal for those seeking top-quality massage in a busy shopping area, including groups and those with specific therapeutic needs.
+
+Tonpho Thai Ta Massage
+・Rating: 4.8
+・Highlights: Clean, relaxing space with skilled and caring therapists. Known for strong, effective massages and a welcoming, soulful atmosphere. Staff are attentive to client requests, and the shop is praised for its professionalism and legit services. Occasional feedback on therapist matching and pressure.
+・Price: Standard
+・Recommended: Great for locals and visitors seeking a genuine, strong Thai massage in a friendly, no-nonsense environment.
+
+SAMA Onsen & Massage
+・Rating: 4.8
+・Highlights: Unique combination of Japanese onsen and Thai massage. Impeccably clean, beautifully decorated, and highly accommodating to special requests. Therapists are professional and attentive, and the onsen experience is deeply relaxing. Complimentary herbal teas and a hidden-gem atmosphere.
+・Price: Good value
+・Recommended: Perfect for couples or anyone wanting a rejuvenating spa day with both onsen and massage in a tranquil setting.
+
+Charm Massage
+・Rating: 4.7
+・Highlights: Luxurious experience at a reasonable price, with private spaces and attentive staff. Clean, professional, and welcoming, with thoughtful extras like cold towels and herbal tea. Some variability in service, but generally high satisfaction and comfort.
+・Price: 390 baht for foot massage (Jan 2025), slightly higher than average
+・Recommended: Ideal for those seeking a pampering, comfortable massage in Old Town, with a focus on cleanliness and relaxation.
+
+Kim's Massage & Spa 12 Old Town Thalang Road
+・Rating: 4.6
+・Highlights: Serene, clean, and professional environment with a variety of massage options. Therapists are generally skilled and attentive, with some variability in pressure and communication. Good value for spa packages, and a quiet, calming atmosphere in a convenient location.
+・Price: US$24 for 2 hours, affordable packages
+・Recommended: Best for those wanting a peaceful, no-frills massage experience in Old Town, especially after a day of sightseeing. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+SAMA Onsen & Massage	4.8	1826	https://places.googleapis.com/v1/places/ChIJIThU3G8vUDARcdC7ijn-TI8/photos/AeeoHcIqKlRjNp-w1Y9L4dEPhisfjd0E6i5OkuvLYqpbsTX2f1S2tYNzJUMLe1A7-y3cI6A0HpuziCHCRoE-OJ3pa4N7OASCtfI67G4vycbb3WJXQhGJzkPOBqbUvInIe-UJftAs7TLIz9UrvJA52l2-rFPd_SotvPL-m490-wdE2UDM0IZjY-5BuD4OCdlGX8U8oaMGi-9mBplT5R1j4lZJxfAgXMWjDVAPmcItJIF-Cv1_e2xWnl3ppmpHopMJHdqAtb6nHhroblmSsGBXJX97diXCMRVPnkcc36RQKjMc_8syuQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJIThU3G8vUDARcdC7ijn-TI8/photos/AeeoHcKnNcmvz6uIml4KnuTrGFLsOWK4PY33knD-JMJv8HoD57d3JKdxaIg4tP70jHDeG4r_Ajj6WifYeQaSwDhB_-hygzJsIBuPKmlOxNlztGlZFGtsq0WnS0ThBxU-qbBPT3JMfcygIa3qeamgtpsyCSQBhQr-BZqxDuvh-XMpn3pSjWWWDkeIpJHOA206yBYSl7tsOi60fWRKoD1pE8QAGXjl3keHYxUEDb7ufO8tz9wSxLK9YGWjU5U1Ak8uvwxppVKEx69iNFN2UjsMnBNaodaAGHvhtqFxLIseDViF2RxGoekjgbuZMBWEJB-DB77urdzgs-pKuLRDweQWRx7wev_rHyQmiBabIPtYn6p6F5ZOAp2B_S0QTk18euUcog08iPv4IIV9uq9toPuec8ez20WtEUNSCSRxL8Zg2-KOxrf0F8Ft/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJIThU3G8vUDARcdC7ijn-TI8/photos/AeeoHcILwRs2TxujynfIIf1f3bMQ6gZgGHBiTrIpho86qfzl2gCMhLP5lQM0yS4i12LnCNh5yiqMawJTLXapeU7ouFZuXispMm71_11QIr1XCN2BBs5InYyG24eDbyVn7a-rZy9whs3jcD6swhPgBsbRimu80_Bq01Kn0J9SkrlabEGrIzIUAsLA9_xVKOPDsXxe1hTD95hpgz9dnh5HQ4BS64q4Ua6q5dhVSSKpUNUrBzM-PEOFfd-BqHVfTFrV_WSEfFlpQCg_O29wg7DoO0j1pzohrtMzFa7Af2rvV559mRRTOj0mgiZualXOrEOkHTPJKF1WdZMMd-YfOMdHUhS4Re6nZndmO6MNVfmtwnlX1zBRi57pK7o42DMeWwyljCWjv_fPSv6okHD3PsySd_58TQfRFB5hSNAI6bScgtSMjyI/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJIThU3G8vUDARcdC7ijn-TI8	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJIThU3G8vUDARcdC7ijn-TI8&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJIThU3G8vUDARcdC7ijn-TI8&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Krissaprut Pattaya3 reviews · 3 photos6 days ago New I had a very professional and relaxing massage today  truly worth every coin I paid. … MoreLike Share Response from the owner 3 days agoDear  lovely customer   Thank you so much for choosing our massage service. We truly appreciate your … More	S SoLocal Guide · 29 reviews · 29 photos3 months ago It was a very good experience as a couple! The Japanese bath “onsen” is very hot and incredibly soothing. Everything is clean and beautifully decorated. The service is impeccable and welcoming. The … More +3Like Share	Thi Duyen Nguyen1 review · 1 photoa month ago I would like to take this opportunity to say thank you so much for the great service of all of the staff here. They are such amazing people  their smile  their attitude and their hearts are full of love. They deserve a raise! Especially I … MoreLike Share	Marcelle Bucher4 reviews · 9 photosa week ago New Honestly one of the best Thai massages I’ve had in Thailand! The onsen was soooo relaxing afterwards. Came out feeling like a new person.Like Share Response from the owner a week agoDear  lovely customer   Thank you so much for choosing our massage service. We truly appreciate your … More	yasemin bayramLocal Guide · 18 reviews · 10 photosa month ago Great massage studio. Three of us went there and had the aroma oil massage and head massage  and both were top-notch. The spa offers excellent service  perfect for relaxation. You could even choose the scent you wanted for the massage at … More0:02Like Share	Amelie Stiebleichinger3 reviews · 16 photos2 months ago The experience was just excellent. The booking was really easy and fast via WhatsApp  even with the special requests they were really accommodating. From the very first moment we step into the salon we were greeted warmly and welcomed. The … MoreLike Share Response from the owner a month agoTo lovely couple we're glad to serve you and hope you will come back to visit us again. Thank you very much.😊💖🙏🏻 …	JMLocal Guide · 293 reviews · 622 photos2 months ago Staff were very hospitable and provided great service. Props to the receptionist for her warm and friendly attitude. Our first time trying onsen and we struggled to stay in for the full hour. Massage was alright  good ambience. Will recommend to all couples. +3Like Share	Jorge Hernandez CoteLocal Guide · 185 reviews · 1 391 photos6 months ago I had one of the best massages of my life here! If you come to Phuket you need to come to this place. We had a deep tissue massage with oil for one hour and it was totally worth it. The people working here are not only really kind and … More0:10 +18Like1 Share Response from the owner 5 months agoThank you for kindly review! welcome you back to Sama onsen again for your next vacation 🙏🏻🥰💝 …	Punit Tailor6 reviews · 9 photos4 months ago A Relaxing and Rejuvenating Experience I had a fantastic experience at Sama Onsen Massage. The combination of the massage  body scrub  and onsen was exceptional and left me feeling completely … MoreLike Share	Kesh B.Local Guide · 69 reviews · 11 photos3 weeks ago New The last place you’d expect an Onsen to be would be a petrol station. But hidden away on the side was SAMA Onsen. Had a wonderful Onsen  mix of Japanese and Thai. Had a choice of oils and aromas  massage was very firm and refreshing. We were given some Thai herbal teas at the end. Great hidden gem in PhuketLike Share Response from the owner a week agoThank you for choosing our services. Your support means the world to us  and we are committed to providing you with the best possible experience.	I had a very professional and relaxing massage today  truly worth every coin I paid. …	Dear  lovely customer   Thank you so much for choosing our massage service. We truly appreciate your … More	It was a very good experience as a couple! The Japanese bath “onsen” is very hot and incredibly soothing. Everything is clean and beautifully decorated. The service is impeccable and welcoming. The …	I would like to take this opportunity to say thank you so much for the great service of all of the staff here. They are such amazing people  their smile  their attitude and their hearts are full of love. They deserve a raise! Especially I …	Honestly one of the best Thai massages I’ve had in Thailand! The onsen was soooo relaxing afterwards. Came out feeling like a new person.	Great massage studio. Three of us went there and had the aroma oil massage and head massage  and both were top-notch. The spa offers excellent service  perfect for relaxation. You could even choose the scent you wanted for the massage at …	The experience was just excellent. The booking was really easy and fast via WhatsApp  even with the special requests they were really accommodating. From the very first moment we step into the salon we were greeted warmly and welcomed. The …	To lovely couple we're glad to serve you and hope you will come back to visit us again. Thank you very much.😊💖🙏🏻 …	Staff were very hospitable and provided great service. Props to the receptionist for her warm and friendly attitude. Our first time trying onsen and we struggled to stay in for the full hour. Massage was alright  good ambience. Will recommend to all couples.	I had one of the best massages of my life here! If you come to Phuket you need to come to this place. We had a deep tissue massage with oil for one hour and it was totally worth it. The people working here are not only really kind and …	ChIJIThU3G8vUDARcdC7ijn-TI8 

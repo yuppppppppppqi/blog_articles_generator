@@ -1,0 +1,5 @@
+Seashell restaurant
+・Rating: 3.7
+・Price: N/A (Restaurant)
+・Recommended: N/A (Restaurant)
+This entry refers to Seashell Restaurant, not a massage parlor. The provided data includes details about its beachfront location, Thai wooden house aesthetic, food offerings like Moo Kata and seafood, and mixed reviews regarding food quality and service speed. As it is a restaurant, the standard massage summary format regarding price, recommended clientele for massage, and a summary of massage experiences does not apply. Please review the input file `10_1_intro/prompt_to_generate_txt.txt` as it appears to contain data for a restaurant rather than a massage shop. 
