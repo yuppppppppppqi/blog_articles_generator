@@ -21,7 +21,7 @@ if not API_KEY:
     print("ERROR: .envに有効なAPIキーが見つかりません。GEMINI_API_KEYまたは他のAPIキーをセットしてください。")
     sys.exit(1)
 
-MODEL_ID = "gemini-2.5-flash-preview-04-17"
+MODEL_ID = "gemini-2.5-pro-preview-05-06"
 genai.configure(api_key=API_KEY)
 
 PROMPT_DIR = os.path.join(os.path.dirname(__file__), "intro_prompts")
@@ -39,6 +39,9 @@ for prompt_file in sorted(prompt_files):
         continue
     slug = slugify(m.group(1))
     output_path = os.path.join(OUTPUT_DIR, f"intro_ru_{slug}.txt")
+    if os.path.exists(output_path):
+        print(f"既に生成済み: {output_path} をスキップします。")
+        continue
     with open(prompt_path, "r", encoding="utf-8") as f:
         prompt = f.read()
     model = genai.GenerativeModel(MODEL_ID)

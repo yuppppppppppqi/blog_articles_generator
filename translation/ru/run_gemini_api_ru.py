@@ -29,7 +29,7 @@ if not API_KEY:
     sys.exit(1)
 
 # Gemini 2.5 FlashモデルID
-MODEL_ID = "gemini-2.5-flash-preview-04-17"
+MODEL_ID = "gemini-2.5-pro-preview-05-06"
 
 genai.configure(api_key=API_KEY)
 
