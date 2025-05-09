@@ -1,0 +1,83 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+お店（Nikko Thai Massage Signature @Siam Square Soi5）を以下の形式でロシア語で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- ロシア語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/ru/temp/7_best_foot_massage_near_central_world_2025/sections/5/ru/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+KLINIQ SPA
+・Rating: 4.9
+・Highlights: Expertly skilled therapists deliver precise pressure point techniques, complimentary post-massage treats including mango sticky rice, and modern, clean facilities with a serene atmosphere
+・Price: Premium (750+ baht for foot massage)
+・Recommended: Perfect for shoppers seeking high-end relaxation after exploring Siam area with attention to detail and therapeutic benefits
+
+Arun Piti Thai Massage
+・Rating: 5.0
+・Highlights: Therapists skilled at finding and releasing tension in unknown muscle knots, customizable pressure intensity, and calm, fountain-adorned ambiance
+・Price: Affordable with excellent value
+・Recommended: Ideal for visitors seeking authentic Thai massage with personalized attention in the convenient MBK Center location
+
+Nature Thai Massage @siam soi5
+・Rating: 4.8
+・Highlights: Intuitive therapists who tailor treatments to individual needs, signature 5-in-1 therapy, and 20% discount for sessions before 5pm
+・Price: Mid-range with good value promotions
+・Recommended: Perfect for those seeking a comprehensive massage experience with exceptional attention to detail in a peaceful setting
+
+Pela Thai Massage : Siam Square soi6
+・Rating: 4.8
+・Highlights: Japanese-inspired clean and modern facilities, expert therapists who quickly identify problem areas, and tranquil zen-like atmosphere
+・Price: Mid to premium range (650+ baht for 90 minutes)
+・Recommended: Ideal for those seeking a premium experience with attention to ambiance and professionalism in a convenient Siam location
+
+Nikko Thai Massage Signature @Siam Square Soi5
+・Rating: 4.8
+・Highlights: Senior experienced masseurs who excel at working out deep tension, post-massage tea and Thai tea custard, and dimly lit relaxation rooms
+・Price: Mid-range with 3% surcharge for card payments
+・Recommended: Perfect for travelers seeking consistent quality massage with traditional Thai hospitality in a central Siam location
+
+TREASURE Spa & Massage @BTS Siam - SQ1
+・Rating: 4.8
+・Highlights: Luxurious spa treatments including aromatic oil massages with rose oil, special packages like "Rose and Champagne," and complimentary refreshments
+・Price: Premium (higher end spa experience)
+・Recommended: Ideal for those seeking a comprehensive spa experience beyond basic massage in an upscale setting near BTS Siam
+
+City of Massage
+・Rating: 4.8
+・Highlights: Therapists with exceptional strength and intuitive knowledge of pressure points, complimentary coconut drinks between 11am-5pm, and bright, clean environment
+・Price: Mid-range with good value
+・Recommended: Perfect for those seeking effective therapeutic massage focusing on tension relief in a convenient location near Moxy hotel
+
+ThaiThai Massage Flagship store - Siam soi6
+・Rating: 4.7
+・Highlights: Signature 5-in-1 massage treatment, herbal compress option, and clean, modern facilities with private rooms
+・Price: Mid to premium range (1,590 baht for 90-minute aromatherapy massage)
+・Recommended: Great for travelers looking for comprehensive massage packages with multiple techniques in a convenient Siam location
+
+Nature Thai Massage @siam soi6
+・Rating: 4.7
+・Highlights: Large private rooms with bathrooms, aromatic oil selections, and complimentary herbal drinks and snacks post-massage
+・Price: Mid-range with 20% discount before 5pm
+・Recommended: Perfect for couples or those seeking privacy with full spa amenities and a holistic experience
+
+NAPAR Massage
+・Rating: 4.6
+・Highlights: Multi-level facility with co-working space, skilled therapists particularly for traditional Thai massage, and thorough foot cleansing ritual
+・Price: Affordable (500 baht for 90 minutes)
+・Recommended: Great for digital nomads and budget-conscious travelers seeking good value in the heart of Siam 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17
+Nikko Thai Massage Signature @Siam Square Soi5	4.8	1375	https://places.googleapis.com/v1/places/ChIJlXxVH6Kf4jARjJWn9rAUSAc/photos/AeeoHcLCmqHNH_ntarVQMaKSBNfCY2fBjCCLpTZYIao02NOAso9J-phoxgKc_XgASIJuoD2m8kbN6wjhQDVJI9DamV5dZlLmIx25hIpXs0cSQmPrmH6OAIVuLz6dAS6hX3csHVZ6avvaF2TLI0T73oCTnt5b06PGI1aZ9nkzDRG6ash90TsGTGEYH18xJSOlwTPgHYUF2psPKSpTLZJ-5EBimcIeKGhQkDDF2AvW7wkslAdEiASeG0BdAXp3uWqP1-jo3OyX_FdQXsB-eERscyGiMSS31hMxrhloaXrb1Q7pBhx4ig/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJlXxVH6Kf4jARjJWn9rAUSAc/photos/AeeoHcJcsY3XMIyAiPpTt_vLvR6JIMD6OwRIv-H8SFwX72WpDnMXirU8hvo-wrXfip2EQ_G7Nwrofe3w4XZl4c-_-un1P3VW-Q5V0o3YG-BpA8hOPhFm21vGGSPTBiwaF0dhffLIO0el9AixkYGlmFCReZ8jOiGOD7sklTANgC_OAC9Pqapbu78pvAMs0hLLskwcZ2PxVdO5Ms5e3B9dX1krtpWdw0lWEZaTNXOyoosLVRKGmthUrcJasq29ay1isbjsa07RkgYFGR14ZH9mbYCbUmti1zU7zdcoY3EcmHGYGAD3WI8a0-Y5abnPCxlHr3W3zjgtp4leCW6shgqXGTdELce0iWxA1wdCNZXJaMGZ7vOy5xGrfuCXoTBYPtrUyeGgcBHg9kdOXQT0MSXjVPBCGR1OE2l8Mwi-cTS8597G_WcbWQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJlXxVH6Kf4jARjJWn9rAUSAc/photos/AeeoHcLzHi7s5n5pGEHPqPKgr1reSo-WsKGjMVj7ifbYF_x1ll-P5i_tdJHdw-QyhAjX4Tytb_10H6-wZ8SW--mi8EXvabxMxf2fvPW_yejeCy0yjtEG_cUQbC0NMXU_LDXXUBVsOAJQuPkOxyH_L7wCBUVLQU1gYRF3rWr4PPN1Bh1V9mIXWcPFjWI3NmTEU6n0Uio33Bw4Z4dm5W2mw5Zr48Pw-LiLJ8SiOZVHDBv0cV9Uz2_Jya7M8nA0M1yBkK7iJw6BVuRp_l9I2wtT8yoBqJxrKTQkbn_c0PAC0huFK_V4C7vthtc6bdbTWW2A8wuohS_LuJPvZjncEoT9r_qdpSSb5MZ1cN7IQ6CqywQzK_IkVIASws4JaCG9t07P3jKuewnoxjx45WHxnJQv5qp66RwJ84QR4mide4Qysau_bc3mC7ra/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJlXxVH6Kf4jARjJWn9rAUSAc	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlXxVH6Kf4jARjJWn9rAUSAc&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlXxVH6Kf4jARjJWn9rAUSAc&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	The first day I came was Thursday afternoon, the experience was really good. The place is neat and clean. Massage was comfortable so I come here again today, on Saturday night(I spent 40 mins from far away just for to come back to this same place). However, there are lots of customers on Saturday night, we need to wait for a bit and then the man on the front desk get me really mad. I says I expect a massage that focus more on head, because last time when I came, the lady said the head bundle will focus more on the head. But this man didn’t hear what I’m saying at all, he is keep talking and keep yelling at me that there is no massage bundle will focus on head only(The main point is he keep saying when I was explaining what I want‼️That’s why I feel disrespectful ). I said I totally understand there won’t be a head only massage. But this man didn’t hear to me at all, which piss me off and get me so mad. I felt I didn’t get respected so I decided to leave. Very disappointed at this store and never come back. I was supposed to recommend this store in social media but now I won’t. 	Had a 2 hour body scrub and aromatherapy massage by Korn (lovely Thai lady) it was extremely relaxing. It was also nice to be able to pick out the oil and scrub myself. She did an excellent job scrubbing off all my peeling skin from a nasty sunburn two weeks ago. The massage was also amazing and she even cracked my back at the end and released a lot of tension. She also gave me a nice tea and desert to end the session. I will definitely come back here the next time I’m in Bangkok again! 	I chose this Nikko by searching Google Reviews. This place is nice, soothing ambiance , with reasonable price. Their selection is flexible can have several add on also. I went with 120mins foot and Thai traditional massage. Nong Din is my masseur. He has good at stretching. Felt relieved after massage. Recommended! 	I had an incredible Thai foot massage, and I couldn’t be happier with the experience!  The therapist YOK was highly skilled, applying just the right amount of pressure to relieve tension without causing discomfort. They paid close attention to problem areas, my feet felt lighter, and the soreness I had from walking all day was completely gone. I also loved how the massage included gentle stretches and kneading up to the calves, which made a huge difference in improving circulation and overall relaxation.  The place was clean, the staff was friendly, and the prices were reasonable for the quality of service provided. I left feeling refreshed and rejuvenated. I would definitely recommend this place to anyone looking to unwind after a long day. 	First time here and because of the reviews I decided to give it a try. I think it's more like a hit and miss feeling when doing the oil foot massage. My foot therapist Ratch's strength is inconsistent, most of the time doesn't hit the spot. She focus on my feet to toe alot unless I requested to focus more on my thigh. Secondly the towel that was given to cover my legs makes me feel itchy.. However, she did very well for my neck and shoulder without oil. The overall experience, I feel that maybe some therapist can do better without oil, might not be because they are inexperienced. Although the experience did not make me rest during the one hour session..and I actually thought for the price and experience I don't think I will come back again but after the neck and shoulders experience I might give it another chance to try the traditional Thai massage without oil. It's kinda mixture feeling. 	I recommend this place!!  The staff very friendly, the massage clinic is very clean with modern interior design.  Today I had hand , shoulder and head massage. It was amazing , I enjoyed every second and didn’t want it to end. I feel very relaxed and will be visiting this place again. 	Very good experience. Skillful therapeutist. Recommended hot stones massage for shoulder and back.Just next to Siam one square, nearby is Inter Restaurants since 1981, "niko and..."  and Gentlewoman shop. 	I had such a great experience here! My masseuse Art did a great job at working out the knots in my shoulders during my traditional Thai massage. The "around the world" move he did at the end got me all the way together. The Thai tea custard we were served at the end was delicious as well! 	Clean and comfortable place for a massage by senior experience masseur/masseuse. Overall happy with the experience in a dimly lit room with soft music in the background.  NOTE: If you are paying with credit card, please note that it will incur additional 3%. 	The price is not cheap, the environment is OK! The clothes are clean and smell free! Friendly service! Volunteered to tip! 	Amazing massage, Maew was very sweet and put me at ease making me very relaxed. The after-massage tea and new snack was a delicious Thai tea custard. I felt very relaxed, will come back again the next time I'm in Thailand. 	Enjoyed my massage with Polla. Her massage was very good and made me feel  relaxed. The strength was just right! Her attitude and service are exceptionally great as well. Will definitely come back for her massage again. There was a small little snack provided after the massage. 	Found this place accidentally while walking around Siam Square late at night. Had a good massage, friendly staff and good treatment. End up came here 2 nights in a row. Clean area & open till late night! 	3.5 stars. The massage was alright for me, but my companions loved it. I personally felt that the masseur focused too much on the calves during the foot massage. Do note that if you pay by card or QR code (e.g. alipay), there'll be an extra 3% charge. 	I opted for the foot + neck shoulder massage. Yok was so good at it then I fell asleep! Will totally request for him again when I come back. Highly recommend! 	A good and proper massage place that pays attention to peace, silence and appropriate strength throughout the whole experience. They are beautifully furnished, very clean and zen vibe.  There’s a foot washing service for everyone regardless of the massage you choose. And their staff are really gentle and professional, they literally work and talk less.  The rooms and environment is very clean and you can see the whole place being very well-maintained. And they make sure everything is done properly, even down to placing a flower petal next to a cup of tea they serve you at the end of the service.  A place in central bangkok with good massage standards and better pricing amongst its competitors. Even the toilets are clean and odour free. 	I wanted to visit the nearby Let’s Relax but it was fully booked and didn’t have capacity for any walk-ins. Thankful to have found this place just nearby. They had immediate availability.  I opted for the 2h traditional Thai massage (THB 900) in a private room (THB 120/hr). The masseuse started off by washing my feet with soap and I was given a pair of slippers to wear inside. We then proceeded to the massage area. I enjoyed my massage, special thanks to Khun Daeng who was thoughtful and skilful. She accommodated to my requests and was patient and respectful. The room was also spacious and had relaxing spa music playing in the background.  After the massage I was served a cup of tea and small snack, which was a nice touch. The premises also has its own washrooms which are clean.  Overall, I had a pleasant experience and will recommend this place!  P.S. Cash and credit cards (+3%) are accepted here. 

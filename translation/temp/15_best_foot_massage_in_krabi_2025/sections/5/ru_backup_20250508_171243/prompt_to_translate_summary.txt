@@ -1,0 +1,83 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+お店（Jane & June Massage）を以下の形式でロシア語で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- ロシア語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/ru/temp/15_best_foot_massage_in_krabi_2025/sections/5/ru/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+Massage Corner
+・Rating: 4.8
+・Highlights: Renowned for its relaxing atmosphere, highly skilled and welcoming staff providing exceptional service. Offers a wide range of treatments including traditional Thai, foot, oil massages, and specialized packages like 'Office Syndrome'. Features unique outdoor foot massages amidst greenery and complimentary refreshments. Consistently rated as one of the best massage experiences in Thailand by repeat visitors.
+・Price: Affordable
+・Recommended: Visitors seeking a highly professional, relaxing, and comprehensive massage experience with thoughtful extras. Ideal for those wanting specific treatments like the 'Office Syndrome' package or outdoor foot massages.
+
+The Blue Spa & Massage @Aonang Krabi Thailand
+・Rating: 4.8
+・Highlights: Offers luxurious multi-hour spa packages like the couples special. Known for immaculate cleanliness, outstanding staff, and high-quality, therapeutic massages (Thai and oil). Provides thoughtful touches like tea and cookies. Knowledgeable reception helps choose the right treatment.
+・Price: Mid-range to Premium (Value-focused for quality)
+・Recommended: Couples or individuals seeking a high-quality, clean, and professional spa experience with longer package options. Good for those who appreciate knowledgeable staff guidance.
+
+Lazy Dayz Massage
+・Rating: 4.8
+・Highlights: Praised for its clean, peaceful, and relaxing environment with professional staff. Offers good value massages. Unique combination of massage parlor with a selection of weed and clothing available. Staff noted for being helpful and English-speaking. (Note: Some mixed reviews on massage consistency).
+・Price: Budget-friendly
+・Recommended: Travellers looking for a relaxed, budget-friendly massage in a clean environment, potentially interested in the adjacent shop offerings. Good for those who value helpful, English-speaking staff.
+
+Pu body scrub & massage
+・Rating: 4.6
+・Highlights: Offers a range of massages including effective back/shoulder/head and foot massages, incorporating stretching. Known for being professional, clean, and affordable with good customer service. Therapists noted for attentiveness (e.g., caring for minor wounds) and providing strong pressure when requested.
+・Price: Affordable
+・Recommended: Guests seeking affordable, clean, and effective massages, particularly those who appreciate strong pressure or attentive therapists. Ideal for repeat visits due to value. (Note: Some inconsistency in experience reported).
+
+Jane & June Massage
+・Rating: 4.8
+・Highlights: Highly-rated family-run business offering comprehensive packages and individual services (massage, waxing, nails). Known for exceptional service, including free hotel transport and welcome drinks. Features a spotlessly clean, beautiful environment and highly skilled, professional, and friendly staff who tailor pressure.
+・Price: Mid-range (Good value for service level)
+・Recommended: Visitors looking for a full-service spa experience (massage, nails, waxing) with excellent customer care, cleanliness, and convenience (free transport). Ideal for those wanting tailored, professional massages in a beautiful setting.
+
+Kaohom Massage
+・Rating: 4.4
+・Highlights: Highly regarded by some for professional, skilled, and effective Thai massages, particularly good at working out knots and chronic pain. Therapists noted for strength and hitting the right spots. Considered a hidden gem by repeat visitors offering fair prices. Kom praised for foot massages. (Note: Experiences vary, potential for inconsistency in service/atmosphere).
+・Price: Budget-friendly / Fair
+・Recommended: Individuals seeking strong, effective, therapeutic massages at fair prices, especially for back/shoulder knots or foot relief (ask for Kom). Best suited for those prioritizing massage skill over luxurious ambiance.
+
+SANKARA - Traditional Thai Massage & Nail Spa
+・Rating: 4.6
+・Highlights: Popular spot excelling in nail services (manicures, pedicures, nail art) with highly skilled, precise, and professional technicians. Also offers quality traditional Thai massages and other treatments in a clean, modern setting with good AC. Staff are friendly and English-speaking.
+・Price: Mid-range (Variable based on service/pressure)
+・Recommended: Primarily for those seeking high-quality nail services (manicures, pedicures, gel, art). Also a solid choice for massages and other treatments in a busy, clean, and professional environment.
+
+Dee Dee Massage
+・Rating: 4.2
+・Highlights: Centrally located shop offering professionally skilled massages at reasonable prices, often considered better value than pricier spas. Known for friendly, English-speaking owners and specific skilled therapists (e.g., P'Pan). Features a clean, aromatic atmosphere and stays open late, with happy hour deals available. (Note: Some mixed reviews on service consistency).
+・Price: Budget-friendly
+・Recommended: Visitors in central Ao Nang looking for good value, skilled massages without the frills of high-end spas. Good for late-night sessions or those seeking specific recommended therapists.
+
+Nature Garden Massage by PURE Krabi
+・Rating: 4.9
+・Highlights: Offers a unique and highly-rated massage experience in a serene outdoor garden setting amidst nature sounds. Known for exceptional hospitality from the owner (Pu) and highly skilled therapists (e.g., Ya). Provides a tranquil, authentic atmosphere with options like coconut scrubs and oil massages, complemented by delicious tea. Booking recommended.
+・Price: Mid-range to Premium (Experience-focused)
+・Recommended: Nature lovers and those seeking a unique, tranquil, and high-quality massage experience away from typical indoor salons. Ideal for deep relaxation and escaping into a peaceful environment.
+
+Baanthai Massage
+・Rating: 4.5
+・Highlights: Known for being hygienic, professional, and offering a range of services including massages and competent nail care (pedicure, gel polish) at good prices. Provides private rooms and comfortable garments for Thai massages. Therapists like Sue and Taen are highlighted for their skill and attentiveness. Family and group-friendly. (Note: One very negative review contrasts with mostly positive feedback).
+・Price: Budget-friendly / Good Value
+・Recommended: Individuals, families, or groups looking for clean, professional, and good-value massages and nail services. Good choice for those who appreciate skilled therapists and private rooms. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+Jane & June Massage	4.8	242	https://places.googleapis.com/v1/places/ChIJQzIZKQHAUTARjXtNv3NiMBU/photos/AeeoHcKNdpbGucOKrKhKy9gvET9yvLY-a0dZJbs1yDn9Q7WtpMzJGxIEL3mY7MTnA3nAxITbweZAv5WSZCwMeR6lPZkN4stia_VizDcl-OBBYw67lOxulH85mDZie9lnryq13qTvG1lleE5GPh0SRezs1eggkqFSlK3merEtmFmfuBhUR4KlfuThwY5Vf91uB0tyI7wurE4KQARmKG6W5UGS53LKdbOBMGoW3BdHjNhWSeNMbNl_Vf0ITtFSdg8dgdYG4ESQM1Uaa3HBe93iVH5h1d2aLHz1eQcPMPoFYMiP2sOx-w/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJQzIZKQHAUTARjXtNv3NiMBU/photos/AeeoHcJrJZdlb2_2UOKsH8xPpcCN3886GeDtTmPdNgzpqbV6AfU9svtYctbJ1fU71AHMYyUmch34D4pe2b-f72L2ANuyiyi5g3ri0WsR4_WuDRP2gMbgoeG44bE0H_jyo4hgvpBtr8ittyXs_Q1Qt5Gr7U6GAKnD0wLDxoVjnbIXycmkYCEuPoShzJZDiGo_7pYfVsGF9rNDEn-aeN6Gkn2xWY2m1554ryLxdVj1k8rd-tzCZaL1qs6znH2c7XTqJPaTD6gPLQV54w-MaN_BUJ9BGwZwp65dUs77ciikDUOPIwq_IQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJQzIZKQHAUTARjXtNv3NiMBU/photos/AeeoHcL6mvPqsiAR8Vwp_g5WWuwEwJ0VrSAeD6ZYdlBSZ15QQoUVnF0VWiN8RzmNX7QNT9jn30KPbjYhn5xqCVegqJKSwWbGXoR_6PUzE7QyTONfq2MeoGtymdNMOMDFZRLJLoG6DRINYKaXFORfJYTaD9zoUBAe68vp7OvMFQc_60CnkEa8NpAofndsPZ-rW9yvJ9F9vYDsvacOB32-7qeZPKKjQDMtwtEFXIaks1lbPtyMqWo0JybPWRk7WpAb6A65BlSe3Gvp_DExxRzQU8WJgvPh_nJs0s46wFlHFil26Q-KbQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJQzIZKQHAUTARjXtNv3NiMBU	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQzIZKQHAUTARjXtNv3NiMBU&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQzIZKQHAUTARjXtNv3NiMBU&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Sofia Smith5 reviews · 7 photos5 months ago We had the most amazing experience at Jane & June massage. We went for the package which included aromatherapy massage  foot massage and a facial. 3 hours went by so fast and felt so relaxed- fantastic massage! The staff were so lovely  … MoreLike Share Response from the owner 4 months agoThank you so much  we will looking forward to seeing you again:)   Jane.	Jindra Chivers6 reviewsa week ago New My sister in law & I had a wonderful morning at Jane & June's Massage today! We both had a massage & our nails painted. We came away feeling very happy & relaxed. The staff are very friendly and professional and everything is spotlessly … MoreLike Share Response from the owner a week agoThank you so much :)	Maricha Wilson11 reviews · 4 photosa week ago New We booked as recommended by our hotel. Free pickup and drop off from hotel which was prompt and super friendly. Arrived at a lovely spa  welcome drink while we selected which services we were … MoreLike Share Response from the owner a week agoThank you so much we will waiting to see you again :)	Ericka EncienzoLocal Guide · 27 reviews · 42 photos3 months ago Me and my husband came here to do a full body massage for 1 hour and 30 mins and I also had Brazilian wax  legs wax  armpit wax   mani and pedi.  The service was really nice and everyone is very friendly. Price is good.Like1 Share Response from the owner 2 months agoThank you so much :)  Jane.	Derek SmithLocal Guide · 28 reviews · 3 photos5 days ago New Worth a short drive to Jane & June. I had an expertly delivered Thai massage with oil. Only regret is not opting for 90 minutes rather than an hour. Mature lady  felt like she had been doing massage all her life. Strong hands and … MoreLike Share Response from the owner 5 days agoThank you so much :)	Amber Mcghee10 reviews · 1 photo5 months ago Had a brazilian wax and could not recommend more. Price was very decent and included pick up and drop off. My technician was friendly and efficient  and the salon was clean  comfortable  and very pretty. Afterwards they gave me a ginger tea and a cake to sit and relax. 10/10!Like Share Response from the owner 4 months agoThank you so much :) Jane.	Sara Stima5 reviews · 1 photoa month ago I had an amazing experience! The massage was incredibly relaxing and performed with great professionalism. The place is beautiful  clean  and creates a perfect atmosphere for unwinding. I felt well taken care of from start to finish. I will … MoreLike Share Response from the owner a month agoThank you so much :)	Kenny GaLocal Guide · 433 reviews · 764 photos5 months ago Amazing massage. They ask in the room how you’d like pressure and if you need something specific like for me I always have a tight neck. Really knowledgeable. Great prices. 800b for 90 minutes of quality massage is crazy to me! I usually … MoreLike Share Response from the owner 4 months agoThank you so much :) we hope to seeing you again:) Jane.	Tawfeeq PetersenLocal Guide · 27 reviews · 28 photos5 months ago If you are staying in Ao Nang  please do not miss out on one of the best massages I have had. Jane & June - a family owned and run business that provides excellent and friendly service. … MoreLike Share Response from the owner 4 months agoThank you so much  we will looking forward to seeing you again :)   Jane.	younsun kim2 reviews3 months ago Outstanding service received by friendly reception staff and massage therapist. They're experts in knowing exactly the spot that I need to. Reasonable price and very neat and clean  I’ve attended twice but no skin trouble since I’ve been. … MoreLike1 Share Response from the owner 2 months agoThank you so much :)  Jane.	We had the most amazing experience at Jane & June massage. We went for the package which included aromatherapy massage  foot massage and a facial. 3 hours went by so fast and felt so relaxed- fantastic massage! The staff were so lovely  …	Thank you so much  we will looking forward to seeing you again:)   Jane.	My sister in law & I had a wonderful morning at Jane & June's Massage today! We both had a massage & our nails painted. We came away feeling very happy & relaxed. The staff are very friendly and professional and everything is spotlessly …	Thank you so much :)	We booked as recommended by our hotel. Free pickup and drop off from hotel which was prompt and super friendly. Arrived at a lovely spa  welcome drink while we selected which services we were …	Thank you so much we will waiting to see you again :)	Me and my husband came here to do a full body massage for 1 hour and 30 mins and I also had Brazilian wax  legs wax  armpit wax   mani and pedi.  The service was really nice and everyone is very friendly. Price is good.	Thank you so much :)  Jane.	Worth a short drive to Jane & June. I had an expertly delivered Thai massage with oil. Only regret is not opting for 90 minutes rather than an hour. Mature lady  felt like she had been doing massage all her life. Strong hands and …	Had a brazilian wax and could not recommend more. Price was very decent and included pick up and drop off. My technician was friendly and efficient  and the salon was clean  comfortable  and very pretty. Afterwards they gave me a ginger tea and a cake to sit and relax. 10/10!	ChIJQzIZKQHAUTARjXtNv3NiMBU 

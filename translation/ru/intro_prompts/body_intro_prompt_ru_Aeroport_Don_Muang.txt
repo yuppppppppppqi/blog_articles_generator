@@ -1,0 +1,97 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+Аэропорт Дон Муанг: Топ-10 Массаж ног 2025というタイトルに相応しい魅力的なイントロダクション（導入文）を書いてください。
+
+制約:
+    • 自然なロシア語で、個人ブログのような、実際にタイに住んでいる人の目線で書いてください。
+    • 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+    • イントロの次に記載する[マッサージ店の特徴まとめ]の内容を、参考にしてください。
+    • カジュアルなトーンで、親しみやすい雰囲気で書いて。ただし、馴れ馴れし過ぎないようにしてください。
+    • ブログのターゲットは、この2パターン
+        1. タイへの旅行客
+        2. タイに既に在住している人
+      これらの人の興味を引くような内容にしてください。
+    • このブログの執筆者は、タイに3年住んでいて、この個人的な経験を活かすようにしてください。
+    • 
+    • このブログの目的は、informational（情報提供）です。セールスやPRではありません。
+    • 300から400字になるようにしてください。
+    • 印象、感情、感想、体験などには、<strong><u></u></strong>と言うタグをつけて、読者にわかりやすくしてください。ただし、4-6回程度の頻度にして、文章として自然になるようにしてください。出だしの1文目には、必ず入れるようにしてください。
+    • 前後に余計な情報を加えないでください。ブログのイントロ部分だけを出力してください。
+    • 読みやすいように、2, 3文に一回は改行を入れてください。
+    • パラグラフは、このフォーマットにしてください： <!-- wp:paragraph --><p>（ここに文章が入る）</p><!-- /wp:paragraph -->
+    • "【在住者が選ぶ】バンコクのおすすめフットマッサージ10選【2025年】"と言うタイトルの、同じブログの別記事のリンクを挿入してください。これ以外のリンクは挿入しないでください。
+
+リンク挿入について:
+    下記のようなスタイルで、自然にリンクを挿入してください：
+    <p>[ここに、短く、興味を引くような文章を書いてください。<a href="https://my-bangkok-life.com/ja/%e3%83%90%e3%83%b3%e3%82%b3%e3%82%af%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%95%e3%83%83%e3%83%88%e3%83%9e%e3%83%83%e3%82%b5%e3%83%bc%e3%82%b810%e9%81%b8/">[ここにアンカーテキストを入れてください。]</a>]</p>
+    次の行に、下記のようなワードプレスのembed blockを書いてください。:
+
+    <!-- wp:paragraph -->
+        <p>
+        <!-- wp:embed {"url":"https://my-bangkok-life.com/ja/%e3%83%90%e3%83%b3%e3%82%b3%e3%82%af%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%95%e3%83%83%e3%83%88%e3%83%9e%e3%83%83%e3%82%b5%e3%83%bc%e3%82%b810%e9%81%b8/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+            <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+                <div class="wp-block-embed__wrapper">
+                    https://my-bangkok-life.com/ja/%e3%83%90%e3%83%b3%e3%82%b3%e3%82%af%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%95%e3%83%83%e3%83%88%e3%83%9e%e3%83%83%e3%82%b5%e3%83%bc%e3%82%b810%e9%81%b8/
+                </div>
+            </figure>
+        <!-- /wp:embed -->
+        </p>
+    <!-- /wp:paragraph -->
+
+出力は、ここに保存してください:
+translation/ru/temp/6_best_foot_massage_near_don_mueang_airport_2025/sections/intro/intro.html
+
+[マッサージ店の特徴まとめ]
+Ploenchiva Massage
+・Rating: 4.7
+・Highlights: Modern spa with elegant decor, attentive staff, and skilled therapists known for strong deep tissue work. Offers complimentary tea and cookies with each service in a peaceful, clean environment.
+・Price: Mid-range
+・Recommended: Perfect for travelers seeking a premium massage experience in a stylish setting near Don Mueang Airport.
+
+Himawari Massage Spa and Onsen
+・Rating: 4.9
+・Highlights: Japanese-inspired spa combining traditional massage with authentic onsen experience. Features private baths with customizable water colors and aromatherapy options in a tranquil setting.
+・Price: Premium
+・Recommended: Ideal for those wanting a complete relaxation experience with both massage and onsen bathing in a Japanese-style environment.
+
+SALA Theprak
+・Rating: 5.0
+・Highlights: Immaculately clean spa with exceptional service and highly skilled therapists. Known for their attention to detail, relaxing atmosphere, and consistently high-quality treatments.
+・Price: Mid-range
+・Recommended: Perfect for those seeking top-tier massage services in a serene environment with impeccable customer care.
+
+Belleza
+・Rating: 4.9
+・Highlights: Established luxury spa with 15+ years of excellence. Specializes in aromatherapy, herbal compress treatments, and office syndrome relief. Known for personalized service and consistent quality.
+・Price: Premium
+・Recommended: Ideal for regular spa-goers looking for expert care and treatments specifically designed for office workers and chronic pain relief.
+
+Relax Home Massage
+・Rating: 4.9
+・Highlights: Minimalist Japanese-inspired decor creates a soothing atmosphere. Known for excellent body scrub treatments ("dung bomb") and aromatherapy massages in a clean, Instagram-worthy setting.
+・Price: Affordable
+・Recommended: Perfect for those seeking value for money in a stylish environment, especially those interested in exfoliating treatments and skin care.
+
+Fortune Massage Phahonyothin 69
+・Rating: 4.9
+・Highlights: Clean, cozy spa with skilled therapists known for their strong pressure techniques. Offers complimentary bael fruit juice and creates a welcoming, relaxing environment.
+・Price: Budget-friendly
+・Recommended: Great for those who prefer firm pressure massages at affordable prices in a simple but well-maintained setting.
+
+Gen Massage
+・Rating: 4.9
+・Highlights: Modern minimalist spa with excellent customer service and specialized treatments for office syndrome. Offers both traditional and aromatherapy massage options.
+・Price: Affordable
+・Recommended: Ideal for office workers suffering from neck and shoulder tension who want targeted relief in a contemporary setting.
+
+Rean Sritrang
+・Rating: 5.0
+・Highlights: Exceptionally skilled massage therapists with a focus on therapeutic techniques. Clean, comfortable environment with soft background music and friendly, attentive service.
+・Price: Mid-range
+・Recommended: Perfect for those with specific pain points or muscle issues requiring experienced therapists with healing hands.
+
+Meghalaya Traditional Massage
+・Rating: 4.8
+・Highlights: Authentic Thai massage techniques delivered by professional therapists. Offers strong deep tissue work, stretching, and traditional methods in a dimly lit space with Thai music.
+・Price: Budget-friendly
+・Recommended: Ideal for those seeking genuine Thai massage with firm pressure, especially convenient for airport layovers.

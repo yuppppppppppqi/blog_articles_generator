@@ -1,0 +1,83 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+お店（คำแปง นวดเพื่อสุขภาพ เชียงราย Kham Paeng massage chiang rai）を以下の形式でロシア語で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- ロシア語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/ru/temp/18_best_foot_massage_in_chiang_rai_2025/sections/4/ru/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+นารายา นวดเพื่อสุขภาพเชียงราย Naraya Massage&Relax Chiangrai
+・Rating: 4.1
+・Highlights: Offers a convenient second location right at the night market. Reviews are mixed, with some customers praising excellent massages (especially foot and head/neck/shoulder) while others report inconsistencies in quality and duration. Staff are generally friendly and communication in English/Chinese is possible.
+・Price: Budget-friendly (around 250 THB/hour mentioned).
+・Recommended: Visitors looking for an affordable massage near the night market, though experiences may vary.
+
+Cho Kaew Thai Massage
+・Rating: 4.2
+・Highlights: Praised for amazing and effective foot massages, often including complimentary neck/shoulder massage and tea. Massages are described as firm, strong, and relaxing, leaving customers feeling renewed. Polite staff and quiet atmosphere enhance the experience.
+・Price: Budget-friendly (Good price mentioned, though specific cost not detailed in provided reviews).
+・Recommended: Those seeking a thorough, firm massage, particularly foot massages, in a tranquil setting at a good value.
+
+เชียงรายไรซิ่งซัน นวดเพื่อสุขภาพ ChiangRai Rising Sun Massage
+・Rating: 4.8
+・Highlights: Consistently rated as one of the best massage experiences in Thailand by reviewers. Known for professional, respectful service and highly skilled masseuses, including the owner. Offers a serene ambiance with thoughtful touches like foot baths with lime, tea, and biscuits. Praised for finding the right pressure and effectiveness, especially for oil and Thai massages.
+・Price: Mid-range (400 THB/hour mentioned for oil massage).
+・Recommended: Visitors seeking a high-quality, professional, and serene massage experience, particularly those looking for skilled oil or Thai massages.
+
+คำแปง นวดเพื่อสุขภาพ เชียงราย Kham Paeng massage chiang rai
+・Rating: 4.9
+・Highlights: Frequently described as offering one of the best Thai massages ever, often exceeding expectations for the price. Masseuses are noted for good pressure, finding and focusing on problem areas, and providing a relaxing, spa-like experience. Some confusion noted regarding pricing based on massage pressure.
+・Price: Budget-friendly (200 THB/hour for Thai massage mentioned, though potential extra cost for 'hard' massage noted by one reviewer).
+・Recommended: Those looking for an exceptionally good and relaxing Thai or oil massage at a very affordable price.
+
+เชียงรายสเตชั่นนวดเพื่อสุขภาพ Chiangrai massage
+・Rating: 4.8
+・Highlights: Highly regarded for strong, deep, and thorough massages, particularly Thai and sports massages. Therapists are skilled, attentive to requests, and effective at targeting muscle tightness. Clean environment and reasonable prices are noted, though a couple of reviews mention negative experiences with specific therapists or uncleanliness.
+・Price: Budget-friendly (200 THB/hour mentioned).
+・Recommended: Individuals seeking a strong, deep tissue massage at a great price, prepared for potentially intense pressure.
+
+เชียงรายเทอร์มินอล นวดเพื่อสุขภาพ
+・Rating: 4.6
+・Highlights: Offers phenomenal, thorough, and professional massages, particularly Thai and foot massages. Masseuses are noted for being attentive to sore spots, leaving customers feeling rejuvenated. Very affordable pricing. Some negative reviews mention unprofessional staff behavior.
+・Price: Budget-friendly (Very affordable mentioned).
+・Recommended: Value-seekers looking for a thorough and effective massage, particularly Thai or foot massage, though some staff interactions might be inconsistent.
+
+Chamonpond Massage
+・Rating: 4.4
+・Highlights: Run by a local Akha family, offering very good, strong, and firm massages, especially foot massages, often cited as the best experienced in Thailand. Staff are friendly and skilled, providing intuitive treatments. The interior is unassuming, but the massage quality is highly praised. Some suggestions for improving ambiance (foot wash, face cradles).
+・Price: Budget-friendly (Cheap mentioned).
+・Recommended: Guests prioritizing skillful, strong massage (especially foot massage) over luxurious ambiance, offered by a friendly local family business.
+
+GRAND SPA แกรนด์สปา
+・Rating: 4.9
+・Highlights: Delivers an exceptional spa experience from start to finish with polite, professional staff and a peaceful, clean atmosphere. Offers customizable treatments (choice of oils, focus areas) and is praised for relaxing yet effective massages (Thai, foot, head, aroma oil). Complimentary tea and excellent reception add to the experience.
+・Price: Mid-range to Premium (Considered slightly overpriced by one reviewer compared to others nearby, packages available).
+・Recommended: Those seeking a premium, customizable spa experience with excellent service and a relaxing atmosphere, suitable for couples or individuals wanting pampering.
+
+Chiang Rai Nice Massage
+・Rating: 4.9
+・Highlights: Consistently described as providing one of the best massage experiences, with highly skilled, attentive, and intuitive therapists (especially Bee). Known for identifying and relaxing blocked areas effectively. Features a lovely, calming atmosphere with nice scents and music. Offers great value, friendly service, and thoughtful extras like tea and stretching tips.
+・Price: Budget-friendly (400 THB/hour for oil massage, overall good price mentioned).
+・Recommended: Anyone looking for a high-quality, professional, and genuinely relaxing massage with personalized attention in a calming environment.
+
+Siamese Spa
+・Rating: 4.9
+・Highlights: Offers an amazing, wonderful spa experience with a serene atmosphere and welcoming, professional staff. Highly praised for skilled therapists who listen to requests and use appropriate pressure (especially noted for aroma oil, hot compress, and foot massages). Consistently delivers one of the best massage experiences, noted for cleanliness and hospitality, including complimentary tea. Allows customization of pressure and focus areas.
+・Price: Mid-range (Specific prices not mentioned, but spa setting suggests mid-range).
+・Recommended: Visitors seeking a top-tier, relaxing spa experience with highly skilled therapists, attention to detail, and a welcoming, clean environment. Ideal for those wanting customized treatments like aroma oil or hot compress massages. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+คำแปง นวดเพื่อสุขภาพ เชียงราย Kham Paeng massage chiang rai	4.9	188	https://places.googleapis.com/v1/places/ChIJmV8ecTcH1zARm-m-UfVd3J4/photos/AeeoHcK6ikqazu9ZAJIRejgD8BXX4SNLtwTIK32McsWhs_LgEoxwlfCJj_GfFBJzcivB5683W6VgG8kh8nZl1gfUqXMXA5FVt9EI8gPnzXVuHrrTgCbBIp7JQuByFmAoTbeVTBiE8viLg3IF7mQv5s2dphiaHFsWMpVQ3OYnZw04kmxF-BDCpU6uXdhwf55T1VZyfcEbQpMtSrFZyUDU01l39L6b6oQZLEBFbhPj1y7ea5tZ7ze5TD_wYgyScNCmZMFr6j9hKWSG_9vb8XgSYlSI3Ivm2-oOc6eqL5HaL32YrDHLxQ/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJmV8ecTcH1zARm-m-UfVd3J4/photos/AeeoHcIYEpbMDW3UvN7iTduJ-9Ta_ucRN4izPvQ3plxvwCldy9GCPvU5KUgy3LIEFEfKGcyujt4A0_AeqcofnxpcromE8RUxp_-TlBabxW31ke5VYsyEstHxc9QdXAHTwRo7ln8xEjxiQUc5MnQxHMcyBUF2DlBfPXWh3zNDEDm3-W_q-rGFkDC8LB1ChowhItS3ZLceuxHAUfphWA-KWL2HyAhgxM1q620YCBr8nEGxC98MxwAHC5NCpAcd2LiTqCAoifanUte87M30cmu_kvQgFf7nqmnUMv7Q7KAn7-sy6426Yw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJmV8ecTcH1zARm-m-UfVd3J4/photos/AeeoHcIVaCndoHS1vWCq0K-LmCZwGdZlUQjbcwekezBkYknGftIN2YIoXyROYOdH4zrIDsJxcrYbo-nM7Qhud8nwZ-wD50ABJWJHGuBvSbNg7uW6UpUmUJiW1cNVjCcA8o_3fTW_ulnFKfQ-7fLOek-PaP7OdIVM8sdGpwvI9BqLiWN2MMDWFMYrT-HC5JlqWUvDIHP8hPIp5jn3A3bB6Ur__jI4HIW2QKhaTAU5TfXvtRcUV9-TkT1oiHZf8SywhVKvCR32vLhuHMOq7lC_27j8kCXSiLt-O1pwZ2E9HhmDHKtFHw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJmV8ecTcH1zARm-m-UfVd3J4	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJmV8ecTcH1zARm-m-UfVd3J4&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJmV8ecTcH1zARm-m-UfVd3J4&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	121 CathyLocal Guide · 23 reviews · 34 photos5 months ago The first time I hear about if wanna different level of power of massage is different price  soft massage is the price like they showed on the menu  but if you wanna hard massage is 300 baht per hour  I think it’s not smart way for do a business tho  you better don’t play this trick. Anyway  the massage master I got was goodLike Share Response from the owner 5 months agoThank you for your review. Our shop offers a variety of programs for customers to choose from. Customers can choose according to their satisfaction with the various services.	Riema AuroraLocal Guide · 17 reviews · 9 photos6 months ago Omg what is this place! Amazing thai massage ever! If I live in Thailand  I’m gonna come here every week😭 so good! Guys you have to try! It’s cheap as well. I tried thai massage 200bath for 1 hour. Best ever …Like1 Share Response from the owner 6 months agoThank you for your review. The shop is very happy to serve you. 🥰🙏 Hope to see you again soon. ☺️ …	Yanisa SaengwatcharakulLocal Guide · 21 reviews · 8 photosa year ago My mother  grandmother and partner had 2 hour massages. My partner and I did oil massage and it was a fantastic experience  good pressure. It was very relaxing and I fell asleep. My mum and grandma did Thai massage.  All the rooms are air … MoreLike Share Response from the owner a year agoThank you very much to the customer. The customer is happy and the store is happy. 🥰🙏 …	RyanLocal Guide · 106 reviews · 198 photos3 months ago Such a refreshing massage. I will be visiting this place again and again. Thank you for the friendly massage.Like Share Response from the owner 3 months agoThank you for your review. We hope you will come back to our shop again. 🙏🥰 …	Dew SsLocal Guide · 25 reviews · 43 photos7 months ago I found this place randomly. Very impressive.  It felt like getting a massage at a spa. Highly recommended. So relaxingLike1 Share Response from the owner 7 months agoThank you very much. The shop is happy to serve you 🙏☺️ see you again next time ☺️ …	Giuseppe RubinoLocal Guide · 169 reviews · 11 photos4 months ago Very good  the lady managed to find the hotspots and focused on them to fix them.Like Share Response from the owner 4 months agoThank you for your review. We hope to serve you again next time. 🙏🥰 …	kevin‘s Le Lemus7 reviews · 1 photoa year ago Worst services ever. It was totally non -skilled masseur. This is not a proper Thai massage. It was only rubbing with there bone on my skin that make me have more pain. Also poor etiquette to keep talking out loud that I couldn't find any peaceful here. NOT recommend one!!Like Share Response from the owner a year agoI must apologize to the service users. The shop will fix and improve. and warn employees to be more careful. I'm sorry from my heart.	Stuart StriplingLocal Guide · 286 reviews · 1 637 photos3 months ago My wife and I had two excellent massages . EXTREMELY HAPPYLike Share Response from the owner 3 months agoThank you for your review. We hope you will come back to our shop again. 🙏🥰 …	kan2 reviews · 1 photoa year ago I came here during Songkran Festival 2024. It was my best experience ever!! I would like to recommend this Thai massage.Like Share Response from the owner a year agoThank you so much 🙏🥰 …	Sam CLocal Guide · 55 reviews · 61 photosa year ago I’ve had many massages in Thailand  but this one is by far one of the BEST. Very impressed and very reasonable price of 200tbh/hour for Thai massage!👏👏 …Like2 Share Response from the owner a year agoI like how you rate our service. Thank you very much.	The first time I hear about if wanna different level of power of massage is different price  soft massage is the price like they showed on the menu  but if you wanna hard massage is 300 baht per hour  I think it’s not smart way for do a business tho  you better don’t play this trick. Anyway  the massage master I got was good	Thank you for your review. Our shop offers a variety of programs for customers to choose from. Customers can choose according to their satisfaction with the various services.	Omg what is this place! Amazing thai massage ever! If I live in Thailand  I’m gonna come here every week😭 so good! Guys you have to try! It’s cheap as well. I tried thai massage 200bath for 1 hour. Best ever …	Thank you for your review. The shop is very happy to serve you. 🥰🙏 Hope to see you again soon. ☺️ …	My mother  grandmother and partner had 2 hour massages. My partner and I did oil massage and it was a fantastic experience  good pressure. It was very relaxing and I fell asleep. My mum and grandma did Thai massage.  All the rooms are air …	Thank you very much to the customer. The customer is happy and the store is happy. 🥰🙏 …	Such a refreshing massage. I will be visiting this place again and again. Thank you for the friendly massage.	Thank you for your review. We hope you will come back to our shop again. 🙏🥰 …	I found this place randomly. Very impressive.  It felt like getting a massage at a spa. Highly recommended. So relaxing	Thank you very much. The shop is happy to serve you 🙏☺️ see you again next time ☺️ …	ChIJmV8ecTcH1zARm-m-UfVd3J4 

@@ -1,0 +1,77 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+お店（Fortune Massage Phahonyothin 69）を以下の形式でロシア語で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- ロシア語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/ru/temp/6_best_foot_massage_near_don_mueang_airport_2025/sections/6/ru/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+Ploenchiva Massage
+・Rating: 4.7
+・Highlights: Modern spa with elegant decor, attentive staff, and skilled therapists known for strong deep tissue work. Offers complimentary tea and cookies with each service in a peaceful, clean environment.
+・Price: Mid-range
+・Recommended: Perfect for travelers seeking a premium massage experience in a stylish setting near Don Mueang Airport.
+
+Himawari Massage Spa and Onsen
+・Rating: 4.9
+・Highlights: Japanese-inspired spa combining traditional massage with authentic onsen experience. Features private baths with customizable water colors and aromatherapy options in a tranquil setting.
+・Price: Premium
+・Recommended: Ideal for those wanting a complete relaxation experience with both massage and onsen bathing in a Japanese-style environment.
+
+SALA Theprak
+・Rating: 5.0
+・Highlights: Immaculately clean spa with exceptional service and highly skilled therapists. Known for their attention to detail, relaxing atmosphere, and consistently high-quality treatments.
+・Price: Mid-range
+・Recommended: Perfect for those seeking top-tier massage services in a serene environment with impeccable customer care.
+
+Belleza
+・Rating: 4.9
+・Highlights: Established luxury spa with 15+ years of excellence. Specializes in aromatherapy, herbal compress treatments, and office syndrome relief. Known for personalized service and consistent quality.
+・Price: Premium
+・Recommended: Ideal for regular spa-goers looking for expert care and treatments specifically designed for office workers and chronic pain relief.
+
+Relax Home Massage
+・Rating: 4.9
+・Highlights: Minimalist Japanese-inspired decor creates a soothing atmosphere. Known for excellent body scrub treatments ("dung bomb") and aromatherapy massages in a clean, Instagram-worthy setting.
+・Price: Affordable
+・Recommended: Perfect for those seeking value for money in a stylish environment, especially those interested in exfoliating treatments and skin care.
+
+Fortune Massage Phahonyothin 69
+・Rating: 4.9
+・Highlights: Clean, cozy spa with skilled therapists known for their strong pressure techniques. Offers complimentary bael fruit juice and creates a welcoming, relaxing environment.
+・Price: Budget-friendly
+・Recommended: Great for those who prefer firm pressure massages at affordable prices in a simple but well-maintained setting.
+
+Gen Massage
+・Rating: 4.9
+・Highlights: Modern minimalist spa with excellent customer service and specialized treatments for office syndrome. Offers both traditional and aromatherapy massage options.
+・Price: Affordable
+・Recommended: Ideal for office workers suffering from neck and shoulder tension who want targeted relief in a contemporary setting.
+
+Rean Sritrang
+・Rating: 5.0
+・Highlights: Exceptionally skilled massage therapists with a focus on therapeutic techniques. Clean, comfortable environment with soft background music and friendly, attentive service.
+・Price: Mid-range
+・Recommended: Perfect for those with specific pain points or muscle issues requiring experienced therapists with healing hands.
+
+Meghalaya Traditional Massage
+・Rating: 4.8
+・Highlights: Authentic Thai massage techniques delivered by professional therapists. Offers strong deep tissue work, stretching, and traditional methods in a dimly lit space with Thai music.
+・Price: Budget-friendly
+・Recommended: Ideal for those seeking genuine Thai massage with firm pressure, especially convenient for airport layovers.
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17
+Fortune Massage Phahonyothin 69	4.9	124	https://places.googleapis.com/v1/places/ChIJz3iKpXCD4jARD__gQ6cFzBY/photos/AeeoHcJkapUwvDOpjy0P1p2lSUx0HiW_N0bOgpU_q78_gWnv4R0JQc4JQL1VKuAeYsB-0HzFfsARxhTi4dBbBEnfpVdYms8m-8iCwE6PW7hbv-lyhzWWelE6CeI3HIQDTQ-XubZcJs98sJg-eNzr4H1eZCWFpaT4Sqa62HNSCpxwL6cRA5SA5KF8_nSZsOAEBL8cAkVqCyjnz_EDLaqQTY_ov4LV0vaXVcYvHZ6cqJ7Og5bjsexPVfgU4SVtgg1X4FpbNzVClTG3gikbtVjtM7gMDLjlNUCOuwoG5Usmi6ZL3UiCPZmD25mxdC_TafkNDm4nBtAjyipxR6zxeV0RxYIY3HJ3HAGiDsVZraY4Z2Z2ybZmPmZJMpMSSh2WHsEr-TC8RKg8HGqKpo6cyuZVUX9QDKtG3hl6l7UZwlMSB_lHgZ3Z6w/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJz3iKpXCD4jARD__gQ6cFzBY/photos/AeeoHcL2B6kpzgM57LwCa14QssoDCeDRd9-xFcr2kcfV7XPdMY7iP4NbJbzoma2vS3CousV36CPQd9qDnADB4WImspM3_2PnevHfKOlSSNvAMqrO2LBv46-qRnPcgDTF2fXmONoiOl1Tur0TJkUISRQteaiqDslPlKzC3rkJxYOD9sKV50wUDFnoLhftmCm6klBFZyIPxHJnO3lScNWv3sSHsz8aXiguyfU1shwEjiUgGDi0Orxfd3Ol2fy0GcmfZOYqkaETzRORWN7aB4wkGmnhl1-_px2Fz8KF1B8UknVSTTS2Fw/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJz3iKpXCD4jARD__gQ6cFzBY/photos/AeeoHcJh0tajFei_25h3j3wFn2jqORwczNCxW2i7-TGgFUHP0hTVw8CzMjfs8HB84odD7Br0UHgvK-rIyVf7gQOGxdswFFTaBKqS-A1VjQPAWd9oi_dJPq_m3XW-Kp9FcjjxG3Ea_39cykiBPZDBcYg-mzz3n-m5d9ihes0XQZCTEHmWd0FIptBuRAGxp2AgLk1r8pfL6i3NQpy-RJWQImb3Uz0bRFQ2XNTE3-bFCmp9Kure5n7v_4EtQwf3TxQxArUwnWRE9JRjCd3Rz4BrzeQK2PgxjPHOJmZxPu-t9kzTC3V7DA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJz3iKpXCD4jARD__gQ6cFzBY	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJz3iKpXCD4jARD__gQ6cFzBY&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJz3iKpXCD4jARD__gQ6cFzBY&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Last day in Bangkok, knew I had to get a massage before my 30 hour flight. P Tim did my massage, she was very kind and did a great job. The shop is very clean, comfortable and staff is very friendly. Would highly recommend. I had the 90 minute aroma full body massage 	I came here on my last day in Thailand and wow! This place is very clean and very cozy. I loved the atmosphere and it was very relaxing. The staff was extremely kind and very welcoming. My masseuse‘s name was Phet and she was very nice and she did a great job, 10/10. The prices were great too!! Loved the Bael drink they gave us after too.	Massage was very nice, professional and good price, recommend to everyone. 	Staff who did the massages complain all the time during the massage and talk over customer's head on the service date 6 December 2024 time 9 PM. Disgusting service ever. She said there are too many customers today and she didn't have the energy to massage. Why do I need to listen to immature services like this. Never again. 	💆🏻‍♂️Good massage, good service, good atmosphere … 	I was just there, took tradition Thai massage, they respect the time full hour, the lady that massage me was 100% real professional, she hit every muscule perfect, I feel so good 👍 it was 300 THB per hour, I recommend this place to everyone. Pure 5 stars. Professionals, this is what I like. … 	This massage place is a must try. The owner is very accommodating. Their employees are well trained. Will definitely try again before we go back to the Philippines. 	The best massage experience! Highly recommended :) 	Impressed Foot Massage here. Good service. Good and clean environment. 	Good massage near don mueng airport, cozy vibe😁😁 … 	very relax for visiting here. foot massage 	Good atmosphere and good massage skills 	Good service and manner, friendly staff 	The store is clean. When you enter the store, it smells great. The staff are attentive and provide good advice and service. They speak because the masseuse is skilled. Request hand weight, heavy or light as desired. After the massage I felt very comfortable. I was very impressed. 	I had Thai massage with balm it was sooo amazing and really good. The pressure really hard and good enough for who like hard massage. This place really clean and reasonable price for service I will come back for sure🙏👍  For people who frequently massage, it is considered heavy and can be used. Clean, quiet, relaxing. Anyone who has neck or shoulder pain, would recommend. 	Very good massage, clean shop, very nice staff. The owner of the shop is kind. Will go back to use the service again. I recommend this massage shop. Impressive service 	Very comfortable, very light. Very clean at the shop. So comfortable I fell asleep. The shop owners are lovely and take good care of you. I will definitely go often. 

@@ -1,0 +1,74 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+お店（ThaiThai Massage Sukhumvit soi4）を以下の形式でロシア語で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- ロシア語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/ru/temp/1_best_foot_massage_in_sukhumvit_2025/sections/8/ru/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+Eden The Ultimate Spa and Massage Experience
+・Rating: 5
+・Highlights: Cozy and clean environment, excellent customer service, skilled therapists, and a relaxing atmosphere with complimentary snacks and drinks.
+・Price: Premium
+・Recommended: Ideal for those seeking a luxurious and comprehensive spa experience with top-notch service.
+Better Day Healthy Massage @Novotel Sukhumvit 20
+・Rating: 5
+・Highlights: Highly skilled therapists, relaxing atmosphere, and exceptional customer service. Offers traditional Thai massage with a personal touch.
+・Price: Moderate
+・Recommended: Perfect for those looking for a high-quality massage experience with attentive service.
+One More Thai Massage (Phrom Phong)
+・Rating: 4.9
+・Highlights: Clean and quiet environment, skilled therapists, and thoughtful service with complimentary herbal treatments.
+・Price: Moderate
+・Recommended: Great for those seeking a relaxing and therapeutic massage in a serene setting.
+Loft Thai Spa & Wellness - Sukhumvit 24
+・Rating: 4.9
+・Highlights: Luxurious spa experience with personalized treatments, skilled therapists, and thoughtful touches like complimentary snacks and drinks.
+・Price: High
+・Recommended: Ideal for those looking to indulge in a premium spa experience with exceptional service.
+Healthy Massage Sukhumvit 33
+・Rating: 4.9
+・Highlights: Skilled therapists, relaxing atmosphere, and excellent value for money. Offers a range of traditional Thai massages.
+・Price: Affordable
+・Recommended: Perfect for those seeking a high-quality massage at a reasonable price.
+Loft Thai Spa & Massage - Sukhumvit 38
+・Rating: 4.9
+・Highlights: Professional service, relaxing environment, and skilled therapists. Offers a range of treatments with a focus on customer satisfaction.
+・Price: High
+・Recommended: Great for those looking for a comprehensive wellness experience in a luxurious setting.
+eszence Massage & Spa
+・Rating: 4.9
+・Highlights: Professional and friendly staff, relaxing atmosphere, and a wide range of massage options. Offers complimentary snacks and drinks.
+・Price: Moderate
+・Recommended: Ideal for those seeking a relaxing and rejuvenating massage experience with excellent service.
+ThaiThai Massage Sukhumvit soi4
+・Rating: 4.8
+・Highlights: Skilled therapists, clean and calming environment, and excellent customer service. Offers a range of traditional Thai massages.
+・Price: Moderate
+・Recommended: Perfect for those looking for a relaxing and authentic Thai massage experience.
+DreamHouse Thai Massage (Sukhumvit 20)
+・Rating: 4.8
+・Highlights: Clean and comfortable environment, skilled therapists, and thoughtful service with complimentary drinks.
+・Price: Moderate
+・Recommended: Ideal for those seeking a relaxing and professional massage experience in a welcoming setting.
+Senses Massage Sukhumvit 19
+・Rating: 4.7
+・Highlights: Skilled therapists, clean and welcoming environment, and reasonable prices. Offers a range of traditional Thai massages.
+・Price: Affordable
+・Recommended: Great for those looking for a high-quality massage at a budget-friendly price.
+
+TSV:
+Name	Rating	Total Reviews	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+ThaiThai Massage Sukhumvit soi4	4.8	2832	https://www.google.com/maps/place/?q=place_id:ChIJ_1SRcQSf4jARP9DMnGQblEU	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ_1SRcQSf4jARP9DMnGQblEU&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ_1SRcQSf4jARP9DMnGQblEU&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	My spouse and I had a foot, neck, and shoulder massage, and it was absolutely fantastic! The entire experience was so pleasant, from start to finish. The masseuses were incredibly professional, skilled, and attentive, ensuring we felt completely relaxed throughout.  We couldn’t have asked for a better massage, every technique was done with precision and care. They truly deserve more than 5 stars! Highly recommend this place to anyone looking for a top-notch massage experience. We will definitely be coming back! 	Best ever. Nee is awesome. She absolutely knew where I needed work on most. New place. Beautiful. Clean and friendly staff. I love this place! 	We went to Thai Thai Massage near our hotel right after our flight, and it was amazing! The massage was so relaxing that we both fell asleep during it. The service was excellent, and the place was spotless, with a beautiful, minimalistic aesthetic that made us feel instantly at ease. Highly recommend for anyone looking to unwind in a clean, calming space with top-notch service! 	We had a very good experience at this massage salon. Very experienced and friendly staff, the place was very clean and great atmosphere. Everything you would hope for going for a traditional Thai massage in Bangkok. Certainly coming back during the holiday and would recommend you do as well.	Great massage. I took the package in 90min which included foot massage with hot balm and 60min Thai massage with hot herbal compress on back area. Worth to tried it! 	Fantastic massage! You can request the pressure—medium or strong as your preference. The place is clean, cozy, and very comfortable. Highly recommended! 	Fantastic massage by masseuse Ms Riyam. Had 90mins session and it was fabulous experience. Hope to have more sessions soon. Ambience was amazing and Thank you.	A very neat and calm massage place in sukhumvit.  Much better if you come before 6pm. Fina and nan are very skilled and accomodating. 100% recommend 	Opted for package 4 as I want some tummy massage. For oil massage, u can have a shower after that, but the water is slightly cold for me as I prefer hot shower. Good service from Jane. Cash payment Only. Go b4 6pm for some promo price. 	One of the best massages I’ve ever had! Booked in for a 1 hour foot massage and also aroma therapy massage. It was so good I kept coming back during my trip. Kwang was my masseuse and she is incredible! Highly recommend this place 10/10! 	legit good. I took aromatic full body 60mins massage. best really. 	Here is a positive review for the THAI THAI Massage parlor in Bangkok, Thailand:  "I had an amazing experience at THAI THAI Massage during my recent visit to Bangkok. The spa is located in a convenient and central part of the city, making it easy to find and access.  Upon arrival, I was warmly greeted by the friendly staff who provided excellent customer service. They guided me through the check-in process seamlessly and made sure I felt comfortable throughout my visit.  The massage itself was exceptional. The therapists were highly skilled and intuitive, tailoring the massage technique to my specific needs. I opted for a traditional Thai massage and was impressed by how rejuvenated and relaxed I felt afterwards.  The facilities were clean, modern, and well-maintained. The treatment rooms provided a serene and tranquil environment perfect for unwinding.  Overall, I cannot recommend THAI THAI Massage enough. It is the perfect spot to indulge in an authentic Thai massage experience while in Bangkok. I left feeling refreshed, renewed, and will definitely be returning on my next trip to the city." 	Bad luck. My manager's massage skills were terrible. Also, the room wasn't clean and smelly. 	This massage place is suprisingly great. I took the 1 hour door massage with balm + the facial. The result, let's just say that the whole session and the experience is just heaven. For a place that is so touristy, you would imagine a mediocre quality, but I was completely wrong. So yeah, 5 star it is from me then. 	Decided to go for a massage as I was having a bad migraine. I didn’t mentioned anything but the moment my therapist- Aui massaged my neck and head, she asked if i had a migraine and loosen all the tension. I felt 100% better after the session! Affordable and definitely value for money :)	Amazing scrub and massage! The staff were friendly and the experience was so relaxing. My skin was amazing after the scrub massage! I would definitely come back to this parlour. Very professional and clean. 	The place is so clean and decent. The masseurs is polite and friendly. They are giving you the best message ever and following what kind of level you want. For me, I always go for soft and by far the best. Love this place so very much. Do come visit please you are some nearby. 	The people there was hospitable. The woman who gave me the massage eagerly listened to me so I wasn’t hurt or disoriented in a way. It’s a good place to get a massage. It ain’t 4.9 for nothing, that’s for sure. 😊 Will definitely comeback and recommend.	Best massage ever! So kind and worth it. Very clean and calming music	Very satisfying 1hr oil massage. Good balance of strength and on point. Private clean room with proper massage table. Went there at 3.35pm and got discounted price. A place to go for a proper massage in this a area. 

@@ -1,0 +1,83 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+お店（Baan Massage）を以下の形式でロシア語で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- ロシア語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/ru/temp/10_best_foot_massage_in_ko_samui_2025/sections/10/ru/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+Urban Thai Massage - Fisherman Village
+・Rating: 4.6
+・Highlights: Professional and friendly staff, very clean and tranquil setting, some rooms offer beautiful sea views, known for foot massages and couples treatments, specific therapists often praised (Nee, Man, Laura).
+・Price: Mid-range (described as slightly more expensive but fair/reasonable by reviewers).
+・Recommended: Couples or individuals seeking a professional massage experience in a clean environment with potential sea views, willing to pay a bit extra for the ambiance.
+
+Eve's Boudoir Massage & Nail
+・Rating: 5.0
+・Highlights: Exceptional service across massages and beauty treatments (nails, lashes), highly skilled and attentive therapists (Nim, Lee, Nee, Beauty frequently mentioned), very clean and professional salon, relaxing atmosphere with thoughtful touches (foot wash, tea).
+・Price: Good value/Fair price mentioned by reviewers.
+・Recommended: Those seeking a high-quality, comprehensive spa experience including massages, manicures, pedicures, or eyelash extensions in a very clean and professional setting.
+
+Nakee Thai Massage
+・Rating: 4.8
+・Highlights: Highly skilled, professional therapists known for effective massages (Noi, Rin frequently mentioned), strong reputation for pain relief and deep tissue work, offers pregnancy massages, clean and modern environment.
+・Price: Fair/Reasonable.
+・Recommended: Individuals seeking therapeutic, high-quality massages (including deep tissue and pregnancy) from skilled practitioners in a clean setting.
+
+Ning 's home massage
+・Rating: 4.8
+・Highlights: Beautifully decorated, bright, and very clean space, friendly owner (Ning) and staff creating a welcoming atmosphere, high-quality massages (Thai Oil popular), thoughtful extras like tea and snacks.
+・Price: Standard street salon prices, considered great value.
+・Recommended: Visitors looking for a high-quality massage in a beautifully designed, clean, and friendly environment at affordable prices.
+
+Sodsai Health Massage Branch 2
+・Rating: 5.0
+・Highlights: Exceptionally skilled therapists often described as having "doctor's skills", effective for relaxation and addressing health issues/pain, professional and attentive service, caters well to specific needs (pregnancy, injuries), clean environment.
+・Price: Very reasonable, slightly higher (50 baht) for some services but considered excellent value.
+・Recommended: Anyone seeking highly effective, therapeutic, or relaxing massages from exceptionally skilled professionals, including pregnant individuals or those with specific pain points.
+
+Sea-Sand Massage
+・Rating: 4.9
+・Highlights: Consistently high-quality massages, particularly deep Thai massage, skilled therapists with strong hands (Patty, Ve mentioned), clean, quiet, and relaxing atmosphere, attentive and respectful service.
+・Price: Fair/Standard pricing.
+・Recommended: Individuals looking for strong, effective therapeutic or deep tissue massages in a clean, quiet, and respectful spa environment.
+
+Urban Thai Massage - Chabad House
+・Rating: 4.7
+・Highlights: Professional and skilled staff (Big, Jib, Leena, M, Mam, Rue mentioned), clean and well-maintained facilities, offers a variety of massages including effective deep tissue and hot stone, good for couples.
+・Price: Reasonable/Mid-range (mentioned as more expensive than some but fair).
+・Recommended: Those seeking professional, strong massages (including deep tissue and pain relief) in a clean, well-equipped spa environment.
+
+Urban Thai Massage - Central Samui
+・Rating: 4.5
+・Highlights: Clean environment with premium feel, some rooms offer sea views, comfortable armchairs for foot massages, skilled therapists capable of strong pressure (Wood, Bella, Tao mentioned), good range of massage options.
+・Price: Reasonable/Mid-range.
+・Recommended: Visitors looking for a professional massage (including deep tissue) in a clean, ambient setting, potentially with sea views.
+
+Coconut Paradise Spa
+・Rating: 4.5
+・Highlights: Skilled and friendly therapists (Et, Noi mentioned), effective deep tissue and foot massages, clean and professional environment, good location in Fisherman's Village.
+・Price: Average/Mid-range (e.g., 500-550 THB for deep foot/leg).
+・Recommended: Those seeking effective deep tissue or foot massages in a clean spa, though potentially noisy due to nearby clubs.
+
+Baan Massage
+・Rating: 4.7
+・Highlights: Very friendly owner and staff, clean and calming atmosphere set back from the main road, excellent quality massages (Thai hot compress, coconut oil popular), good value for money, thoughtful service touches (foot wash, tea).
+・Price: Local/Affordable prices, great value.
+・Recommended: Visitors seeking high-quality, relaxing massages (including hot compress) in a friendly, clean, and calm environment at reasonable prices. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20
+Baan Massage	4.7	320	https://places.googleapis.com/v1/places/ChIJCaL7OkHxVDARcMk86C-qs_g/photos/AeeoHcJiQdWu4vvUobPxXu_BP6VJizsCprqHZiRTmJWvaN6fmqm8L5n2E3ooWCWdQ5cY3nqoRpQ1fqmPfuBvqTWcm1RIXyyAZXO0EFDIe78eKT7rM_eO0owCGYGWSOcnw33KrQoLoOKbOkpg-b4mXfPF0Inxwhm0BbRB4IUfO5Gr5ToNI3RNlJAvnrSKVUAjzqZFioM8WRE3srJziSfkSglXyiBBz2oe-AA7WQDpcjKhawyfAgKfE1R0mvkq9kAbhR_uTk-YWBbKvofhVBYUeZfV1XKjAUDOvL4E1YBvpewDdWkdpctuqLFBYavshooH6id54RIzsiWJ3gbXe3Or2_-KIHV1-7nYhsN84c5K7Nk7L_kWeQXvXO30T1HBRHhlk8bSXIRlqPlO-S_PMVAOmCbQx35pAnzrRai-qeB3DqUJviEeiA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJCaL7OkHxVDARcMk86C-qs_g/photos/AeeoHcL1Q3kGAP63mWVNOn8nJNgZzRBZg2W1A_Qv6qaMZWrfXwqdXIx_7lW0CKu1WRw9UePA1rP3XVDArX6bN225P7emBCNjMQNkKNWH2yJmwRLb4NdDxxDr25lrvpWxX3d1GdK0K4tAeCi_VUZsX1ejepjHrVSpDD9aTu30gbn4QLLZWCjEQIND37VNHrRvwGd-gViIHQrQfpnlYgNj4hDe3ficaOLnZ-qRcdLwY2wH9Vdp8F14EGZzG-orfiAjyNeD_z9ulku6rLFWDCWWsZu15DT4qb95joRAhT4qj8mVQ3pKC3sbTpHE1cvnbA3MbykBm8d9n-maFVrUVs27UnHb5POsCM6SyIS_7-5dfrhgO2zrY8TGY2TFCIaiDRabpWmI1MfDyZ6WDgrauvmwVTU4S3HtXj-3fe-VYY1HdLY7mUvV0g/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJCaL7OkHxVDARcMk86C-qs_g/photos/AeeoHcKHYIP3KXs3G9oYmz7fOf3M5mOXBVzhCTdXhPHOlDDgokrTmyVHiz0XkfmGnMZ1tMBkYt7KTajuoM8KqIpGzXLkNlKqAkeRnkd2L4yd7usDiPVf2qkyk7lzgOc8K8wqvXT_W-IE3BDn4nXGz1BITHvsmJekcGmU4J9SIn55LNXFOmJiFCgEIwa5o9GtC0DW3VitLrxNLZfq-9sK6dnUcfxdKqTuTxS-PLtP0d4zw94PUgb0LKin3ZRzerCjnIbfV8O1lok_4Wxc9fmLK_HxUq4GY81Gd937Ig6dY8JJxOkOidGKWRKTA_Uz18S4arvb9pRDl4vp2Ql2CNSekgsjD2UkLOJ7Yw_V6BGhkiGQ2RiaqZXMY8PGGD-CP2D7eowGSe3RPVCD_hNGPKF4q98er_1oF0kLuvIxXytlt3afuaHe8w/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJCaL7OkHxVDARcMk86C-qs_g	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJCaL7OkHxVDARcMk86C-qs_g&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJCaL7OkHxVDARcMk86C-qs_g&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Best Thai massage I ever had in my last 3 years. I had massage with coconut oil and it was amazing, very refreshing and relaxing. I love her technique and detailing. Worth the price. Will definitely comeback again!  Thank you so much.	Came with my 17 years old daughter twice during my 1 week stay.  We did 60mins back, shoulder and head massage first time. It was good with the right pressure although some part can be quite deep press.  Second time I did 60mins foot massage and my daughter did 60mins coconut oil massage. For my foot massage, it wasn't as painful as some places which was great for me and it came with a 5mins back and head massage as well. For my daughter, the coconut massage was really good and she fell asleep! There is more oil as compared with back, shoulder massage and hence much more comfortable and relaxing.  Overall the experience was fantastic and highly recommend for the price which was worth it! 	This place is amazing. Great prices and very great massage- I have had many all over Thailand.  Foot scrub was also fantastic to get off all the gunk from beaching the last few weeks.  Highly recommend! The herbal tea at the end was very delicious. 	Lovely manager and staff. Went for the coconut cream massage for 90minutes. This was more relaxing and not deep/g Hard massage. My husband enjoyed his massage. I was a little bit cold throughout the experience due to the aircon. Make sure you mention that you're cold or need softer/harder pressure. We recommend this place. 	We recently visited the Thai massage studio and had mixed experiences. I tried the coconut oil massage and was absolutely thrilled! The massage was wonderfully relaxing, felt amazing, and I left feeling completely refreshed.  Unfortunately, my wife didn’t have such a good experience with the head massage. After the treatment, she had extremely red spots on her scalp and felt pain, which definitely shouldn’t happen.  The atmosphere and service were overall pleasant, but we would recommend discussing any sensitivities or specific needs in advance. 	My partner and I both had a 90-minute Thai hot compress massage and they were amazing. It was like a mix of oil massage, Thai massage and compression with the hot compresses which further relaxed our muscles. So relaxing and 100% worth the price. Highly recommend! 	AVOID AT ALL COSTS! We were regular customers here for over 5 months. Me and my sister went for a 90 minute oil massage for 450 baht each. At the end of the massage the owner tells us that the massage is 600 baht each, as her staff said we chose the deep tissue massage. The owner said she didn’t care about what happened, all she cared for, was her 1200 baht. Now you have lost regular customers. Save yourself getting scammed here and go to another massage shop. 	We visited Baan Massage several times in one week (including Thai Massage, Aloe Vera Massage, and Head, Neck, and Shoulder Massage). While the range of massages and prices may be similar to other places in the area, the exceptional service sets Baan apart. From the relaxing foot wash at the start, the calming atmosphere—close to the main road but not directly next to it—the tea served at the end, and, of course, the outstanding quality of the massages, everything made this a truly enjoyable experience. Highly recommended! 	Just the best Thai Massage on Koh Samui!  The boss and the staff are very friendly and will relieve you of your pain! The prices have remained local compared to other Thai massage parlors. I've been there four times in the last week and will go again as soon as I'm back on Koh Samui. Simply super! Thank you very much :) 	It was very cold, I asked to turn off the aircon (we were alone), they didn’t listen. I had Thai with Coconut Oil, it was VERY light. When I had my “relaxing oil massage” at Zen Nassage, it was much harder than “medium Thai massage” here. I was disappointed 	very beautiful property & shop they have here. warm greeting & foot wash outside. great menu of treatments available & good prices. large proper massage tables & knowledgeable staff. climate-controlled & soft ambient music. recommended 	I visited this massage studio on Koh Samui because of its 4.7 Google rating, but I would personally rate it lower. The massage was generally good, but not exceptional. The background noise from the busy street was noticeable, and the masseuse occasionally chatted with her colleague, which disrupted the relaxation. Overall, it was a decent experience, but not outstanding. Next time, I’d try a different massage studio nearby. 	Excellent foot massage. Very relaxing. 	Great place for a good massage. Average prices, I had a girl who did a 1h Thai + 30min shoulders massage = 500bath. Feels amazing. The place is located aside from the road so it’s quite peaceful. Offered tea & water after. 	We would give them 10 stars if we could! The absolute best massage we had while in Thailand. Clean facility, very friendly people and amazing tea to end the experience. We had a traditional Thai massage and deep tissue. Both were incredible we would definitely go back again. 	Me and my wife went here. She got the aloe Vera massage, as we are two people from Scotland visiting Thailand and she ended up with sun burn and thought this would help, she was not disappointed!  I went for the Thai massage, as a fairly active guy who likes the the gym I thought it would loosen me up.  We walked in without booking and were seen to straight away.  We were kept together during our massage.  The staff were friendly and light hearted.  My massage was a really good deep one.  I’ve been to loads of massage places over the years, this one really is genuinely good.  The price was 400baht for mine, which is incredibly reasonable. 	Great massage. We went twice. 	They have a great menu of massages and treatments. My partner and I visited twice during our vacation, and between us had the foot spa, deep Thai massage, Thai oil massage, and aloe massage. Very professional service, good value, and AC in the massage rooms. Highly recommended, would definitely return if in Samui. 	They have a great menu of massages and treatments. My partner and I visited twice during our vacation, and between us had the foot spa, deep Thai massage, Thai oil massage, and aloe massage. Very professional service, good value, and AC in the massage rooms. Highly recommended, would definitely return if in Samui. 	This is my favourite place on Koh Samui. So clean, and the ladies are so helpful. Best massages ever. I go there almost twice a week 😉 … 

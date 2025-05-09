@@ -1,0 +1,83 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+お店（Sansabai Massage 3 in Thairapy zone in Jungceylon）を以下の形式でロシア語で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- ロシア語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/ru/temp/14_best_foot_massage_in_phuket_2025/sections/6/ru/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+We Wealth Health Massage and Beauty
+・Rating: 4.8
+・Highlights: Skilled therapists adept at addressing specific pain points, offering a wide range of massage types including deep tissue and aromatherapy. The shop is praised for its relaxing atmosphere, private rooms, and thoughtful touches like herbal gels for injuries. Complimentary tea and biscuits, plus a nearby cafe, add to the experience. Reasonable prices and consistently high service standards, though some variability in therapist quality.
+・Price: Reasonable
+・Recommended: Ideal for those seeking targeted relief from pain or tension, and anyone wanting a relaxing, well-rounded massage experience in a welcoming setting.
+
+Hatha Massage Patong
+・Rating: 4.7
+・Highlights: Popular, centrally located shop with experienced, professional staff. Clean, comfortable environment with no aggressive street solicitation. Flexible with families and children, and offers a variety of massage styles. Consistent quality and fair prices, with deep relaxation and attentive service noted by repeat visitors.
+・Price: 350–500 baht for 60 minutes
+・Recommended: Great for families, couples, and travelers looking for a reliable, no-nonsense massage in the heart of Patong.
+
+Healthland
+・Rating: 4.6
+・Highlights: Authentic, rustic Thai massage experience with highly skilled, experienced masseuses. Not a luxury spa, but known for effective treatments, especially for injuries and chronic pain. Clean, welcoming, and affordable, with a loyal local and tourist following. Some mixed feedback on therapist style and communication.
+・Price: Affordable
+・Recommended: Best for those seeking genuine Thai massage and therapeutic relief, rather than a luxury spa environment.
+
+NAYA Thai Massage Phuket Town
+・Rating: 4.9
+・Highlights: Exceptionally friendly and professional staff, with therapists who listen to client needs and adjust pressure accordingly. Clean, cozy shop with complimentary tea and biscuits. Highly recommended for deep tissue and sports massages, and praised for healing back pain and providing attentive care.
+・Price: Affordable, cheaper than surrounding area
+・Recommended: Perfect for those needing personalized care, sports recovery, or a welcoming first-time Thai massage experience.
+
+Body Works Thai Massage Patong 2
+・Rating: 4.9
+・Highlights: Detailed, thorough massages with attentive therapists who check on client comfort. Calming atmosphere, friendly staff, and a reputation for both deep tissue and relaxing massages. Some variability in pressure preference, but overall high satisfaction and value for money.
+・Price: Good value
+・Recommended: Suited for those who appreciate attentive service and want a thorough, relaxing massage in Patong.
+
+Sansabai Massage 3 in Thairapy zone in Jungceylon
+・Rating: 4.9
+・Highlights: Highly professional, clean, and skilled therapists. Wide range of massage options, including migraine and deep tendon treatments. Excellent for both individuals and groups, with a reputation for consistent quality and customer care. Reasonable prices and a welcoming environment.
+・Price: 400–450 baht for 60 minutes
+・Recommended: Ideal for those seeking top-quality massage in a busy shopping area, including groups and those with specific therapeutic needs.
+
+Tonpho Thai Ta Massage
+・Rating: 4.8
+・Highlights: Clean, relaxing space with skilled and caring therapists. Known for strong, effective massages and a welcoming, soulful atmosphere. Staff are attentive to client requests, and the shop is praised for its professionalism and legit services. Occasional feedback on therapist matching and pressure.
+・Price: Standard
+・Recommended: Great for locals and visitors seeking a genuine, strong Thai massage in a friendly, no-nonsense environment.
+
+SAMA Onsen & Massage
+・Rating: 4.8
+・Highlights: Unique combination of Japanese onsen and Thai massage. Impeccably clean, beautifully decorated, and highly accommodating to special requests. Therapists are professional and attentive, and the onsen experience is deeply relaxing. Complimentary herbal teas and a hidden-gem atmosphere.
+・Price: Good value
+・Recommended: Perfect for couples or anyone wanting a rejuvenating spa day with both onsen and massage in a tranquil setting.
+
+Charm Massage
+・Rating: 4.7
+・Highlights: Luxurious experience at a reasonable price, with private spaces and attentive staff. Clean, professional, and welcoming, with thoughtful extras like cold towels and herbal tea. Some variability in service, but generally high satisfaction and comfort.
+・Price: 390 baht for foot massage (Jan 2025), slightly higher than average
+・Recommended: Ideal for those seeking a pampering, comfortable massage in Old Town, with a focus on cleanliness and relaxation.
+
+Kim's Massage & Spa 12 Old Town Thalang Road
+・Rating: 4.6
+・Highlights: Serene, clean, and professional environment with a variety of massage options. Therapists are generally skilled and attentive, with some variability in pressure and communication. Good value for spa packages, and a quiet, calming atmosphere in a convenient location.
+・Price: US$24 for 2 hours, affordable packages
+・Recommended: Best for those wanting a peaceful, no-frills massage experience in Old Town, especially after a day of sightseeing. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+Sansabai Massage 3 in Thairapy zone in Jungceylon	4.9	1356	https://places.googleapis.com/v1/places/ChIJj1DN-kw7UDARBnZm6dU-tqA/photos/AeeoHcJM2Yp6S0joi7Xv_NKvD74avatZjkcpMTu2IRjNgIyR-0kbwxrpcax6B-vDh66DzDprTSfYlnOsM7ck4l7Gmzx-mC3rIkzfLbbevibHCadMHTjpeW5R9MRj-0RV36tVF61VcKURgSaXJpkp3Sr-BTK6eDBSxFgeOVIX7lmrTSJOgXxG2YxqFJnIuBcBI403qTKpTrO9pUkQRCo4Il_yjpOy71glN1hZgLxR_zNURtTkLzKHFnSSE2ytgU-L6FQ_gxsn_aTAqehqIYYlw_ZLOaGvIsMgJHlsLctBGtzxD88gqIuKyv4WrTKSi2e9hEXEiJCo-4zJJ8iUNO9mAlPk4Z1z4_fr593u_R255omgcTqqSogumJDbUf5iWf5SryjJ6U5inxeB7A3ty4YAez2O8TydUmCmN_LmLBlWbmxHS34vTg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJj1DN-kw7UDARBnZm6dU-tqA/photos/AeeoHcL9mGGeqa2ZGgtL3v95VwFa9NEWpK0yjFnUjUbuFi8t9eoOIqdfAWMFIcpMnTszmMo5cJqMC8rpI8O1MnOi0He3BoHwjCCGy33HtEJKkaISP4C2xtDuBygQt8o7-ptjmqMdRiwEyLWUL555fwMDIrzYBcHrgP8X7abtEoBqKeRmGeAhumVFrgtCj_y8h34WKWI9NxVdJDzmaMdAhksT4k_z7yw7kwJtv94YhbFNhKkbLdrwCR7a5w2KNIE0ARh9cHXEMShcP9A09Wh9cE2Jv38Zlh-wAUb1TSgnN33mO0ka3KSP6T7PsuESwkYr8TaTQd3ZDrYkVyfi3N9tSpGq5XldYHymfdlb4KQ5NOpC6cUIQonYhNhIYoVUo0zA1qLL9sypRmlbk_1qqkxKZ4esUjEZ4z8zYZ-jyZUkDJBMrh4/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJj1DN-kw7UDARBnZm6dU-tqA/photos/AeeoHcIqvtlR75gYEXR_RQkojks8sP9herblm6HnrQuMj1utDxUtHO0UfrNInmZpJ4OoWm3mDttHARiC_RngZA2JNV7uiJ1EyKMEFm0Q6n-qe7fBBxJB42m1aSHjzd3_tqb_5s26EclTTwIEd2UR5IaEZBLloIbQ8esuW28a0_JiDAuKEJaFmAh-YVhX7Z1nm4_rAu38ZPcl797Getu6QG0KGZbpvNgOnfFAUmrgCL0Ox6pikfLBlf06MfP13Qb-ef8p4fGJABvZbFdKdbfFAr81eadIKs7fQakvkfeEhJ95yT_bhtSKENNPmeXpkN4ckMmXfYRWrmmp_wSPCcYGd9kaqDZMN0jPKhHJMItE_W-VrjmD773NSPIgdkM4iD5GYsFKp0jMQCXa7-rR88fzzZ6Fzt1bQ_TWYyAqa-Ax88H1X69BEA/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJj1DN-kw7UDARBnZm6dU-tqA	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJj1DN-kw7UDARBnZm6dU-tqA&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJj1DN-kw7UDARBnZm6dU-tqA&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	AnnaLocal Guide · 88 reviews · 240 photos3 months ago Best massage ever in Thailand. Very professional  clean  and amazing maseus. Don't waste your time in other places  we tried a few places but nothing matched the quality here!Like1 Share	Shreya GokarnLocal Guide · 104 reviews · 166 photosa month ago BEST SPA MASSAGE I HAVE RECEIVED IN ALL OF THAILAND! Being a massage therapist myself  i have a lot of areas that needed attention. My therapist  Dee was super amazing! She paid attention to the pain areas and worked on each knot patiently. … MoreLike Share	CHI WAI KWOK1 review · 1 photo4 months ago Great place. Therapist Aonny is very nice and professional. After powerful massage feeling so relax and refreshed. Recommend migraine massage and Thai deep tender massage.Like2 Share	Coris GohLocal Guide · 414 reviews · 563 photos3 months ago Had a one-hour foot massage for 400 baht and loved it! My masseuse was super professional  really strong  and totally worked out the soreness. I'll totally be back.Like2 Share	Or WeinsteinLocal Guide · 47 reviews · 70 photos2 months ago Excellent massage! Thin was an amazing therapist and I had one of the best massages I have ever had. … MoreLike1 Share	Chloe Wong9 reviews · 9 photos2 months ago Our group of two opted for the 60-minute head  shoulder  and foot massage (450 baht each)  and the massage itself was excellent. The masseuses were highly skilled  and we really enjoyed the quality of the treatment. In fact  the massage was … MoreLike1 Share	Noel AbrahamLocal Guide · 17 reviews4 months ago This place is amazing. My partner and I got a foot massage twice. The ladies did an amazing job. The receptionist is very kind and clearly explained what treatment/therapy would suit us the best. My partner had swollen feet due to our long … MoreLike1 Share	Nicholas Tan8 reviews · 13 photos3 months ago Came here twice in 4 days; did a deep tendon massage during the first time and a hot stone full body massage + head/neck/shoulder + foot massage combo during the second session. … MoreLike1 Share	JMLocal Guide · 293 reviews · 622 photos2 months ago Fantastic  got a foot massage here which was relaxing and service was very good for the priceLike1 Share	Ai Hua2 reviews · 4 photosa year ago Please keep up this level of quality massage and customer service! I've gone to at least 3 massage spas during my 10-day trip across Bangkok & Phuket this time and this spa - by far - provides the *best* Thai massage and … MoreLike2 Share Response from the owner a year agoThanks you very much for your great review  we look forwarx to seeing you again.	Best massage ever in Thailand. Very professional  clean  and amazing maseus. Don't waste your time in other places  we tried a few places but nothing matched the quality here!	BEST SPA MASSAGE I HAVE RECEIVED IN ALL OF THAILAND! Being a massage therapist myself  i have a lot of areas that needed attention. My therapist  Dee was super amazing! She paid attention to the pain areas and worked on each knot patiently. …	Great place. Therapist Aonny is very nice and professional. After powerful massage feeling so relax and refreshed. Recommend migraine massage and Thai deep tender massage.	Had a one-hour foot massage for 400 baht and loved it! My masseuse was super professional  really strong  and totally worked out the soreness. I'll totally be back.	Excellent massage! Thin was an amazing therapist and I had one of the best massages I have ever had. …	Our group of two opted for the 60-minute head  shoulder  and foot massage (450 baht each)  and the massage itself was excellent. The masseuses were highly skilled  and we really enjoyed the quality of the treatment. In fact  the massage was …	This place is amazing. My partner and I got a foot massage twice. The ladies did an amazing job. The receptionist is very kind and clearly explained what treatment/therapy would suit us the best. My partner had swollen feet due to our long …	Came here twice in 4 days; did a deep tendon massage during the first time and a hot stone full body massage + head/neck/shoulder + foot massage combo during the second session. …	Fantastic  got a foot massage here which was relaxing and service was very good for the price	Please keep up this level of quality massage and customer service! I've gone to at least 3 massage spas during my 10-day trip across Bangkok & Phuket this time and this spa - by far - provides the *best* Thai massage and …	ChIJj1DN-kw7UDARBnZm6dU-tqA 

@@ -1,0 +1,97 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+Ко Тао: Топ-10 массажей стоп 2025というタイトルに相応しい魅力的なアウトロ（まとめ）を書いてください。
+
+制約:
+    • 自然なロシア語で、個人ブログのような、実際にタイに住んでいる人の目線で書いてください。
+    • 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+    • イントロの次に記載する[マッサージ店の特徴まとめ]の内容を、参考にしてください。
+    • カジュアルなトーンで、親しみやすい雰囲気で書いて。ただし、馴れ馴れし過ぎないようにしてください。
+    • ブログのターゲットは、この2パターン
+        1. タイへの旅行客
+        2. タイに既に在住している人
+      これらの人の興味を引くような内容にしてください。
+    • このブログの執筆者は、タイに3年住んでいて、この個人的な経験を活かすようにしてください。
+    • 
+    • このブログの目的は、informational（情報提供）です。セールスやPRではありません。
+    • 300から400字になるようにしてください。
+    • 印象、感情、感想、体験などには、<strong><u></u></strong>と言うタグをつけて、読者にわかりやすくしてください。ただし、4-6回程度の頻度にして、文章として自然になるようにしてください。出だしの1文目には、必ず入れるようにしてください。
+    • 前後に余計な情報を加えないでください。ブログのまとめ部分だけを出力してください。
+    • 読みやすいように、2, 3文に一回は改行を入れてください。
+    • パラグラフは、このフォーマットにしてください： <!-- wp:paragraph --><p>（ここに文章が入る）</p><!-- /wp:paragraph -->
+    • "タイのフットマッサージとは？なぜ皆が魅了されるの？"と言うタイトルの、同じブログの別記事のリンクを挿入してください。これ以外のリンクは挿入しないでください。
+
+リンク挿入について:
+    下記のようなスタイルで、自然にリンクを挿入してください：
+    <p>[ここに、短く、興味を引くような文章を書いてください。: <a href="https://my-bangkok-life.com/ja/%e3%83%90%e3%83%b3%e3%82%b3%e3%82%af%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%83%95%e3%83%83%e3%83%88%e3%83%9e%e3%83%83%e3%82%b5%e3%83%bc%e3%82%b810%e9%81%b8/">[ここにアンカーテキストを入れてください。]</a>]</p>
+    次の行に、下記のようなワードプレスのembed blockを書いてください。:
+
+    <!-- wp:paragraph -->
+        <p>
+        <!-- wp:embed {"url":"https://my-bangkok-life.com/ja/what-is-thai-foot-massage-2/","type":"wp-embed","providerNameSlug":"my-bangkok-life"} -->
+            <figure class="wp-block-embed is-type-wp-embed is-provider-my-bangkok-life wp-block-embed-my-bangkok-life">
+                <div class="wp-block-embed__wrapper">
+                    https://my-bangkok-life.com/ja/what-is-thai-foot-massage-2/
+                </div>
+            </figure>
+        <!-- /wp:embed -->
+        </p>
+    <!-- /wp:paragraph -->
+
+Output:
+translation/ru/temp/17_best_foot_massage_in_koh_tao_2025/sections/conclusion/conclusion.html
+
+[マッサージ店の特徴まとめ]
+Manara Massage (Royal thaï massage)
+・Rating: 4.6
+・Highlights: Serene ambiance enhanced by essential oil scents; skilled therapists adept at identifying and relieving problem areas; customizable pressure levels (soft to strong); complimentary tea offered post-massage.
+・Price: Good value for money (based on reviews).
+・Recommended: Couples, individuals seeking targeted massage therapy tailored to pressure preferences, or those looking for excellent value.
+
+Koh Tao Island massage
+・Rating: 4.4
+・Highlights: Prime beachfront setting ideal for sunset views and relaxation with wave sounds; skilled application of soothing ointments (like Tiger Balm); reputed for effective foot massages; nail services also available.
+・Price: Around 300 THB for a 1-hour aromatherapy massage (based on one review).
+・Recommended: Those desiring a massage with scenic ocean views and sounds, particularly foot massages or aromatherapy. May be less suitable for those needing high privacy or complete silence.
+
+Kinnaree Massage
+・Rating: 4.6
+・Highlights: Exceptionally skilled therapists known for therapeutic results, including improving mobility; clean, calm, and inviting atmosphere; offers a diverse range of effective massages (Aloe Vera highlighted); post-massage tea service enhances the experience.
+・Price: Fair price (based on reviews).
+・Recommended: Visitors with specific muscle pain or back issues, those seeking highly skilled therapeutic massage, and repeat customers valuing consistency.
+
+Mai Thai Health Massage
+・Rating: 4.6
+・Highlights: Highly professional and skilled therapists, especially proficient in addressing injuries and sore spots; combines strong and precise techniques; clean, air-conditioned space with relaxing jazz music; complimentary tea provided after massage.
+・Price: Reasonably priced (based on reviews).
+・Recommended: Individuals seeking professional, skillful massage, particularly those with specific aches, pains, or injuries requiring focused attention.
+
+Massage koh tao supakorn
+・Rating: 4.6
+・Highlights: Consistently excellent massages, especially Aloe Vera and Thai Oil, delivered by skillful and attentive staff; relaxing atmosphere aided by calming music; personalized service including post-massage tea; features strong therapists like Mai known for relieving soreness.
+・Price: Around 400 THB for a 1-hour Thai Oil massage (based on one review); Aloe Vera massage noted as gentle.
+・Recommended: Those seeking skillful Aloe Vera massage (especially after sun exposure) or a strong, effective Thai Oil massage; appreciated by repeat visitors for consistency.
+
+Paradise Massage
+・Rating: 4.5
+・Highlights: Prime beach location offering massages accompanied by soothing wave sounds; friendly and accommodating staff provide a no-frills, authentic experience; recognized for providing good value massages.
+・Price: Good value / Affordable (based on reviews).
+・Recommended: Visitors prioritizing a beachside ambiance and affordability over luxury amenities or strict privacy; favored by regulars familiar with specific therapists.
+
+Kayo healing massage
+・Rating: 4.5
+・Highlights: Highly-rated massages, particularly foot massage incorporating reflexology (therapist Spi noted) and effective Thai massage (specific male therapist recommended); prime beachfront location with sea views; friendly service includes post-massage tea; very reasonable prices. Also offers quality nail services with a view.
+・Price: Around 300 THB for 1hr massage (consistently mentioned in reviews).
+・Recommended: Those seeking excellent value massages, especially foot reflexology or strong Thai massage, combined with a beachfront setting. Also suitable for quality nail services with a view.
+
+Familly Thai Massage
+・Rating: 4.6
+・Highlights: Consistently exceptional and professional massages from therapists often described as having "magical hands"; known for providing deep relaxation and effectively targeting sore spots; comfortable, quiet, and well-maintained environment.
+・Price: Good value / Reasonably priced (based on reviews).
+・Recommended: Visitors seeking top-tier, highly professional massages focused on deep relaxation and pain relief.
+
+Majestic Spa
+・Rating: 4.3
+・Highlights: Offers a spa-like experience with professional service and attention to detail (intake forms, changing rooms, lockers, post-massage tea/towel); highly skilled therapists provide effective massages (Thai, foot, back); clean, beautiful facilities with comfy beds; Tiger Balm included in Thai massages.
+・Price: Higher-end price, reflecting spa amenities (based on reviews suggesting it's "worth the price").
+・Recommended: Those seeking a more luxurious spa experience with extra amenities, focusing on professionalism and comfort; effective for relieving desk job-related muscle knots.

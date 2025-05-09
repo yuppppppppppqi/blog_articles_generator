@@ -1,0 +1,83 @@
+必ずロシア語で出力してください。日本語で出力しないでください。
+
+お店（Cho Kaew Thai Massage）を以下の形式でロシア語で要約してください（全体で5行）
+・評価
+・価格
+・おすすめ（どんなお客さんに理想的かを簡潔に）
+・まとめ：
+　- レビューを参考にはしても構いませんが、表現をコピーせず、リアルな体験を反映したオリジナルの要約にしてください。
+　- 文字数には必ず注意し、200〜250の範囲内に収めてください。
+　- この文字数を超えたり下回ったりしないでください。
+
+制限
+　- ロシア語で書いてください。
+　- 上記の形式に徹して、必ず5行で書き、余分な文章は付け加えないでください。
+　- 出力は自然で会話調、感情がこもった、本物の人間が書いたような文章にしてください。
+　- 当たり障りのない一般的なことを言うのは避けてください。
+　- 出力: このファイルに保存してください。 "translation/ru/temp/18_best_foot_massage_in_chiang_rai_2025/sections/2/ru/summary.txt"
+　- 他のお店との違いや、個人的に特筆したい点は<strong><u></u></strong>タグで囲ってください。
+　- ただし、使いすぎには注意してください。読者の注意を自然に引くような箇所のみに使用し、全体の文章を圧迫しないようにしてください。
+
+นารายา นวดเพื่อสุขภาพเชียงราย Naraya Massage&Relax Chiangrai
+・Rating: 4.1
+・Highlights: Offers a convenient second location right at the night market. Reviews are mixed, with some customers praising excellent massages (especially foot and head/neck/shoulder) while others report inconsistencies in quality and duration. Staff are generally friendly and communication in English/Chinese is possible.
+・Price: Budget-friendly (around 250 THB/hour mentioned).
+・Recommended: Visitors looking for an affordable massage near the night market, though experiences may vary.
+
+Cho Kaew Thai Massage
+・Rating: 4.2
+・Highlights: Praised for amazing and effective foot massages, often including complimentary neck/shoulder massage and tea. Massages are described as firm, strong, and relaxing, leaving customers feeling renewed. Polite staff and quiet atmosphere enhance the experience.
+・Price: Budget-friendly (Good price mentioned, though specific cost not detailed in provided reviews).
+・Recommended: Those seeking a thorough, firm massage, particularly foot massages, in a tranquil setting at a good value.
+
+เชียงรายไรซิ่งซัน นวดเพื่อสุขภาพ ChiangRai Rising Sun Massage
+・Rating: 4.8
+・Highlights: Consistently rated as one of the best massage experiences in Thailand by reviewers. Known for professional, respectful service and highly skilled masseuses, including the owner. Offers a serene ambiance with thoughtful touches like foot baths with lime, tea, and biscuits. Praised for finding the right pressure and effectiveness, especially for oil and Thai massages.
+・Price: Mid-range (400 THB/hour mentioned for oil massage).
+・Recommended: Visitors seeking a high-quality, professional, and serene massage experience, particularly those looking for skilled oil or Thai massages.
+
+คำแปง นวดเพื่อสุขภาพ เชียงราย Kham Paeng massage chiang rai
+・Rating: 4.9
+・Highlights: Frequently described as offering one of the best Thai massages ever, often exceeding expectations for the price. Masseuses are noted for good pressure, finding and focusing on problem areas, and providing a relaxing, spa-like experience. Some confusion noted regarding pricing based on massage pressure.
+・Price: Budget-friendly (200 THB/hour for Thai massage mentioned, though potential extra cost for 'hard' massage noted by one reviewer).
+・Recommended: Those looking for an exceptionally good and relaxing Thai or oil massage at a very affordable price.
+
+เชียงรายสเตชั่นนวดเพื่อสุขภาพ Chiangrai massage
+・Rating: 4.8
+・Highlights: Highly regarded for strong, deep, and thorough massages, particularly Thai and sports massages. Therapists are skilled, attentive to requests, and effective at targeting muscle tightness. Clean environment and reasonable prices are noted, though a couple of reviews mention negative experiences with specific therapists or uncleanliness.
+・Price: Budget-friendly (200 THB/hour mentioned).
+・Recommended: Individuals seeking a strong, deep tissue massage at a great price, prepared for potentially intense pressure.
+
+เชียงรายเทอร์มินอล นวดเพื่อสุขภาพ
+・Rating: 4.6
+・Highlights: Offers phenomenal, thorough, and professional massages, particularly Thai and foot massages. Masseuses are noted for being attentive to sore spots, leaving customers feeling rejuvenated. Very affordable pricing. Some negative reviews mention unprofessional staff behavior.
+・Price: Budget-friendly (Very affordable mentioned).
+・Recommended: Value-seekers looking for a thorough and effective massage, particularly Thai or foot massage, though some staff interactions might be inconsistent.
+
+Chamonpond Massage
+・Rating: 4.4
+・Highlights: Run by a local Akha family, offering very good, strong, and firm massages, especially foot massages, often cited as the best experienced in Thailand. Staff are friendly and skilled, providing intuitive treatments. The interior is unassuming, but the massage quality is highly praised. Some suggestions for improving ambiance (foot wash, face cradles).
+・Price: Budget-friendly (Cheap mentioned).
+・Recommended: Guests prioritizing skillful, strong massage (especially foot massage) over luxurious ambiance, offered by a friendly local family business.
+
+GRAND SPA แกรนด์สปา
+・Rating: 4.9
+・Highlights: Delivers an exceptional spa experience from start to finish with polite, professional staff and a peaceful, clean atmosphere. Offers customizable treatments (choice of oils, focus areas) and is praised for relaxing yet effective massages (Thai, foot, head, aroma oil). Complimentary tea and excellent reception add to the experience.
+・Price: Mid-range to Premium (Considered slightly overpriced by one reviewer compared to others nearby, packages available).
+・Recommended: Those seeking a premium, customizable spa experience with excellent service and a relaxing atmosphere, suitable for couples or individuals wanting pampering.
+
+Chiang Rai Nice Massage
+・Rating: 4.9
+・Highlights: Consistently described as providing one of the best massage experiences, with highly skilled, attentive, and intuitive therapists (especially Bee). Known for identifying and relaxing blocked areas effectively. Features a lovely, calming atmosphere with nice scents and music. Offers great value, friendly service, and thoughtful extras like tea and stretching tips.
+・Price: Budget-friendly (400 THB/hour for oil massage, overall good price mentioned).
+・Recommended: Anyone looking for a high-quality, professional, and genuinely relaxing massage with personalized attention in a calming environment.
+
+Siamese Spa
+・Rating: 4.9
+・Highlights: Offers an amazing, wonderful spa experience with a serene atmosphere and welcoming, professional staff. Highly praised for skilled therapists who listen to requests and use appropriate pressure (especially noted for aroma oil, hot compress, and foot massages). Consistently delivers one of the best massage experiences, noted for cleanliness and hospitality, including complimentary tea. Allows customization of pressure and focus areas.
+・Price: Mid-range (Specific prices not mentioned, but spa setting suggests mid-range).
+・Recommended: Visitors seeking a top-tier, relaxing spa experience with highly skilled therapists, attention to detail, and a welcoming, clean environment. Ideal for those wanting customized treatments like aroma oil or hot compress massages. 
+
+TSV:
+Name	Rating	Total Reviews	Photo URL 1	Photo URL 2	Photo URL 3	Google Maps Link	Embed URL	Embed Code	review_01	review_02	review_03	review_04	review_05	review_06	review_07	review_08	review_09	review_10	review_11	review_12	review_13	review_14	review_15	review_16	review_17	review_18	review_19	review_20	place_id
+Cho Kaew Thai Massage	4.2	91	https://places.googleapis.com/v1/places/ChIJC8u7vGcG1zARXtlzy268BeY/photos/AeeoHcL557DQEQGlsR2sgntJqwi9R4CQBkaGeExCZbd0exnzRZgQlRTNtus-7_Amj5QE2EOjqqY7SGpFdfYsmP8hqjvvg6ZfcsXjJznwjSWyvMDGl-Ellw6XoHULVyj2nYRdxjnxtrhsPcqqPhIn2l4QoaF4edtgIsuJIRLNyFCyAJzjlATs8mi2F_gc1X5v3QXnyWLxFib57uwMYShuuEK3u8jGPUmelUOAw-zSzIlDstIDTHWP1G_XRSz-bcU1mWfV-azowViS0DwBzgD7MtijSGvw978oiYaH063O6qM_meUdKg/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJC8u7vGcG1zARXtlzy268BeY/photos/AeeoHcJSGp8UDAwPEVA5JOQjNgD6kbzQCCzn0JSf8_--vQA2p4CAQAOyjNS1JkPr5bMD8riZ_1dCOZlqQqLrmTjdntLny_4DZQ1inXjdJmguqLAiKTg5YaaLTiNh6S24tWgdpH-PdCm2f6t5uPQegEfcQ_9Tlbx6ydboC6Ho14I15YlrdR78wlKX0Evlgq3FBe6-L6e65Gcdrg0o7XGfHhdSxg2q38g6QspDWTdFmA4Pl0qggTh9XUWqED0x75A3hJ1L5-28M1LnHum4xBI9D2x_po8ucyePhvL38UbcI5-_K7JJELsITguKYu7dWWHUsnSMCiQEuVMTO_L25jIAkszy01GGuJpklVDu06ncCWE_rxqYbkVC0aVAW30T4PAUlKDXTz6z2X3oVEevcztdi-H5_5mmh0QtwOzYsX0xXUKKiHI/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://places.googleapis.com/v1/places/ChIJC8u7vGcG1zARXtlzy268BeY/photos/AeeoHcLBT6s64NqeJbCAB8ji0YWxQPC2DO-hWMA_WF_jHMozMtVs6CckMlf8ZS9vyz8IP2KxFLEVothE78jePQ1raigoM23cmJxCoAoTrLoeAqFF80f36qCpjh_UYBijliFBbukj-JZZ_1EhlICXvbt5NuaLnhZTojnj9NrSwaywrxR5v5p8s3lRddlYPmGCAqkB6anRPyroTnxG6nku-59n5cQMLQM3eYuGx0Ne6WZYHesrfCzwvPWX8jy2e8thQEHZgVdWjJDULUV3EBiN-t9QyeOy3SOj6qXlIcvjhtpg4JluRWI0buWktbBRKBU7VE2ENeBoUN35N-D6zBJ-at-kN_eQKeUApOQ2qHZKgmXoyLWRZcxmvZKzeAi_gRTdgwMgVwm0lbcSkBCd_khOmkWoQ5rETuIVTLYrTgCpmdJHjzp2Ig/media?key=AIzaSyC_ZZxoQjkItHwRpOlwiEVHPdQZwjbwRHU&maxHeightPx=800	https://www.google.com/maps/place/?q=place_id:ChIJC8u7vGcG1zARXtlzy268BeY	https://www.google.com/maps/embed/v1/place?q=place_id:ChIJC8u7vGcG1zARXtlzy268BeY&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8	<iframe src='https://www.google.com/maps/embed/v1/place?q=place_id:ChIJC8u7vGcG1zARXtlzy268BeY&zoom=17&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8' width='600' height='450' style='border:0' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>	Lilou9 reviews · 2 photos2 months ago Amazing foot massage  with complimentary neck massage at the end and tea. Quiet place and good price. Overall  loved it!Like Share Response from the owner 2 months ago⭐ Thank you for sharing your wonderful experience! Reviews like yours mean the world to us. Looking forward to serving you again 💕 …	Carla Lavado2 reviews · 4 photos6 months ago It was an incredible experience to get massages here. I had a full body massage and it was the best massage I have ever had. It is well worth it since it is enough time for them to leave you feeling like new. Thank you very much.Like Share Response from the owner 3 months agoThank you so much for your kind review! We truly appreciate your support and are delighted to hear that you had a great experience with us. Looking forward to welcoming you again soon!	Dabbie Haworth2 reviews2 months ago Lovely massage here. Very firm but just what I needed. Relaxing and polite atmosphere with tea at the endLike Share Response from the owner 2 months agoWe appreciate your valuable feedback and 5-star support! We look forward to seeing you again soon	justice lootie1 reviewa month ago It is the best foot massage ever  very nice staff and even gave us shoulder and arm massage after for free!Like Share Response from the owner a month agoThank you for your perfect score! It feels like we’ve been granted a magical power! ✨🔮 Can’t wait to create another wonderful experience for you! 💛    …	Arielle Mayberry4 reviewsa month ago Amazing the massages are so nice. Best place to get a massage.felt do good 10/10Like Share Response from the owner a month agoWow~ A perfect 5-star review! 🎉🎊 You just made our day brighter. Hope we can double the happiness for you next time! 😊💛    …	Urszula Hajdas2 reviews2 months ago Fantastic authentic experience! Highly recommended. Thank you Cho Kaew Thai Massage!Like Share Response from the owner 2 months ago⭐ So glad you had a great time with us! Your kind words inspire us to keep improving. Hope to see you again soon! ✨	Lesya Penkova6 reviews · 4 photos3 months ago One of the best massages I have in Thai so far! It was strong and relaxing!Like Share Response from the owner 3 months agoThank you so much for your kind review! We truly appreciate your support and are delighted to hear that you had a great experience with us. Looking forward to welcoming you again soon!	Piotr Szrajner3 reviews · 1 photo2 months ago Very good massage. All muscle groups were very well massaged!Like Share Response from the owner 2 months ago⭐ We’re so happy you had a great experience! Providing excellent service is always our goal. Looking forward to seeing you again! 😊 …	Sarah Line4 reviewsa month ago This was amazing  I used to live here and have been going here  super calming and relaxing!Like Share Response from the owner a month agoWhoa~ Getting 5 stars from you is like winning the happiness lottery! 🎟️💖 Thank you so much  and see you again soon!    …	Lila Lahmiani1 review2 months ago Very good experience! Best massageLike Share Response from the owner 2 months agoWe truly appreciate your perfect rating. Thank you for choosing our service  and we hope to see you again soon	Amazing foot massage  with complimentary neck massage at the end and tea. Quiet place and good price. Overall  loved it!	⭐ Thank you for sharing your wonderful experience! Reviews like yours mean the world to us. Looking forward to serving you again 💕 …	It was an incredible experience to get massages here. I had a full body massage and it was the best massage I have ever had. It is well worth it since it is enough time for them to leave you feeling like new. Thank you very much.	Thank you so much for your kind review! We truly appreciate your support and are delighted to hear that you had a great experience with us. Looking forward to welcoming you again soon!	Lovely massage here. Very firm but just what I needed. Relaxing and polite atmosphere with tea at the end	We appreciate your valuable feedback and 5-star support! We look forward to seeing you again soon	It is the best foot massage ever  very nice staff and even gave us shoulder and arm massage after for free!	Thank you for your perfect score! It feels like we’ve been granted a magical power! ✨🔮 Can’t wait to create another wonderful experience for you! 💛    …	Amazing the massages are so nice. Best place to get a massage.felt do good 10/10	Wow~ A perfect 5-star review! 🎉🎊 You just made our day brighter. Hope we can double the happiness for you next time! 😊💛    …	ChIJC8u7vGcG1zARXtlzy268BeY 
