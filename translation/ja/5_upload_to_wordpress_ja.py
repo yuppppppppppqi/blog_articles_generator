@@ -5,6 +5,7 @@ import re
 import csv
 import mimetypes
 from dotenv import load_dotenv
+from translation.common.utils import load_template, ensure_dir
 
 # --- Constants for project number filtering ---
 MIN_PROJECT_NUMBER = 4
@@ -200,12 +201,11 @@ def generate_post_title(primary_keyword_ja, secondary_keyword_ja, num_sections, 
     title = title.replace("[N]", str(num_sections) if num_sections > 0 else "人気")
     return title
 
-def generate_post_slug(english_project_data_input_dir):
+def generate_post_slug(english_project_data_input_dir, lang_code=None):
     project_name_for_fallback = os.path.basename(os.path.dirname(english_project_data_input_dir))
-    # Generate a simple, clean base slug from the project name for fallbacks
     base_fallback_slug = re.sub(r'[^a-z0-9]+', '-', project_name_for_fallback.lower()).strip('-')
-    if not base_fallback_slug: # Should not happen if project_name_for_fallback is valid
-        base_fallback_slug = f"project-{abs(hash(project_name_for_fallback)) % 10000}" # Robust unique ID
+    if not base_fallback_slug:
+        base_fallback_slug = f"project-{abs(hash(project_name_for_fallback)) % 10000}"
 
     keywords_csv_path = os.path.join(english_project_data_input_dir, "focus_keywords.csv")
     keywords = {}
@@ -213,17 +213,13 @@ def generate_post_slug(english_project_data_input_dir):
         with open(keywords_csv_path, mode='r', encoding='utf-8') as infile:
             reader = csv.DictReader(infile)
             for row in reader:
-                # Robust handling of None for keys and values in the CSV row
                 cleaned_row_keys = {
                     (k.strip().lower() if k is not None else None): (v.strip() if v is not None else "")
                     for k, v in row.items()
                 }
-                # Remove any keys that ended up as None (e.g., from malformed CSV headers)
                 cleaned_row_keys = {k: v for k, v in cleaned_row_keys.items() if k is not None}
-
                 lang = cleaned_row_keys.get("language", "").strip().lower()
                 if lang:
-                    # Ensure default to empty string if keys are missing, then strip
                     primary_kw = cleaned_row_keys.get("primary focus keyword", "")
                     secondary_kw = cleaned_row_keys.get("secondary focus keyword", "")
                     keywords[lang] = {
@@ -232,52 +228,56 @@ def generate_post_slug(english_project_data_input_dir):
                     }
     except FileNotFoundError:
         print(f"    [Warning] Keywords file not found: {keywords_csv_path}. Using fallback slug: {base_fallback_slug}-no-csv")
-        return f"{base_fallback_slug}-no-csv"
+        slug = f"{base_fallback_slug}-no-csv"
+        if lang_code and lang_code != "en":
+            slug = f"{slug}-{lang_code}"
+        return slug
     except Exception as e:
         print(f"    [Error] Reading keywords file {keywords_csv_path} for slug generation: {e}. Using fallback slug: {base_fallback_slug}-csv-error")
-        return f"{base_fallback_slug}-csv-error"
+        slug = f"{base_fallback_slug}-csv-error"
+        if lang_code and lang_code != "en":
+            slug = f"{slug}-{lang_code}"
+        return slug
 
     primary_keyword_en = keywords.get('en', {}).get('Primary Focus Keyword', '').strip()
     secondary_keyword_en_full = keywords.get('en', {}).get('Secondary Focus Keyword', '').strip()
-    
     print(f"    DEBUG SLUG: Loaded EN Primary Keyword: '{primary_keyword_en}'")
     print(f"    DEBUG SLUG: Loaded EN Secondary Keyword (full): '{secondary_keyword_en_full}'")
-
     secondary_keyword_en = secondary_keyword_en_full.split(',')[0].strip() if secondary_keyword_en_full else ""
     print(f"    DEBUG SLUG: Using EN Secondary Keyword (first part): '{secondary_keyword_en}'")
-
     slug_parts = []
     if primary_keyword_en:
         pk_lower = primary_keyword_en.lower()
-        if "best" not in pk_lower.split(" "): # Note: split() without args handles multiple spaces better
+        if "best" not in pk_lower.split(" "):
             slug_parts.append("best")
             print(f"    DEBUG SLUG: Added 'best' to slug_parts: {slug_parts}")
-        
-        slug_parts.extend([part.lower() for part in pk_lower.replace("-", " ").split() if part]) # Use split() for robustness
+        slug_parts.extend([part.lower() for part in pk_lower.replace("-", " ").split() if part])
         print(f"    DEBUG SLUG: slug_parts after primary keyword: {slug_parts}")
-
     if secondary_keyword_en:
         sk_lower = secondary_keyword_en.lower()
-        slug_parts.extend([part.lower() for part in sk_lower.replace("-", " ").split() if part]) # Use split()
+        slug_parts.extend([part.lower() for part in sk_lower.replace("-", " ").split() if part])
         print(f"    DEBUG SLUG: slug_parts after secondary keyword: {slug_parts}")
-    
     if not slug_parts:
         print(f"    [Warning] Could not generate slug from English keywords in {keywords_csv_path} (primary='{primary_keyword_en}', secondary='{secondary_keyword_en}'). Using fallback slug: {base_fallback_slug}-no-en-keywords")
-        return f"{base_fallback_slug}-no-en-keywords"
-
+        slug = f"{base_fallback_slug}-no-en-keywords"
+        if lang_code and lang_code != "en":
+            slug = f"{slug}-{lang_code}"
+        return slug
     processed_slug_parts = []
     for part in slug_parts:
         sub_parts = re.split(r'[-\s]+', part)
         processed_slug_parts.extend([p for p in sub_parts if p])
-
     slug = "-".join(processed_slug_parts)
     slug = re.sub(r"-+", "-", slug)
     slug = slug.strip('-')
-
     if not slug:
         print(f"    [Warning] Slug from keywords became empty after cleaning for {english_project_data_input_dir}. Using fallback slug: {base_fallback_slug}-empty-cleaned-slug")
-        return f"{base_fallback_slug}-empty-cleaned-slug"
-
+        slug = f"{base_fallback_slug}-empty-cleaned-slug"
+        if lang_code and lang_code != "en":
+            slug = f"{slug}-{lang_code}"
+        return slug
+    if lang_code and lang_code != "en":
+        slug = f"{slug}-{lang_code}"
     return slug
 
 def get_potential_featured_image_filenames(generated_english_slug):
@@ -564,10 +564,10 @@ def main():
             english_post_id = None
             if current_lang_code != "en":
                 print(f"  Attempting to find the original English post for linking...")
-                english_slug = generate_post_slug(english_project_data_input_dir)
+                english_slug = generate_post_slug(english_project_data_input_dir, current_lang_code)
                 if english_slug:
                     print(f"    Generated English slug for original post: {english_slug}")
-                    english_post_id = get_post_id_by_slug(english_slug, "en")
+                    english_post_id = get_post_id_by_slug(english_slug, current_lang_code)
                     if english_post_id:
                         print(f"    Found English original post ID: {english_post_id}")
                     else:
@@ -596,7 +596,7 @@ def main():
             post_title = generate_post_title(primary_keyword_for_title, secondary_keyword_for_title, num_sections, lang_code=current_lang_code)
             print(f"  Generated Post Title: {post_title}")
             
-            post_slug = generate_post_slug(english_project_data_input_dir)
+            post_slug = generate_post_slug(english_project_data_input_dir, current_lang_code)
             print(f"  Generated Post Slug: {post_slug}")
 
             featured_media_id = None

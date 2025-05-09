@@ -2,6 +2,7 @@ import os
 import re
 import sys
 import csv # TSVファイルを扱うために追加
+from translation.common.utils import load_template, ensure_dir
 
 # --- 設定 (グローバル) ---
 UPLOAD_DATE_PATH = "2025/05"  # WordPressのアップロードパス日付部分

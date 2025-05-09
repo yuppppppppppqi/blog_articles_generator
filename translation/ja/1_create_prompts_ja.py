@@ -2,6 +2,8 @@ import os
 import shutil
 import glob
 import csv # For reading focus_keywords.csv
+from translation.common.utils import load_template, ensure_dir
+from datetime import datetime
 
 # Configuration
 # shops_file_path will be dynamic
@@ -15,6 +17,19 @@ summary_template_filename = "prompt_to_translate_summary.txt"
 intro_html_template_filename = "prompt_to_generate_intro_html.txt" # New template
 conclusion_html_template_filename = "prompt_to_generate_conclusion_html.txt" # New template
 temp_base_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "temp") # translation/temp
+LANG_CODE = os.path.basename(os.path.dirname(__file__))
+
+# --- 言語ごとディレクトリ自動バックアップ ---
+if os.path.exists(temp_base_dir):
+    for project_dir in os.listdir(temp_base_dir):
+        sections_dir = os.path.join(temp_base_dir, project_dir, "sections")
+        if os.path.isdir(sections_dir):
+            for section in os.listdir(sections_dir):
+                lang_dir = os.path.join(sections_dir, section, LANG_CODE)
+                if os.path.exists(lang_dir):
+                    backup_dir = lang_dir + "_backup_" + datetime.now().strftime("%Y%m%d_%H%M%S")
+                    shutil.move(lang_dir, backup_dir)
+                    print(f"INFO: 既存の {lang_dir} を {backup_dir} にバックアップしました。")
 
 def process_project(project_name):
     print(f"\n--- Processing project: {project_name} ---")

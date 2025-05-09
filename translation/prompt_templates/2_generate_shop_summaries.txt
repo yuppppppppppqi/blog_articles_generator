@@ -1,3 +1,0 @@
-read the following files and run these prompts one by one
-
-[SHOP_SUMMARY_PROMPT_FILE_NAMES_WITH_COMMA]
